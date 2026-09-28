@@ -70,5 +70,56 @@
         "a": "No. The UN and international aid agencies have repeatedly documented direct military strikes and sniper fire on areas the IDF explicitly designated as safe for civilian evacuation."
       }
     ]
+  },
+  {
+    "id": "nakba-historical-denial",
+    "title": "What Exactly Was the Nakba?",
+    "date": "2026-09-29",
+    "category": "Narratives & Tropes",
+    "claim": "The Nakba is merely a disputed scholarly term regarding voluntary population shifts and conflict in 1948, not a systematic expulsion.",
+    "rating": "FALSE",
+    "ratingText": "Historical Revisionism",
+    "truth": "Extensive archival evidence, including declassified documents brought to light by Israeli 'New Historians' (such as Ilan Pappé and Avi Shlaim) and UN archives, confirms the Nakba involved the systematic ethnic cleansing, massacres, and forced expulsion of over 700,000 Palestinians and the destruction of over 500 villages to establish a demographic majority.",
+    "source": "UN Archives, Israeli Archival Records (New Historians)",
+    "faq": [
+      {
+        "q": "Did Palestinians leave voluntarily in 1948?",
+        "a": "No. Historical and archival consensus shows that the vast majority were systematically expelled or fled out of fear of massacres carried out by paramilitary groups."
+      }
+    ]
+  },
+  {
+    "id": "settler-colonialism-icj",
+    "title": "Is Settler Colonialism in the West Bank Illegal?",
+    "date": "2026-09-29",
+    "category": "Israel & Anti-Zionism",
+    "claim": "Settler expansion in the West Bank is a disputed political issue involving historical land rights, not illegal settler-colonialism.",
+    "rating": "FALSE",
+    "ratingText": "Violation of International Law",
+    "truth": "The International Court of Justice (ICJ) ruled in its 2024 Advisory Opinion that Israel's continued presence in the Occupied Palestinian Territory is unlawful and constitutes de facto annexation. The transfer of civilian populations into occupied territory is a direct and universally recognized violation of Article 49 of the Fourth Geneva Convention.",
+    "source": "International Court of Justice (ICJ) 2024 Advisory Opinion, Fourth Geneva Convention",
+    "faq": [
+      {
+        "q": "Are Israeli settlements in the West Bank legal?",
+        "a": "No. The highest international legal bodies, including the ICJ and the UN Security Council, have repeatedly ruled that Israeli settlements violate international law."
+      }
+    ]
+  },
+  {
+    "id": "apartheid-legal-consensus",
+    "title": "Does Israel Practice Apartheid?",
+    "date": "2026-09-29",
+    "category": "Israel & Anti-Zionism",
+    "claim": "Applying the 'Apartheid' label to Israel is a political attack that does not meet international legal definitions.",
+    "rating": "FALSE",
+    "ratingText": "Legal Consensus by Human Rights Organizations",
+    "truth": "Exhaustive, multi-year legal reports by Amnesty International, Human Rights Watch, and the preeminent Israeli human rights group B'Tselem all conclude that Israel's policies of demographic engineering, land confiscation, and discriminatory laws meet the precise legal threshold for the crime of apartheid under the Rome Statute and the 1973 Apartheid Convention.",
+    "source": "Amnesty International, Human Rights Watch, B'Tselem",
+    "faq": [
+      {
+        "q": "Why do organizations call Israel an Apartheid state?",
+        "a": "Because detailed legal analyses of its laws and practices show a systemic, institutionalized regime of oppression and domination by one racial/national group over another, which defines the crime of Apartheid."
+      }
+    ]
   }
 ]
