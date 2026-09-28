@@ -28,12 +28,46 @@
     "claim": "NAZA's claim that the IDF routinely approved strikes expecting hundreds of civilian deaths is unverified and contradicts IDF policy.",
     "rating": "FALSE CLAIM BY HANOVER",
     "ratingText": "Contradicts International Findings",
-    "truth": "Hanover attempts to dismiss testimony from 24 military insiders by citing official IDF policies. However, independent investigations by Amnesty International, Human Rights Watch, and numerous UN special rapporteurs have documented extensive and disproportionate civilian casualties resulting from strikes on residential areas, suggesting systemic disregard for civilian life rather than adherence to stated policies.",
+    "truth": "Hanover attempts to dismiss testimony from military insiders by citing official IDF policies. However, independent investigations by Amnesty International, Human Rights Watch, and UN special rapporteurs have documented extensive and disproportionate civilian casualties resulting from strikes on residential areas, establishing a systemic disregard for civilian life rather than adherence to stated policies.",
     "source": "Amnesty International, Human Rights Watch, UN Reports",
     "faq": [
       {
         "q": "Do independent organizations verify IDF targeting claims?",
-        "a": "Independent human rights organizations repeatedly find discrepancies between stated IDF policies and the reality of disproportionate civilian harm on the ground."
+        "a": "Independent human rights organizations repeatedly find stark discrepancies between stated IDF policies and the reality of disproportionate civilian harm on the ground."
+      }
+    ]
+  },
+  {
+    "id": "ai-targeting-lavender",
+    "title": "Does AI Decide Who the IDF Strikes?",
+    "date": "2026-09-29",
+    "category": "AI & Technology",
+    "claim": "AI software does not decide who the IDF strikes; human personnel make all final decisions using a rigorous approval chain.",
+    "rating": "FALSE / MISLEADING",
+    "ratingText": "AI Automation Masks Human Accountability",
+    "truth": "Investigative reports by +972 Magazine and international human rights monitors reveal the extensive use of AI systems like 'Lavender' and 'Habsora' (The Gospel). Intelligence officers reported treating the AI's output as almost absolute, often spending only '20 seconds' reviewing a target before authorizing strikes, directly leading to mass civilian casualties without genuine human oversight.",
+    "source": "+972 Magazine Investigation, UN Human Rights Council",
+    "faq": [
+      {
+        "q": "What is the Lavender AI system?",
+        "a": "An AI database used by the IDF that generated tens of thousands of kill lists with minimal human verification, tolerating high collateral civilian damage."
+      }
+    ]
+  },
+  {
+    "id": "safe-zone-shootings",
+    "title": "Were Children in Gaza Shot in Areas Designated as Safe?",
+    "date": "2026-09-29",
+    "category": "Incidents & Trends",
+    "claim": "Incidents of civilians and children being harmed in designated safe zones are isolated collateral damage, not deliberate targeting.",
+    "rating": "FALSE",
+    "ratingText": "Documented Systematic Attacks",
+    "truth": "Multiple independent investigations by the BBC, Amnesty International, and UN agencies have verified video evidence and medical testimonies of IDF snipers and drones directly firing upon civilians, including children, inside designated 'safe zones' and along official evacuation routes. These are categorized by international observers as systematic war crimes, not isolated errors.",
+    "source": "BBC Investigations, Amnesty International, UN OCHA",
+    "faq": [
+      {
+        "q": "Are designated safe zones in Gaza actually safe?",
+        "a": "No. The UN and international aid agencies have repeatedly documented direct military strikes and sniper fire on areas the IDF explicitly designated as safe for civilian evacuation."
       }
     ]
   }
