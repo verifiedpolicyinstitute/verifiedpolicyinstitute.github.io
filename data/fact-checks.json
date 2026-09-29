@@ -121,5 +121,39 @@
         "a": "Because detailed legal analyses of its laws and practices show a systemic, institutionalized regime of oppression and domination by one racial/national group over another, which defines the crime of Apartheid."
       }
     ]
+  },
+  {
+    "id": "anti-zionism-antisemitism-conflation",
+    "title": "Is Anti-Zionism Antisemitism?",
+    "date": "2026-09-29",
+    "category": "Discourse & Tropes",
+    "claim": "Anti-Zionism is inherently a form of Antisemitism and serves as a fig leaf for anti-Jewish bigotry.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Conflation to Silence Criticism",
+    "truth": "Conflating anti-Zionism with antisemitism is a recognized political tactic used to shield the State of Israel from accountability for human rights abuses. The Jerusalem Declaration on Antisemitism (signed by hundreds of Holocaust and Jewish studies scholars) and prominent Jewish human rights groups explicitly state that criticizing or opposing Zionism—a political ideology and state nationalism—is not inherently antisemitic.",
+    "source": "The Jerusalem Declaration on Antisemitism, Independent Jewish Voices",
+    "faq": [
+      {
+        "q": "Is criticizing Israel considered antisemitic?",
+        "a": "No. According to major academic definitions like the Jerusalem Declaration, criticizing the policies, laws, or political ideology (Zionism) of the State of Israel is not antisemitic."
+      }
+    ]
+  },
+  {
+    "id": "media-bias-gaza-headlines",
+    "title": "Does the Media Unfairly Frame Israel as the Agent of Violence?",
+    "date": "2026-09-29",
+    "category": "Media & Representation",
+    "claim": "Western media headlines disproportionately and unfairly name Israel as the agent of violence in the Gaza conflict.",
+    "rating": "FALSE",
+    "ratingText": "Projection of Actual Pro-Israel Media Bias",
+    "truth": "Extensive academic and linguistic analyses of Western media coverage reveal the exact opposite. Studies (such as those by The Intercept and various university media labs) consistently show that Western outlets heavily favor Israeli narratives, often using active voice when Israelis are killed (e.g., 'Hamas killed'), but using evasive, passive voice when Palestinians are killed by the IDF (e.g., 'Palestinians died' or 'lives were lost'), thereby obscuring Israel's role as the agent of violence.",
+    "source": "The Intercept Media Analysis, University Linguistics & Media Studies",
+    "faq": [
+      {
+        "q": "Is Western media biased against Israel?",
+        "a": "Quantitative media analyses demonstrate that mainstream Western media actually shows a systemic bias in favor of Israeli official narratives, frequently minimizing Palestinian casualties through passive language."
+      }
+    ]
   }
 ]
