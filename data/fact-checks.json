@@ -13,10 +13,6 @@
       {
         "q": "Who funds the Hanover Institute?",
         "a": "The Israel Government Advertising Agency (LaPam) through intermediate advertising firms."
-      },
-      {
-        "q": "Are Hanover Institute reports peer-reviewed?",
-        "a": "No, they are PR and advertising materials, not academic research."
       }
     ]
   },
@@ -130,12 +126,12 @@
     "claim": "Anti-Zionism is inherently a form of Antisemitism and serves as a fig leaf for anti-Jewish bigotry.",
     "rating": "FALSE / MANIPULATIVE",
     "ratingText": "Conflation to Silence Criticism",
-    "truth": "Conflating anti-Zionism with antisemitism is a recognized political tactic used to shield the State of Israel from accountability for human rights abuses. The Jerusalem Declaration on Antisemitism (signed by hundreds of Holocaust and Jewish studies scholars) and prominent Jewish human rights groups explicitly state that criticizing or opposing Zionism—a political ideology and state nationalism—is not inherently antisemitic.",
+    "truth": "Conflating anti-Zionism with antisemitism is a recognized political tactic used to shield the State of Israel from accountability for human rights abuses. The Jerusalem Declaration on Antisemitism (signed by hundreds of scholars) explicitly states that criticizing or opposing Zionism—a political ideology—is not inherently antisemitic.",
     "source": "The Jerusalem Declaration on Antisemitism, Independent Jewish Voices",
     "faq": [
       {
         "q": "Is criticizing Israel considered antisemitic?",
-        "a": "No. According to major academic definitions like the Jerusalem Declaration, criticizing the policies, laws, or political ideology (Zionism) of the State of Israel is not antisemitic."
+        "a": "No. According to major academic definitions like the Jerusalem Declaration, criticizing the policies, laws, or political ideology of the State of Israel is not antisemitic."
       }
     ]
   },
@@ -147,12 +143,46 @@
     "claim": "Western media headlines disproportionately and unfairly name Israel as the agent of violence in the Gaza conflict.",
     "rating": "FALSE",
     "ratingText": "Projection of Actual Pro-Israel Media Bias",
-    "truth": "Extensive academic and linguistic analyses of Western media coverage reveal the exact opposite. Studies (such as those by The Intercept and various university media labs) consistently show that Western outlets heavily favor Israeli narratives, often using active voice when Israelis are killed (e.g., 'Hamas killed'), but using evasive, passive voice when Palestinians are killed by the IDF (e.g., 'Palestinians died' or 'lives were lost'), thereby obscuring Israel's role as the agent of violence.",
-    "source": "The Intercept Media Analysis, University Linguistics & Media Studies",
+    "truth": "Extensive academic and linguistic analyses of Western media coverage reveal the exact opposite. Studies consistently show that Western outlets heavily favor Israeli narratives, often using active voice when Israelis are killed, but using evasive, passive voice when Palestinians are killed by the IDF (e.g., 'lives were lost'), obscuring Israel's role.",
+    "source": "The Intercept Media Analysis, University Linguistics Studies",
     "faq": [
       {
         "q": "Is Western media biased against Israel?",
-        "a": "Quantitative media analyses demonstrate that mainstream Western media actually shows a systemic bias in favor of Israeli official narratives, frequently minimizing Palestinian casualties through passive language."
+        "a": "Quantitative media analyses demonstrate that mainstream Western media actually shows a systemic bias in favor of Israeli official narratives."
+      }
+    ]
+  },
+  {
+    "id": "starvation-weapon-denial",
+    "title": "Is Israel Using Starvation as a Weapon of War in Gaza?",
+    "date": "2026-09-29",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Israel does not restrict humanitarian aid to Gaza and there is no deliberate policy of starvation.",
+    "rating": "FALSE",
+    "ratingText": "Documented Starvation Campaign",
+    "truth": "International bodies, including Human Rights Watch and the International Criminal Court (ICC) Prosecutor, have presented extensive evidence that Israeli authorities are deliberately impeding humanitarian relief, cutting off water and electricity, and using starvation of civilians as a method of warfare, which constitutes a war crime.",
+    "source": "Human Rights Watch, ICC Prosecutor Statement, UN OCHA",
+    "faq": [
+      {
+        "q": "Is humanitarian aid reaching Gaza freely?",
+        "a": "No. UN and international aid agencies report systemic obstruction, arbitrary denials, and attacks on aid convoys by Israeli forces."
+      }
+    ]
+  },
+  {
+    "id": "civilian-infrastructure-targeting",
+    "title": "Does Israel Intentionally Target Civilian Infrastructure?",
+    "date": "2026-09-29",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Israel strictly adheres to international law and only strikes military targets, while civilian infrastructure damage is collateral.",
+    "rating": "FALSE",
+    "ratingText": "Systematic Destruction (Domicide)",
+    "truth": "Satellite analysis, UN damage assessments, and independent investigations show the systematic and deliberate destruction of universities, hospitals, water treatment facilities, and entire residential neighborhoods. UN experts have coined the term 'domicide' to describe the massive, intentional leveling of civilian infrastructure designed to make Gaza uninhabitable.",
+    "source": "UN Experts, Satellite Data Analysis, Amnesty International",
+    "faq": [
+      {
+        "q": "Are hospitals and schools targeted intentionally?",
+        "a": "Yes. Independent investigations have documented systematic strikes on healthcare and educational facilities, often without credible evidence of military use justifying the total destruction."
       }
     ]
   }
