@@ -185,5 +185,73 @@
         "a": "Yes. Independent investigations have documented systematic strikes on healthcare and educational facilities, often without credible evidence of military use justifying the total destruction."
       }
     ]
+  },
+  {
+    "id": "gaza-casualty-figures-propaganda",
+    "title": "Are Gaza’s Casualty Figures Propaganda?",
+    "date": "2026-09-29",
+    "category": "Method & Statistics",
+    "claim": "Gaza Health Ministry casualty figures are Hamas propaganda, statistically impossible, and drastically overcount women and children.",
+    "rating": "FALSE",
+    "ratingText": "Verified by Independent Medical Journals",
+    "truth": "Historical and current data analysis by independent bodies, including the World Health Organization (WHO) and The Lancet medical journal, have repeatedly found the Gaza Health Ministry's fatality records to be highly accurate. Even Israeli intelligence services have historically relied on these figures internally, and independent researchers confirm there is no evidence of systemic data fabrication.",
+    "source": "The Lancet, World Health Organization (WHO)",
+    "faq": [
+      {
+        "q": "Can the Gaza Health Ministry death toll be trusted?",
+        "a": "Yes. Independent health experts and international medical journals have verified that the Ministry's data collection methods are historically reliable and often end up being undercounts due to unrecovered bodies."
+      }
+    ]
+  },
+  {
+    "id": "legal-status-occupation",
+    "title": "Does 'Occupation' Still Describe Israel's Presence?",
+    "date": "2026-09-29",
+    "category": "Israel & Anti-Zionism",
+    "claim": "Israel is not an occupying power because there was never a sovereign Palestinian state to occupy.",
+    "rating": "FALSE",
+    "ratingText": "Contradicts Universal Legal Consensus",
+    "truth": "The legal status of occupation depends on effective military control over territory, not prior statehood. The UN Security Council, the International Court of Justice (ICJ), and the International Committee of the Red Cross uniformly classify the West Bank, East Jerusalem, and Gaza as Occupied Palestinian Territory bound by the Fourth Geneva Convention.",
+    "source": "International Court of Justice (ICJ), UN Security Council",
+    "faq": [
+      {
+        "q": "Is Israel legally considered an occupying power?",
+        "a": "Yes. The highest international legal and humanitarian bodies unanimously recognize Israel as the occupying power in the Palestinian territories."
+      }
+    ]
+  },
+  {
+    "id": "unrwa-terrorism-infiltration",
+    "title": "Is UNRWA Infiltrated by Terrorists?",
+    "date": "2026-09-29",
+    "category": "Incidents & Trends",
+    "claim": "UNRWA operates as an arm of Hamas and is deeply infiltrated by terrorists.",
+    "rating": "FALSE",
+    "ratingText": "Unsubstantiated Allegations",
+    "truth": "The independent Colonna Review, commissioned by the United Nations, concluded that Israel provided no corroborating evidence for its claims that a significant number of UNRWA staff were involved in terrorist organizations. The review confirmed UNRWA possesses robust neutrality frameworks, rendering the systemic infiltration claims unsubstantiated.",
+    "source": "The Independent Colonna Review (UN)",
+    "faq": [
+      {
+        "q": "Did the UN find evidence that UNRWA is a terrorist front?",
+        "a": "No. An independent review found no evidence from Israel to support claims of widespread terrorist infiltration within UNRWA."
+      }
+    ]
+  },
+  {
+    "id": "population-growth-genocide-defense",
+    "title": "Does Population Growth Disprove Ethnic Cleansing or Genocide?",
+    "date": "2026-09-29",
+    "category": "Narratives & Tropes",
+    "claim": "The rapid growth of the Palestinian population proves that Israel is not committing ethnic cleansing or genocide.",
+    "rating": "FALSE",
+    "ratingText": "Logical Fallacy & Legal Misrepresentation",
+    "truth": "Under international law (the 1948 Genocide Convention), genocide and ethnic cleansing are defined by the intent and acts to destroy or forcibly displace a specific group in whole or in part, not by decadal population growth rates. Utilizing birth rates to dismiss documented mass killings, forced displacement, and deliberate infliction of unlivable conditions is a recognized logical fallacy.",
+    "source": "1948 Genocide Convention, International Legal Scholars",
+    "faq": [
+      {
+        "q": "Does a growing population mean genocide isn't happening?",
+        "a": "No. International law defines genocide by the intent and specific acts of destruction (such as mass killings and creating unlivable conditions), regardless of historical birth rates."
+      }
+    ]
   }
 ]
