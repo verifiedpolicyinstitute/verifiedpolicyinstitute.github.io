@@ -20,15 +20,18 @@
     </script>
 
     <style>
-        :root { --bg: #f8fafc; --text: #0f172a; --accent: #1e3a8a; }
+        :root { --bg: #f8fafc; --text: #0f172a; --accent: #1e3a8a; --danger: #ef4444; }
         body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 0; }
-        header { background: var(--accent); color: white; padding: 2rem 1rem; text-align: center; }
-        nav { margin-top: 1rem; }
-        nav a { color: #fff; text-decoration: none; margin: 0 15px; font-weight: bold; border-bottom: 2px solid transparent;}
-        nav a:hover { border-bottom: 2px solid #fff; }
-        main { max-width: 800px; margin: 2rem auto; padding: 2rem; background: white; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); border-radius: 8px;}
-        h1, h2 { color: var(--accent); }
-        h2 { border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-top: 2rem; }
+        header { background: var(--accent); color: white; padding: 3rem 1rem; text-align: center; border-bottom: 4px solid #0f172a; }
+        main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+        .intro { text-align: center; margin-bottom: 3rem; font-size: 1.1rem;}
+        .fact-check-box { background: white; border-left: 6px solid var(--danger); padding: 2rem; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); margin-bottom: 2rem; border-radius: 4px;}
+        h1 { margin-bottom: 0.5rem; font-size: 2.5rem;}
+        h2.section-title { border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-top: 2rem; margin-bottom: 1.5rem;}
+        .badge { display: inline-block; padding: 0.35rem 1rem; border-radius: 9999px; font-weight: bold; font-size: 0.875rem; letter-spacing: 0.05em; }
+        .badge-false { background: #fee2e2; color: #991b1b; border: 1px solid #f87171;}
+        .truth-section { background: #f0fdf4; padding: 1rem; border-left: 4px solid #16a34a; margin-top: 1rem; border-radius: 4px;}
+        .loading { text-align: center; font-style: italic; color: #64748b; }
     </style>
 </head>
 <body>
