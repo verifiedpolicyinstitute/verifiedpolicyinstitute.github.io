@@ -424,4 +424,90 @@
       }
     ]
   }
+,
+  {
+    "id": "campus-encampments-violence",
+    "title": "Are Pro-Palestinian Campus Encampments Inherently Violent?",
+    "date": "2026-10-01",
+    "category": "Campus & Civil Rights",
+    "claim": "University encampments are violent hubs of antisemitism that physically threaten Jewish students.",
+    "rating": "FALSE",
+    "ratingText": "Overwhelmingly Peaceful Protest",
+    "truth": "Independent analysis by conflict monitoring groups (such as ACLED) reveals that over 97% of pro-Palestinian student demonstrations and encampments have been strictly peaceful. When violence has occurred, it has predominantly been initiated by outside counter-protesters attacking the camps or by heavily militarized police crackdowns requested by university administrations.",
+    "source": "ACLED (Armed Conflict Location & Event Data Project), Independent Journalism",
+    "faq": [
+      {
+        "q": "Were the campus encampments violent?",
+        "a": "No. Data shows over 97% of these student protests were completely peaceful until external interventions (counter-protesters or riot police) escalated the situation."
+      }
+    ]
+  },
+  {
+    "id": "outside-agitators-trope",
+    "title": "Are Campus Protests Led by 'Outside Agitators'?",
+    "date": "2026-10-01",
+    "category": "Campus & Civil Rights",
+    "claim": "The protests are not grassroots student movements but are organized and funded by professional 'outside agitators'.",
+    "rating": "FALSE",
+    "ratingText": "Classic Civil Rights Smear Tactic",
+    "truth": "Arrest records from major universities and demographic data confirm that the overwhelming majority of participants are currently enrolled students, faculty, and alumni. The 'outside agitator' narrative is a documented historical trope, famously used during the 1960s Civil Rights Movement to delegitimize grassroots organizing and justify police brutality against students.",
+    "source": "University Arrest Records, Historical Civil Rights Analyses",
+    "faq": [
+      {
+        "q": "Who is really organizing the campus protests?",
+        "a": "Enrolled university students and faculty members. The 'outside agitator' claim is a historically proven political smear used to invalidate student movements."
+      }
+    ]
+  },
+  {
+    "id": "jewish-student-participation",
+    "title": "Are Protests Directed Against Jewish Students?",
+    "date": "2026-10-01",
+    "category": "Campus & Civil Rights",
+    "claim": "The campus protests are religiously motivated and target Jewish students on campus.",
+    "rating": "FALSE / MISLEADING",
+    "ratingText": "Significant Jewish Participation in Protests",
+    "truth": "State-sponsored PR intentionally ignores that a massive contingent of the protesters and organizers are themselves Jewish students. Organizations like Jewish Voice for Peace (JVP) and IfNotNow have been central to the encampments, holding Shabbat services and Passover Seders within the protest zones, proving the movement is focused on human rights and anti-Zionism, not religious bigotry.",
+    "source": "Jewish Voice for Peace (JVP), Campus Investigative Reporting",
+    "faq": [
+      {
+        "q": "Are Jewish students participating in the anti-war protests?",
+        "a": "Yes, in large numbers. Many Jewish student organizations are leading members of the coalitions organizing the encampments."
+      }
+    ]
+  },
+  {
+    "id": "ihra-weaponization-free-speech",
+    "title": "Does the IHRA Definition Protect Students or Censor Speech?",
+    "date": "2026-10-01",
+    "category": "Discourse & Tropes",
+    "claim": "Universities must adopt the IHRA definition of antisemitism to protect students from hate speech.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Weaponized to Censor Academic Freedom",
+    "truth": "The original lead drafter of the IHRA definition, Kenneth Stern, has publicly testified that right-wing groups are weaponizing the definition to suppress legitimate political speech and academic freedom on campuses. Many academic institutions and scholars prefer the 'Jerusalem Declaration on Antisemitism', which explicitly protects both Jewish students and the First Amendment right to criticize the State of Israel.",
+    "source": "Kenneth Stern (IHRA Drafter Testimony), The Jerusalem Declaration",
+    "faq": [
+      {
+        "q": "Is the IHRA definition used to silence political speech?",
+        "a": "Yes. Even its original author has warned that political lobbying groups are abusing the definition to censor academic freedom and legitimate criticism of Israeli state policies."
+      }
+    ]
+  },
+  {
+    "id": "divestment-demands-legality",
+    "title": "Are Student Demands for Divestment Illegal?",
+    "date": "2026-10-01",
+    "category": "Campus & Civil Rights",
+    "claim": "Student demands for university divestment from Israel are inherently antisemitic and violate anti-BDS laws.",
+    "rating": "FALSE",
+    "ratingText": "Protected First Amendment Advocacy",
+    "truth": "Student demands are highly specific: they ask universities to disclose and divest endowment funds from weapons manufacturers and corporations complicit in human rights violations, not to target individuals. This is protected First Amendment political advocacy, mirroring the successful and legal historical campus divestment campaigns against Apartheid South Africa in the 1980s.",
+    "source": "First Amendment Legal Precedents, Historical Anti-Apartheid Archives",
+    "faq": [
+      {
+        "q": "What do divesting students actually want?",
+        "a": "They demand that their tuition and university endowments are not invested in weapons manufacturers or companies actively participating in human rights violations."
+      }
+    ]
+  }
 ]
