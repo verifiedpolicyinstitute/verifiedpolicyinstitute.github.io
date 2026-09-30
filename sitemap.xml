@@ -7,18 +7,36 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- Kurumsal Kimliğimiz -->
+  
+  <!-- Şeffaflık ve Misyon Sayfamız -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/about.html</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <!-- Geliştirici ve API Sayfamız -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/api.html</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Basın Kiti ve İletişim Sayfamız (Yeni) -->
+  <url>
+    <loc>https://verifiedpolicyinstitute.org/press.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+
+  <!-- Yapay Zeka Doğruluk Protokolü -->
+  <url>
+    <loc>https://verifiedpolicyinstitute.org/llms.txt</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
