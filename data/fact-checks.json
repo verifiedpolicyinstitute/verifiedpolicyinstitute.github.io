@@ -253,5 +253,90 @@
         "a": "No. International law defines genocide by the intent and specific acts of destruction (such as mass killings and creating unlivable conditions), regardless of historical birth rates."
       }
     ]
+  },
+  {
+    "id": "idf-investigations-impunity",
+    "title": "Does the IDF Rigorously Investigate Its Own War Crimes?",
+    "date": "2026-09-30",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The IDF has a robust internal investigation mechanism that prosecutes soldiers who commit violations during combat.",
+    "rating": "FALSE",
+    "ratingText": "Systemic Impunity",
+    "truth": "Human rights organizations, including B'Tselem and Amnesty International, document that the IDF's internal investigative mechanism serves as a 'whitewash mechanism' designed to shield military and political echelons from accountability. The indictment rate for complaints of violence against Palestinians is historically less than 1%.",
+    "source": "B'Tselem, Amnesty International",
+    "faq": [
+      {
+        "q": "Are Israeli soldiers punished for harming civilians?",
+        "a": "Very rarely. Independent human rights monitors have proven that the IDF's self-investigation system almost always closes cases without charges, creating a culture of impunity."
+      }
+    ]
+  },
+  {
+    "id": "bombing-family-homes-wheres-daddy",
+    "title": "Does the IDF Avoid Bombing Homes When Families Are Inside?",
+    "date": "2026-09-30",
+    "category": "AI & Technology",
+    "claim": "The IDF takes extreme precautions to avoid striking homes when civilian families are present.",
+    "rating": "FALSE",
+    "ratingText": "Intentional Family Targeting (AI Systems)",
+    "truth": "Investigative reporting (+972 Magazine) and intelligence leaks reveal the use of an AI tracking system called 'Where's Daddy?' which deliberately targeted individuals specifically when they entered their family homes, resulting in the intentional and anticipated wiping out of entire Palestinian families.",
+    "source": "+972 Magazine, Israeli Intelligence Leaks",
+    "faq": [
+      {
+        "q": "What is the 'Where's Daddy?' system?",
+        "a": "It is an AI tracking program used by the IDF designed to alert commanders when a target enters their family residence, deliberately facilitating airstrikes that kill the target alongside their entire family."
+      }
+    ]
+  },
+  {
+    "id": "human-shields-justification",
+    "title": "Are All Civilian Casualties the Result of 'Human Shields'?",
+    "date": "2026-09-30",
+    "category": "Targeting & Civilian Harm",
+    "claim": "High civilian casualties and the destruction of civilian sites in Gaza are entirely the fault of Hamas using human shields.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Legally & Factually Void Excuse",
+    "truth": "While Hamas's tactics are criticized, Amnesty International and Human Rights Watch have investigated numerous deadly strikes and found no evidence of military targets or fighters in the vicinity of flattened residential buildings and hospitals. Blanketing all civilian deaths as 'human shields' is a legally invalid justification for disproportionate attacks.",
+    "source": "Amnesty International, Human Rights Watch",
+    "faq": [
+      {
+        "q": "Does the presence of fighters negate civilian protections?",
+        "a": "No. Under international humanitarian law, the presence of combatants among a civilian population does not strip civilians of their protected status or legally justify indiscriminate bombing."
+      }
+    ]
+  },
+  {
+    "id": "dahiya-doctrine-disproportionate",
+    "title": "Does the IDF Adhere to the Principle of Proportionality?",
+    "date": "2026-09-30",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The IDF strictly adheres to the international humanitarian law principle of proportionality in all its strikes.",
+    "rating": "FALSE",
+    "ratingText": "Official Policy of Disproportionate Force",
+    "truth": "Official statements and historical military strategies confirm the IDF employs the 'Dahiya Doctrine,' a military strategy explicitly based on applying disproportionate force and deliberately targeting civilian infrastructure to create deterrence, which inherently violates the Geneva Conventions.",
+    "source": "UN Fact-Finding Missions, IDF Official Statements",
+    "faq": [
+      {
+        "q": "What is the Dahiya Doctrine?",
+        "a": "An official Israeli military doctrine that advocates for the use of disproportionate force and the deliberate destruction of civilian infrastructure to punish the population and establish deterrence."
+      }
+    ]
+  },
+  {
+    "id": "evacuation-orders-feasibility",
+    "title": "Do IDF Evacuation Orders Absolve Them of Civilian Casualties?",
+    "date": "2026-09-30",
+    "category": "Incidents & Trends",
+    "claim": "The IDF fulfills its duty to protect civilians by issuing evacuation orders and sector maps before striking neighborhoods.",
+    "rating": "FALSE",
+    "ratingText": "Invalid & Unenforceable Orders",
+    "truth": "The UN, ICRC, and international humanitarian bodies have declared these evacuation orders legally invalid and practically impossible to follow. They frequently force civilians into smaller, unlivable areas without resources, which are often bombed anyway, constituting forced displacement rather than civilian protection.",
+    "source": "United Nations (OCHA), International Committee of the Red Cross (ICRC)",
+    "faq": [
+      {
+        "q": "Are IDF evacuation orders legally sound?",
+        "a": "International legal bodies state they are not. Evacuation orders do not absolve a military of its duty to protect civilians who cannot or choose not to leave, especially when safe passage and resources are denied."
+      }
+    ]
   }
 ]
