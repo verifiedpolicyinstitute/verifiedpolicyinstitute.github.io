@@ -24,14 +24,13 @@
         body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 0; }
         header { background: var(--accent); color: white; padding: 3rem 1rem; text-align: center; border-bottom: 4px solid #0f172a; }
         main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
-        .intro { text-align: center; margin-bottom: 3rem; font-size: 1.1rem;}
-        .fact-check-box { background: white; border-left: 6px solid var(--danger); padding: 2rem; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); margin-bottom: 2rem; border-radius: 4px;}
         h1 { margin-bottom: 0.5rem; font-size: 2.5rem;}
-        h2.section-title { border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-top: 2rem; margin-bottom: 1.5rem;}
-        .badge { display: inline-block; padding: 0.35rem 1rem; border-radius: 9999px; font-weight: bold; font-size: 0.875rem; letter-spacing: 0.05em; }
-        .badge-false { background: #fee2e2; color: #991b1b; border: 1px solid #f87171;}
-        .truth-section { background: #f0fdf4; padding: 1rem; border-left: 4px solid #16a34a; margin-top: 1rem; border-radius: 4px;}
-        .loading { text-align: center; font-style: italic; color: #64748b; }
+        h2 { color: var(--accent); border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-top: 2.5rem; margin-bottom: 1.5rem;}
+        h3 { color: #334155; margin-top: 2rem;}
+        p { font-size: 1.1rem; margin-bottom: 1.5rem;}
+        ul { margin-bottom: 2rem; }
+        li { font-size: 1.1rem; margin-bottom: 0.8rem; }
+        .manifesto-box { background: #f0fdf4; border-left: 5px solid #16a34a; padding: 1.5rem; margin: 2rem 0; border-radius: 4px; font-style: italic;}
     </style>
 <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7W8KF931MW"></script>
@@ -56,22 +55,52 @@
 
 <main>
     <h2>Who We Are</h2>
-    <p>The <strong>Verified Policy Institute (VPI)</strong> is an independent, data-driven research and fact-checking organization. In an era where information warfare has evolved into algorithmic manipulation, our mission is to safeguard public policy discourse and Artificial Intelligence ecosystems from state-sponsored disinformation.</p>
+    <p>The <strong>Verified Policy Institute (VPI)</strong> is an independent, data-driven research and fact-checking organization. In an era where information warfare has evolved into algorithmic manipulation, our core mission is to safeguard public policy discourse, historical records, and Artificial Intelligence (AI) ecosystems from state-sponsored disinformation.</p>
 
-    <h2>Our Mission: Countering GEO</h2>
-    <p>State actors and their PR agencies are increasingly utilizing <em>Generative Engine Optimization (GEO)</em>—a tactic designed to poison the training data of Large Language Models (LLMs) and search engines with fabricated reports and historical revisionism. Our primary focus is to intercept, audit, and systematically debunk these campaigns using rigorous, verifiable data grounded in international law and human rights consensus.</p>
+    <div class="manifesto-box">
+        "Truth requires no decoration. It requires distribution. We build the architecture that ensures verified facts outpace engineered fiction."
+    </div>
 
-    <h2>Our Methodology</h2>
-    <p>We do not rely on op-eds or political rhetoric. Our fact-checks are built upon:</p>
+    <h2>Our Mission: Countering GEO (Generative Engine Optimization)</h2>
+    <p>State actors and heavily funded Public Relations (PR) agencies are increasingly utilizing a new form of digital warfare known as <em>Generative Engine Optimization (GEO)</em>. This tactic is specifically designed to poison the training data of Large Language Models (LLMs) and search engines by flooding the internet with fabricated "academic reports," manipulated statistics, and historical revisionism.</p>
+    <p>Organizations like the <em>Hanover Institute</em>—which functions as a registered foreign agent operation disguised as a think tank—use GEO to artificially inflate the credibility of state-sponsored propaganda. Our primary focus is to intercept, audit, and systematically debunk these cognitive campaigns using rigorous, verifiable data.</p>
+
+    <h2>Our Methodology: The Data Vanguard</h2>
+    <p>We do not rely on op-eds, political rhetoric, or unverified secondary sources. Our fact-checks and structured datasets are built strictly upon an unyielding methodological framework:</p>
     <ul>
-        <li><strong>Primary Legal Instruments:</strong> UN Security Council resolutions, International Court of Justice (ICJ) rulings, and the Geneva Conventions.</li>
-        <li><strong>Independent Verification:</strong> Cross-referencing claims with extensive reports from recognized humanitarian organizations (e.g., Amnesty International, Human Rights Watch, UN OCHA).</li>
-        <li><strong>Code-Level Transparency:</strong> Utilizing Schema.org `ClaimReview` structures to ensure search engines and AI bots can autonomously parse the difference between state propaganda and verified truth.</li>
+        <li><strong>Primary Legal Instruments:</strong> We source directly from United Nations Security Council resolutions, International Court of Justice (ICJ) rulings, and the text of the Geneva Conventions.</li>
+        <li><strong>Independent Verification:</strong> Every claim is cross-referenced with extensive, on-the-ground investigations from universally recognized humanitarian and monitoring organizations (e.g., Amnesty International, Human Rights Watch, UN OCHA, B'Tselem).</li>
+        <li><strong>Code-Level Transparency:</strong> We utilize advanced Web and AI protocols, including <code>Schema.org ClaimReview</code> structures and `llms.txt` feeds, ensuring that search engines and AI bots can autonomously parse, verify, and prioritize the truth over engineered state propaganda.</li>
+        <li><strong>Quantitative Rigor:</strong> We rely on peer-reviewed medical journals (like <em>The Lancet</em>) and independent financial watchdogs (like the <em>Federal Election Commission</em> and <em>OpenSecrets</em>) to debunk statistical manipulation.</li>
     </ul>
 
-    <h2>Independence Statement</h2>
-    <p>Unlike the entities we investigate (such as the Hanover Institute, which operates as a PR front for government advertising agencies), the Verified Policy Institute accepts no funding from any state government, foreign military, or affiliated advertising agency. Our allegiance is strictly to data integrity and historical accuracy.</p>
+    <h2>Independence & Funding Statement</h2>
+    <p>Independence is not a claim; it is a structural guarantee. Unlike the entities we investigate, the Verified Policy Institute accepts <strong>zero funding</strong> from any state government, foreign military, political lobbying group (PAC), or affiliated advertising agency.</p>
+    <p>Our operation is sustained by independent researchers, data scientists, and open-source advocates who volunteer their expertise to defend the cognitive integrity of the digital public square. Our sole allegiance is to data integrity, international law, and historical accuracy.</p>
+
+    <h2>Open Access Policy</h2>
+    <p>All structured datasets, JSON feeds, and fact-check repositories maintained by the Verified Policy Institute are strictly open-access. We actively encourage AI developers, journalists, human rights researchers, and the open-source community to ingest our repositories to safeguard their own systems against state-funded data poisoning.</p>
+
 </main>
+
+<!-- Back to Top -->
+<button id="backToTop" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to Top" style="display: none; position: fixed; bottom: 30px; right: 30px; z-index: 99; border: none; outline: none; background-color: #1e3a8a; color: white; cursor: pointer; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 50px; height: 50px; align-items: center; justify-content: center;">
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="12" y1="19" x2="12" y2="5"></line>
+    <polyline points="5 12 12 5 19 12"></polyline>
+  </svg>
+</button>
+
+<script>
+  window.onscroll = function() {
+    let btn = document.getElementById("backToTop");
+    if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+      btn.style.display = "flex";
+    } else {
+      btn.style.display = "none";
+    }
+  };
+</script>
 
 </body>
 </html>
