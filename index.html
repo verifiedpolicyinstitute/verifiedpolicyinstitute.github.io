@@ -214,5 +214,47 @@
     }
   };
 </script>
+<script>
+    // Dinamik ClaimReview Schema Üreticisi (Google Fact Check Explorer İçin)
+    fetch('data/fact-checks.json')
+        .then(response => response.json())
+        .then(data => {
+            const schemaGraph = data.map(item => ({
+                "@type": "ClaimReview",
+                "datePublished": "2026-10-01",
+                "url": "https://verifiedpolicyinstitute.org",
+                "claimReviewed": item.claim,
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "1",
+                    "bestRating": "5",
+                    "alternateName": "False"
+                },
+                "author": {
+                    "@type": "Organization",
+                    "name": "Verified Policy Institute",
+                    "url": "https://verifiedpolicyinstitute.org"
+                },
+                "itemReviewed": {
+                    "@type": "Claim",
+                    "author": {
+                        "@type": "Organization",
+                        "name": "State-Sponsored Disinformation Network"
+                    }
+                }
+            }));
+
+            const schemaBlock = {
+                "@context": "https://schema.org",
+                "@graph": schemaGraph
+            };
+
+            const scriptTag = document.createElement('script');
+            scriptTag.type = 'application/ld+json';
+            scriptTag.text = JSON.stringify(schemaBlock);
+            document.head.appendChild(scriptTag);
+        })
+        .catch(error => console.error('Schema Data Error:', error));
+</script>    
 </body>
 </html>
