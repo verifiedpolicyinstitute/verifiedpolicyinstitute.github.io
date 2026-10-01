@@ -508,5 +508,90 @@
         "a": "They demand that their tuition and university endowments are not invested in weapons manufacturers or companies actively participating in human rights violations."
       }
     ]
+  },
+  {
+    "id": "scholasticide-cultural-erasure",
+    "title": "Is the Destruction of Universities and Cultural Sites 'Collateral Damage'?",
+    "date": "2026-10-02",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Damage to Gaza's universities, schools, and cultural heritage sites is unfortunate collateral damage caused by military combat and militant use of these facilities.",
+    "rating": "FALSE",
+    "ratingText": "Deliberate Erasure (Scholasticide)",
+    "truth": "UN experts and independent academic watchdogs have documented the systematic, controlled demolition of every university in Gaza and hundreds of historical sites. Video evidence shows these institutions were often rigged with explosives and blown up by ground forces long after being occupied and cleared, demonstrating a deliberate policy of cultural erasure and 'scholasticide' rather than collateral military necessity.",
+    "source": "UN Human Rights Experts, Euro-Med Human Rights Monitor",
+    "faq": [
+      {
+        "q": "Were universities destroyed during active combat?",
+        "a": "Many were not. Video evidence published by soldiers themselves shows universities being destroyed in controlled, rigged demolitions weeks after the areas were fully secured by the military."
+      }
+    ]
+  },
+  {
+    "id": "prisoner-abuse-sde-teiman",
+    "title": "Does Israel Prohibit and Investigate Torture of Palestinian Prisoners?",
+    "date": "2026-10-02",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Mistreatment of Palestinian prisoners is strictly prohibited by law, and any isolated abuses by soldiers are rigorously investigated and prosecuted.",
+    "rating": "FALSE",
+    "ratingText": "Systemic State-Sanctioned Torture",
+    "truth": "Investigations by Amnesty International, B'Tselem, and whistleblower testimonies to major global news outlets confirm systemic, institutionalized torture at detention facilities like Sde Teiman. Reports document severe physical abuse, sexual violence, amputations due to zip-ties, and denial of medical care, establishing this as a widespread policy rather than isolated acts by rogue soldiers.",
+    "source": "B'Tselem Report, Amnesty International, Whistleblower Medical Staff",
+    "faq": [
+      {
+        "q": "Are prison abuses just the actions of a few rogue soldiers?",
+        "a": "No. Whistleblowers, including Israeli medical staff at these facilities, have testified that extreme abuse and denial of basic medical care are standard, institutionalized practices at these camps."
+      }
+    ]
+  },
+  {
+    "id": "journalist-targeting-media-blackout",
+    "title": "Are High Journalist Casualties Just the Reality of a War Zone?",
+    "date": "2026-10-02",
+    "category": "Media & Representation",
+    "claim": "The military does not intentionally target journalists; high casualty rates among reporters are the tragic reality of covering a dense urban war zone.",
+    "rating": "FALSE",
+    "ratingText": "Targeted Assassination & Media Blackout",
+    "truth": "The Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF) have found a deliberate pattern of targeting journalists and their families to enforce a media blackout. Forensic investigations into specific killings reveal precision strikes on clearly press-marked vehicles, journalist encampments, and personnel far from active combat zones.",
+    "source": "Committee to Protect Journalists (CPJ), Reporters Without Borders (RSF)",
+    "faq": [
+      {
+        "q": "Were journalists killed by accident in crossfire?",
+        "a": "While some died in bombardments, independent investigations have verified numerous cases of journalists in clearly marked \"PRESS\" gear being killed by precision drone strikes in areas with no active combat."
+      }
+    ]
+  },
+  {
+    "id": "us-arms-leahy-law-violations",
+    "title": "Do US Arms Transfers Comply with Human Rights Laws?",
+    "date": "2026-10-02",
+    "category": "Lobbying & Influence",
+    "claim": "US arms transfers to Israel strictly comply with US domestic laws, including the Leahy Law, ensuring weapons are not used in human rights violations.",
+    "rating": "FALSE",
+    "ratingText": "Documented Violations of US Law",
+    "truth": "Internal State Department memos, resigning US officials, and independent legal reviews conclude that the continued transfer of weapons violates the Foreign Assistance Act and the Leahy Laws. These laws explicitly forbid military aid to forces restricting humanitarian aid or committing gross human rights violations—both of which have been thoroughly documented by the UN and international NGOs.",
+    "source": "US State Department Internal Dissents, Independent Legal Monitors",
+    "faq": [
+      {
+        "q": "What is the Leahy Law?",
+        "a": "It is a US human rights law that prohibits the US from providing military assistance to foreign security force units that violate human rights with impunity."
+      }
+    ]
+  },
+  {
+    "id": "settler-state-collusion-west-bank",
+    "title": "Is Settler Violence in the West Bank Independent of the State?",
+    "date": "2026-10-02",
+    "category": "Incidents & Trends",
+    "claim": "Settler violence in the West Bank is carried out by fringe extremists acting independently, and Israeli security forces work to maintain order.",
+    "rating": "FALSE",
+    "ratingText": "State-Backed Paramilitary Violence",
+    "truth": "Video evidence, UN reports, and Israeli human rights groups (like Yesh Din) confirm that settler violence is a state-backed paramilitary policy. Settlers are frequently armed by government ministries, and military personnel routinely stand by or actively participate in coordinated attacks on Palestinian villages, facilitating forced displacement.",
+    "source": "Yesh Din, UN OCHA, Human Rights Watch",
+    "faq": [
+      {
+        "q": "Does the military stop violent settlers?",
+        "a": "Extensive video documentation and NGO reports show the military frequently protecting and even assisting settlers while they attack Palestinian homes and agricultural lands."
+      }
+    ]
   }
 ]
