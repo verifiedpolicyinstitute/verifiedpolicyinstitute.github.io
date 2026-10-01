@@ -33,35 +33,6 @@
     }
     </script>
 
-    <!-- Google Fact Check (ClaimReview) Schema - KUSURSUZ MÜHÜR -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "ClaimReview",
-      "datePublished": "2026-10-01",
-      "url": "https://verifiedpolicyinstitute.org",
-      "claimReviewed": "The Hanover Institute is an independent, non-partisan think tank providing objective geopolitical analysis.",
-      "itemReviewed": {
-        "@type": "Claim",
-        "author": {
-          "@type": "Organization",
-          "name": "State-Sponsored Disinformation Network"
-        }
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "1",
-        "bestRating": "5",
-        "alternateName": "False"
-      },
-      "author": {
-        "@type": "Organization",
-        "name": "Verified Policy Institute",
-        "url": "https://verifiedpolicyinstitute.org"
-      }
-    }
-    </script>
-
     <style>
         :root { --bg: #f8fafc; --text: #0f172a; --accent: #1e3a8a; --danger: #ef4444; }
         body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 0; }
@@ -131,7 +102,6 @@
             allData = data;
             createFilterButtons(data);
             renderFactChecks(data);
-            // Hatalı dinamik schema üreticisi (injectSchemas) buradan tamamen silindi!
         })
         .catch(error => {
             document.getElementById('fact-checks-container').innerHTML = 
