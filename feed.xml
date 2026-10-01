@@ -14,5 +14,13 @@
     <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
     <guid>https://verifiedpolicyinstitute.org/#update-2026-10-02</guid>
   </item>
+
+  <item>
+    <title>Core Dataset Initialized: 30 Historical Fact-Checks</title>
+    <link>https://verifiedpolicyinstitute.org/data/fact-checks.json</link>
+    <description>The Verified Policy Institute has officially digitized and archived 30 foundational fact-checks countering state-sponsored PR. This core dataset covers military targeting, the Nakba, Apartheid legal consensus, media bias, and US lobbying influence. All evidence sources have been retroactively patched and permanently secured via the Wayback Machine.</description>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <guid>https://verifiedpolicyinstitute.org/#core-dataset-init</guid>
+  </item>
 </channel>
 </rss>
