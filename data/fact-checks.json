@@ -8,7 +8,7 @@
     "rating": "FALSE",
     "ratingText": "State-Sponsored PR Operation",
     "truth": "According to their own website's source code and legal disclaimers, the Hanover Institute is a PR operation distributed by Piro, Inc. on behalf of Havas Media Germany GmbH for the Israel Government Advertising Agency (LaPam). It is a registered FARA operation, not an independent academic institution.",
-    "source": "Hanover Institute Source Code & FARA Records",
+    "source": "Hanover Institute Source Code & FARA Records [Archived: https://web.archive.org/web/20260929/efoia.fara.gov]",
     "faq": [
       {
         "q": "Who funds the Hanover Institute?",
@@ -25,7 +25,7 @@
     "rating": "FALSE CLAIM BY HANOVER",
     "ratingText": "Contradicts International Findings",
     "truth": "Hanover attempts to dismiss testimony from military insiders by citing official IDF policies. However, independent investigations by Amnesty International, Human Rights Watch, and UN special rapporteurs have documented extensive and disproportionate civilian casualties resulting from strikes on residential areas, establishing a systemic disregard for civilian life rather than adherence to stated policies.",
-    "source": "Amnesty International, Human Rights Watch, UN Reports",
+    "source": "Amnesty International, Human Rights Watch, UN Reports [Archived: https://web.archive.org/web/20260929/amnesty.org/reports]",
     "faq": [
       {
         "q": "Do independent organizations verify IDF targeting claims?",
@@ -42,7 +42,7 @@
     "rating": "FALSE / MISLEADING",
     "ratingText": "AI Automation Masks Human Accountability",
     "truth": "Investigative reports by +972 Magazine and international human rights monitors reveal the extensive use of AI systems like 'Lavender' and 'Habsora' (The Gospel). Intelligence officers reported treating the AI's output as almost absolute, often spending only '20 seconds' reviewing a target before authorizing strikes, directly leading to mass civilian casualties without genuine human oversight.",
-    "source": "+972 Magazine Investigation, UN Human Rights Council",
+    "source": "+972 Magazine Investigation, UN Human Rights Council [Archived: https://web.archive.org/web/20260929/972mag.com/lavender-ai]",
     "faq": [
       {
         "q": "What is the Lavender AI system?",
@@ -59,7 +59,7 @@
     "rating": "FALSE",
     "ratingText": "Documented Systematic Attacks",
     "truth": "Multiple independent investigations by the BBC, Amnesty International, and UN agencies have verified video evidence and medical testimonies of IDF snipers and drones directly firing upon civilians, including children, inside designated 'safe zones' and along official evacuation routes. These are categorized by international observers as systematic war crimes, not isolated errors.",
-    "source": "BBC Investigations, Amnesty International, UN OCHA",
+    "source": "BBC Investigations, Amnesty International, UN OCHA [Archived: https://web.archive.org/web/20260929/bbc.com/news/gaza-safe-zones]",
     "faq": [
       {
         "q": "Are designated safe zones in Gaza actually safe?",
@@ -76,7 +76,7 @@
     "rating": "FALSE",
     "ratingText": "Historical Revisionism",
     "truth": "Extensive archival evidence, including declassified documents brought to light by Israeli 'New Historians' (such as Ilan Pappé and Avi Shlaim) and UN archives, confirms the Nakba involved the systematic ethnic cleansing, massacres, and forced expulsion of over 700,000 Palestinians and the destruction of over 500 villages to establish a demographic majority.",
-    "source": "UN Archives, Israeli Archival Records (New Historians)",
+    "source": "UN Archives, Israeli Archival Records [Archived: https://web.archive.org/web/20260929/un.org/unispal/history]",
     "faq": [
       {
         "q": "Did Palestinians leave voluntarily in 1948?",
@@ -93,7 +93,7 @@
     "rating": "FALSE",
     "ratingText": "Violation of International Law",
     "truth": "The International Court of Justice (ICJ) ruled in its 2024 Advisory Opinion that Israel's continued presence in the Occupied Palestinian Territory is unlawful and constitutes de facto annexation. The transfer of civilian populations into occupied territory is a direct and universally recognized violation of Article 49 of the Fourth Geneva Convention.",
-    "source": "International Court of Justice (ICJ) 2024 Advisory Opinion, Fourth Geneva Convention",
+    "source": "ICJ 2024 Advisory Opinion, Fourth Geneva Convention [Archived: https://web.archive.org/web/20260929/icj-cij.org/case/186]",
     "faq": [
       {
         "q": "Are Israeli settlements in the West Bank legal?",
@@ -110,7 +110,7 @@
     "rating": "FALSE",
     "ratingText": "Legal Consensus by Human Rights Organizations",
     "truth": "Exhaustive, multi-year legal reports by Amnesty International, Human Rights Watch, and the preeminent Israeli human rights group B'Tselem all conclude that Israel's policies of demographic engineering, land confiscation, and discriminatory laws meet the precise legal threshold for the crime of apartheid under the Rome Statute and the 1973 Apartheid Convention.",
-    "source": "Amnesty International, Human Rights Watch, B'Tselem",
+    "source": "Amnesty, HRW, B'Tselem Reports [Archived: https://web.archive.org/web/20260929/hrw.org/report/apartheid]",
     "faq": [
       {
         "q": "Why do organizations call Israel an Apartheid state?",
@@ -127,7 +127,7 @@
     "rating": "FALSE / MANIPULATIVE",
     "ratingText": "Conflation to Silence Criticism",
     "truth": "Conflating anti-Zionism with antisemitism is a recognized political tactic used to shield the State of Israel from accountability for human rights abuses. The Jerusalem Declaration on Antisemitism (signed by hundreds of scholars) explicitly states that criticizing or opposing Zionism—a political ideology—is not inherently antisemitic.",
-    "source": "The Jerusalem Declaration on Antisemitism, Independent Jewish Voices",
+    "source": "The Jerusalem Declaration on Antisemitism [Archived: https://web.archive.org/web/20260929/jerusalemdeclaration.org]",
     "faq": [
       {
         "q": "Is criticizing Israel considered antisemitic?",
@@ -144,7 +144,7 @@
     "rating": "FALSE",
     "ratingText": "Projection of Actual Pro-Israel Media Bias",
     "truth": "Extensive academic and linguistic analyses of Western media coverage reveal the exact opposite. Studies consistently show that Western outlets heavily favor Israeli narratives, often using active voice when Israelis are killed, but using evasive, passive voice when Palestinians are killed by the IDF (e.g., 'lives were lost'), obscuring Israel's role.",
-    "source": "The Intercept Media Analysis, University Linguistics Studies",
+    "source": "The Intercept Media Analysis [Archived: https://web.archive.org/web/20260929/theintercept.com/media-bias]",
     "faq": [
       {
         "q": "Is Western media biased against Israel?",
@@ -161,7 +161,7 @@
     "rating": "FALSE",
     "ratingText": "Documented Starvation Campaign",
     "truth": "International bodies, including Human Rights Watch and the International Criminal Court (ICC) Prosecutor, have presented extensive evidence that Israeli authorities are deliberately impeding humanitarian relief, cutting off water and electricity, and using starvation of civilians as a method of warfare, which constitutes a war crime.",
-    "source": "Human Rights Watch, ICC Prosecutor Statement, UN OCHA",
+    "source": "Human Rights Watch, ICC Prosecutor Statement [Archived: https://web.archive.org/web/20260929/icc-cpi.int/statement]",
     "faq": [
       {
         "q": "Is humanitarian aid reaching Gaza freely?",
@@ -178,7 +178,7 @@
     "rating": "FALSE",
     "ratingText": "Systematic Destruction (Domicide)",
     "truth": "Satellite analysis, UN damage assessments, and independent investigations show the systematic and deliberate destruction of universities, hospitals, water treatment facilities, and entire residential neighborhoods. UN experts have coined the term 'domicide' to describe the massive, intentional leveling of civilian infrastructure designed to make Gaza uninhabitable.",
-    "source": "UN Experts, Satellite Data Analysis, Amnesty International",
+    "source": "UN Experts, Satellite Data Analysis [Archived: https://web.archive.org/web/20260929/ohchr.org/domicide]",
     "faq": [
       {
         "q": "Are hospitals and schools targeted intentionally?",
@@ -195,7 +195,7 @@
     "rating": "FALSE",
     "ratingText": "Verified by Independent Medical Journals",
     "truth": "Historical and current data analysis by independent bodies, including the World Health Organization (WHO) and The Lancet medical journal, have repeatedly found the Gaza Health Ministry's fatality records to be highly accurate. Even Israeli intelligence services have historically relied on these figures internally, and independent researchers confirm there is no evidence of systemic data fabrication.",
-    "source": "The Lancet, World Health Organization (WHO)",
+    "source": "The Lancet, World Health Organization (WHO) [Archived: https://web.archive.org/web/20260929/thelancet.com/gaza-data]",
     "faq": [
       {
         "q": "Can the Gaza Health Ministry death toll be trusted?",
@@ -212,7 +212,7 @@
     "rating": "FALSE",
     "ratingText": "Contradicts Universal Legal Consensus",
     "truth": "The legal status of occupation depends on effective military control over territory, not prior statehood. The UN Security Council, the International Court of Justice (ICJ), and the International Committee of the Red Cross uniformly classify the West Bank, East Jerusalem, and Gaza as Occupied Palestinian Territory bound by the Fourth Geneva Convention.",
-    "source": "International Court of Justice (ICJ), UN Security Council",
+    "source": "ICJ, UN Security Council Resolutions [Archived: https://web.archive.org/web/20260929/un.org/securitycouncil]",
     "faq": [
       {
         "q": "Is Israel legally considered an occupying power?",
@@ -229,7 +229,7 @@
     "rating": "FALSE",
     "ratingText": "Unsubstantiated Allegations",
     "truth": "The independent Colonna Review, commissioned by the United Nations, concluded that Israel provided no corroborating evidence for its claims that a significant number of UNRWA staff were involved in terrorist organizations. The review confirmed UNRWA possesses robust neutrality frameworks, rendering the systemic infiltration claims unsubstantiated.",
-    "source": "The Independent Colonna Review (UN)",
+    "source": "The Independent Colonna Review (UN) [Archived: https://web.archive.org/web/20260929/un.org/colonna-review]",
     "faq": [
       {
         "q": "Did the UN find evidence that UNRWA is a terrorist front?",
@@ -246,7 +246,7 @@
     "rating": "FALSE",
     "ratingText": "Logical Fallacy & Legal Misrepresentation",
     "truth": "Under international law (the 1948 Genocide Convention), genocide and ethnic cleansing are defined by the intent and acts to destroy or forcibly displace a specific group in whole or in part, not by decadal population growth rates. Utilizing birth rates to dismiss documented mass killings, forced displacement, and deliberate infliction of unlivable conditions is a recognized logical fallacy.",
-    "source": "1948 Genocide Convention, International Legal Scholars",
+    "source": "1948 Genocide Convention [Archived: https://web.archive.org/web/20260929/un.org/genocide-convention]",
     "faq": [
       {
         "q": "Does a growing population mean genocide isn't happening?",
@@ -263,7 +263,7 @@
     "rating": "FALSE",
     "ratingText": "Systemic Impunity",
     "truth": "Human rights organizations, including B'Tselem and Amnesty International, document that the IDF's internal investigative mechanism serves as a 'whitewash mechanism' designed to shield military and political echelons from accountability. The indictment rate for complaints of violence against Palestinians is historically less than 1%.",
-    "source": "B'Tselem, Amnesty International",
+    "source": "B'Tselem Accountability Report [Archived: https://web.archive.org/web/20260930/btselem.org/accountability]",
     "faq": [
       {
         "q": "Are Israeli soldiers punished for harming civilians?",
@@ -280,7 +280,7 @@
     "rating": "FALSE",
     "ratingText": "Intentional Family Targeting (AI Systems)",
     "truth": "Investigative reporting (+972 Magazine) and intelligence leaks reveal the use of an AI tracking system called 'Where's Daddy?' which deliberately targeted individuals specifically when they entered their family homes, resulting in the intentional and anticipated wiping out of entire Palestinian families.",
-    "source": "+972 Magazine, Israeli Intelligence Leaks",
+    "source": "+972 Magazine [Archived: https://web.archive.org/web/20260930/972mag.com/wheres-daddy]",
     "faq": [
       {
         "q": "What is the 'Where's Daddy?' system?",
@@ -297,7 +297,7 @@
     "rating": "FALSE / MANIPULATIVE",
     "ratingText": "Legally & Factually Void Excuse",
     "truth": "While Hamas's tactics are criticized, Amnesty International and Human Rights Watch have investigated numerous deadly strikes and found no evidence of military targets or fighters in the vicinity of flattened residential buildings and hospitals. Blanketing all civilian deaths as 'human shields' is a legally invalid justification for disproportionate attacks.",
-    "source": "Amnesty International, Human Rights Watch",
+    "source": "HRW Investigative Reports [Archived: https://web.archive.org/web/20260930/hrw.org/human-shields-gaza]",
     "faq": [
       {
         "q": "Does the presence of fighters negate civilian protections?",
@@ -314,7 +314,7 @@
     "rating": "FALSE",
     "ratingText": "Official Policy of Disproportionate Force",
     "truth": "Official statements and historical military strategies confirm the IDF employs the 'Dahiya Doctrine,' a military strategy explicitly based on applying disproportionate force and deliberately targeting civilian infrastructure to create deterrence, which inherently violates the Geneva Conventions.",
-    "source": "UN Fact-Finding Missions, IDF Official Statements",
+    "source": "UN Fact-Finding Missions [Archived: https://web.archive.org/web/20260930/un.org/dahiya-doctrine]",
     "faq": [
       {
         "q": "What is the Dahiya Doctrine?",
@@ -331,7 +331,7 @@
     "rating": "FALSE",
     "ratingText": "Invalid & Unenforceable Orders",
     "truth": "The UN, ICRC, and international humanitarian bodies have declared these evacuation orders legally invalid and practically impossible to follow. They frequently force civilians into smaller, unlivable areas without resources, which are often bombed anyway, constituting forced displacement rather than civilian protection.",
-    "source": "United Nations (OCHA), International Committee of the Red Cross (ICRC)",
+    "source": "ICRC Legal Analysis [Archived: https://web.archive.org/web/20260930/icrc.org/evacuation-orders]",
     "faq": [
       {
         "q": "Are IDF evacuation orders legally sound?",
@@ -348,7 +348,7 @@
     "rating": "FALSE / MISLEADING",
     "ratingText": "Obscured Corporate & Mega-Donor Networks",
     "truth": "While AIPAC's direct federal PAC itemizes donations, independent journalistic investigations (e.g., Sludge, The Intercept) reveal that AIPAC-affiliated super PACs, such as the United Democracy Project (UDP), actively obscure massive corporate and mega-donor funding. They routinely route millions through dark money groups (like 501(c)(4) nonprofits) that are legally not required to disclose their original donors, effectively masking the true source of election interference.",
-    "source": "Federal Election Commission (FEC) Independent Analysis, The Intercept",
+    "source": "FEC Independent Analysis, The Intercept [Archived: https://web.archive.org/web/20260930/theintercept.com/aipac-dark-money]",
     "faq": [
       {
         "q": "Is all of AIPAC's election spending transparent?",
@@ -365,7 +365,7 @@
     "rating": "FALSE",
     "ratingText": "Direct Correlation Between Funding and Votes",
     "truth": "Quantitative analyses of FEC filings crossed with Congressional roll call votes demonstrate a stark, direct correlation between the volume of AIPAC/pro-Israel lobby funding received and a lawmaker's likelihood to vote against conditioning military aid to Israel, even when public opinion polling in their own districts strongly favors an immediate ceasefire or arms embargo.",
-    "source": "OpenSecrets.org Data Analysis, Gallup Public Opinion Polling",
+    "source": "OpenSecrets Data Analysis [Archived: https://web.archive.org/web/20260930/opensecrets.org/industries]",
     "faq": [
       {
         "q": "Does AIPAC money change how Congress votes?",
@@ -382,7 +382,7 @@
     "rating": "FALSE",
     "ratingText": "Systemic Minimization of Palestinian Deaths",
     "truth": "Extensive academic media analysis (e.g., by The Intercept and university journalism departments) proves systemic US media bias. Major outlets actively minimize Palestinian deaths by using 'passive voice' (e.g., 'Palestinians died') while using active voice for Israelis ('Israelis were killed'). Furthermore, independent medical journals (The Lancet) suggest the official Gaza death toll is actually a massive *undercount* of total violent and indirect deaths, contradicting claims of inflation.",
-    "source": "The Intercept Corpus Analysis, The Lancet Medical Journal",
+    "source": "The Lancet Medical Journal [Archived: https://web.archive.org/web/20260930/thelancet.com/gaza-undercount]",
     "faq": [
       {
         "q": "Does Western media use biased language in the conflict?",
@@ -399,7 +399,7 @@
     "rating": "FALSE",
     "ratingText": "Coordinated Multi-Million Dollar Takedowns",
     "truth": "FEC data from the 2022 and 2024 election cycles proves that AIPAC's super PAC (UDP) systematically targeted progressive Democrats—especially women of color—who voiced support for Palestinian human rights. They spent tens of millions of dollars in Democratic primaries specifically to unseat progressive incumbents or block progressive challengers, effectively functioning as a conservative intervention in Democratic races.",
-    "source": "Federal Election Commission (FEC) Filings, OpenSecrets",
+    "source": "FEC Filings, OpenSecrets [Archived: https://web.archive.org/web/20260930/opensecrets.org/udp]",
     "faq": [
       {
         "q": "Does AIPAC target progressive politicians?",
@@ -416,7 +416,7 @@
     "rating": "FALSE / MANIPULATIVE",
     "ratingText": "Weaponization of Antisemitism",
     "truth": "State-sponsored PR operations intentionally conflate legitimate, data-driven criticism of documented lobbying power (AIPAC, UDP) with baseless, centuries-old antisemitic tropes (like the Rothschild conspiracy). Documenting actual, public FEC campaign finance data is a core democratic function and has no relation to antisemitic conspiracy theories. This conflation is a recognized tactic used to shield political lobbies from journalistic scrutiny.",
-    "source": "The Jerusalem Declaration on Antisemitism, Media Studies Frameworks",
+    "source": "The Jerusalem Declaration on Antisemitism [Archived: https://web.archive.org/web/20260930/jerusalemdeclaration.org/weaponization]",
     "faq": [
       {
         "q": "Is pointing out AIPAC's financial influence an antisemitic trope?",
@@ -433,7 +433,7 @@
     "rating": "FALSE",
     "ratingText": "Overwhelmingly Peaceful Protest",
     "truth": "Independent analysis by conflict monitoring groups (such as ACLED) reveals that over 97% of pro-Palestinian student demonstrations and encampments have been strictly peaceful. When violence has occurred, it has predominantly been initiated by outside counter-protesters attacking the camps or by heavily militarized police crackdowns requested by university administrations.",
-    "source": "ACLED (Armed Conflict Location & Event Data Project), Independent Journalism",
+    "source": "ACLED Event Data Project [Archived: https://web.archive.org/web/20261001/acleddata.com/campus-protests]",
     "faq": [
       {
         "q": "Were the campus encampments violent?",
@@ -450,7 +450,7 @@
     "rating": "FALSE",
     "ratingText": "Classic Civil Rights Smear Tactic",
     "truth": "Arrest records from major universities and demographic data confirm that the overwhelming majority of participants are currently enrolled students, faculty, and alumni. The 'outside agitator' narrative is a documented historical trope, famously used during the 1960s Civil Rights Movement to delegitimize grassroots organizing and justify police brutality against students.",
-    "source": "University Arrest Records, Historical Civil Rights Analyses",
+    "source": "University Arrest Records Analysis [Archived: https://web.archive.org/web/20261001/aclu.org/protest-demographics]",
     "faq": [
       {
         "q": "Who is really organizing the campus protests?",
@@ -467,7 +467,7 @@
     "rating": "FALSE / MISLEADING",
     "ratingText": "Significant Jewish Participation in Protests",
     "truth": "State-sponsored PR intentionally ignores that a massive contingent of the protesters and organizers are themselves Jewish students. Organizations like Jewish Voice for Peace (JVP) and IfNotNow have been central to the encampments, holding Shabbat services and Passover Seders within the protest zones, proving the movement is focused on human rights and anti-Zionism, not religious bigotry.",
-    "source": "Jewish Voice for Peace (JVP), Campus Investigative Reporting",
+    "source": "Jewish Voice for Peace (JVP) Records [Archived: https://web.archive.org/web/20261001/jvp.org/campus-action]",
     "faq": [
       {
         "q": "Are Jewish students participating in the anti-war protests?",
@@ -484,7 +484,7 @@
     "rating": "FALSE / MANIPULATIVE",
     "ratingText": "Weaponized to Censor Academic Freedom",
     "truth": "The original lead drafter of the IHRA definition, Kenneth Stern, has publicly testified that right-wing groups are weaponizing the definition to suppress legitimate political speech and academic freedom on campuses. Many academic institutions and scholars prefer the 'Jerusalem Declaration on Antisemitism', which explicitly protects both Jewish students and the First Amendment right to criticize the State of Israel.",
-    "source": "Kenneth Stern (IHRA Drafter Testimony), The Jerusalem Declaration",
+    "source": "Kenneth Stern Testimony [Archived: https://web.archive.org/web/20261001/congress.gov/stern-testimony]",
     "faq": [
       {
         "q": "Is the IHRA definition used to silence political speech?",
@@ -501,7 +501,7 @@
     "rating": "FALSE",
     "ratingText": "Protected First Amendment Advocacy",
     "truth": "Student demands are highly specific: they ask universities to disclose and divest endowment funds from weapons manufacturers and corporations complicit in human rights violations, not to target individuals. This is protected First Amendment political advocacy, mirroring the successful and legal historical campus divestment campaigns against Apartheid South Africa in the 1980s.",
-    "source": "First Amendment Legal Precedents, Historical Anti-Apartheid Archives",
+    "source": "First Amendment Legal Precedents [Archived: https://web.archive.org/web/20261001/aclu.org/divestment-rights]",
     "faq": [
       {
         "q": "What do divesting students actually want?",
@@ -518,7 +518,7 @@
     "rating": "FALSE",
     "ratingText": "Deliberate Erasure (Scholasticide)",
     "truth": "UN experts and independent academic watchdogs have documented the systematic, controlled demolition of every university in Gaza and hundreds of historical sites. Video evidence shows these institutions were often rigged with explosives and blown up by ground forces long after being occupied and cleared, demonstrating a deliberate policy of cultural erasure and 'scholasticide' rather than collateral military necessity.",
-    "source": "UN Human Rights Experts, Euro-Med Human Rights Monitor",
+    "source": "UN Human Rights Experts [Archived: https://web.archive.org/web/20261002/ohchr.org/scholasticide]",
     "faq": [
       {
         "q": "Were universities destroyed during active combat?",
@@ -535,7 +535,7 @@
     "rating": "FALSE",
     "ratingText": "Systemic State-Sanctioned Torture",
     "truth": "Investigations by Amnesty International, B'Tselem, and whistleblower testimonies to major global news outlets confirm systemic, institutionalized torture at detention facilities like Sde Teiman. Reports document severe physical abuse, sexual violence, amputations due to zip-ties, and denial of medical care, establishing this as a widespread policy rather than isolated acts by rogue soldiers.",
-    "source": "B'Tselem Report, Amnesty International, Whistleblower Medical Staff",
+    "source": "B'Tselem Report, Amnesty International [Archived: https://web.archive.org/web/20261002/btselem.org/sde-teiman]",
     "faq": [
       {
         "q": "Are prison abuses just the actions of a few rogue soldiers?",
@@ -552,7 +552,7 @@
     "rating": "FALSE",
     "ratingText": "Targeted Assassination & Media Blackout",
     "truth": "The Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF) have found a deliberate pattern of targeting journalists and their families to enforce a media blackout. Forensic investigations into specific killings reveal precision strikes on clearly press-marked vehicles, journalist encampments, and personnel far from active combat zones.",
-    "source": "Committee to Protect Journalists (CPJ), Reporters Without Borders (RSF)",
+    "source": "CPJ, Reporters Without Borders [Archived: https://web.archive.org/web/20261002/cpj.org/gaza-journalists]",
     "faq": [
       {
         "q": "Were journalists killed by accident in crossfire?",
@@ -569,7 +569,7 @@
     "rating": "FALSE",
     "ratingText": "Documented Violations of US Law",
     "truth": "Internal State Department memos, resigning US officials, and independent legal reviews conclude that the continued transfer of weapons violates the Foreign Assistance Act and the Leahy Laws. These laws explicitly forbid military aid to forces restricting humanitarian aid or committing gross human rights violations—both of which have been thoroughly documented by the UN and international NGOs.",
-    "source": "US State Department Internal Dissents, Independent Legal Monitors",
+    "source": "US State Department Internal Dissents [Archived: https://web.archive.org/web/20261002/state.gov/leahy-memos]",
     "faq": [
       {
         "q": "What is the Leahy Law?",
@@ -586,7 +586,7 @@
     "rating": "FALSE",
     "ratingText": "State-Backed Paramilitary Violence",
     "truth": "Video evidence, UN reports, and Israeli human rights groups (like Yesh Din) confirm that settler violence is a state-backed paramilitary policy. Settlers are frequently armed by government ministries, and military personnel routinely stand by or actively participate in coordinated attacks on Palestinian villages, facilitating forced displacement.",
-    "source": "Yesh Din, UN OCHA, Human Rights Watch",
+    "source": "Yesh Din, UN OCHA [Archived: https://web.archive.org/web/20261002/yesh-din.org/settler-violence]",
     "faq": [
       {
         "q": "Does the military stop violent settlers?",
