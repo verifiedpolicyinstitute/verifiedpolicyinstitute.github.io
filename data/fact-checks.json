@@ -593,5 +593,90 @@
         "a": "Extensive video documentation and NGO reports show the military frequently protecting and even assisting settlers while they attack Palestinian homes and agricultural lands."
       }
     ]
+  },
+  {
+    "id": "two-state-solution-blockade",
+    "title": "Who Is Actually Preventing the Two-State Solution?",
+    "date": "2026-10-02",
+    "category": "Israel & Anti-Zionism",
+    "claim": "Israel actively pursues peace, but the Palestinian Authority and militant groups are the sole actors preventing a Two-State Solution.",
+    "rating": "FALSE",
+    "ratingText": "Official Legislative Rejection of Statehood",
+    "truth": "Beyond mere political rhetoric, Israel's parliament (the Knesset) officially passed a resolution in July 2024 overwhelmingly rejecting the establishment of a Palestinian state under any circumstances. This legislative action, combined with continuous state-backed settlement expansion in the West Bank, legally and physically dismantles the framework for a two-state solution.",
+    "source": "Knesset Official Records, UN Security Council [Archived: https://web.archive.org/web/20261002/knesset.gov.il/votes-statehood]",
+    "faq": [
+      {
+        "q": "Has Israel officially rejected a Palestinian state?",
+        "a": "Yes. In July 2024, the Israeli Knesset passed a formal resolution categorically rejecting the establishment of a Palestinian state west of the Jordan River."
+      }
+    ]
+  },
+  {
+    "id": "indigeneity-treaty-claims",
+    "title": "Who Holds Indigenous Rights Under International Law?",
+    "date": "2026-10-02",
+    "category": "Narratives & Tropes",
+    "claim": "Jewish people are the sole indigenous population of Israel/Palestine, invalidating Palestinian claims of indigeneity or displacement.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Distortion of International Law",
+    "truth": "International legal frameworks regarding indigenous rights (such as the UN Declaration on the Rights of Indigenous Peoples) do not function to grant exclusive sovereignty to one group to the detriment of an existing population. UN resolutions and historical censuses recognize the continuous presence and self-determination rights of the Palestinian people, independent of theological or ancient historical claims used to justify modern displacement.",
+    "source": "UN Declaration on the Rights of Indigenous Peoples, Historical Censuses [Archived: https://web.archive.org/web/20261002/un.org/indigenous-rights]",
+    "faq": [
+      {
+        "q": "Does international law grant exclusive indigenous rights to Israel?",
+        "a": "No. International law protects the rights of existing populations to self-determination and explicitly prohibits the use of ancient ancestral claims to justify modern forced displacement."
+      }
+    ]
+  },
+  {
+    "id": "idf-human-shields-use",
+    "title": "Does the IDF Use Palestinians as Human Shields?",
+    "date": "2026-10-02",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The IDF strictly prohibits using civilians as human shields, a tactic used exclusively by Hamas.",
+    "rating": "FALSE",
+    "ratingText": "Documented Military Use of Civilians",
+    "truth": "While Hamas is condemned for its tactics, independent human rights groups, including B'Tselem, and international journalists have extensively documented the IDF's systemic use of Palestinian civilians—including children—as human shields. This 'neighbor procedure' involves forcing civilians to walk in front of soldiers during raids, enter potentially booby-trapped tunnels, or clear suspicious objects, in direct violation of international humanitarian law.",
+    "source": "B'Tselem Investigations, International Media Reports [Archived: https://web.archive.org/web/20261002/btselem.org/human-shields]",
+    "faq": [
+      {
+        "q": "Has the IDF been proven to use human shields?",
+        "a": "Yes. Israeli human rights organizations and international journalists have documented numerous instances of Israeli soldiers forcing Palestinian civilians to walk ahead of them in combat zones to trigger potential explosives."
+      }
+    ]
+  },
+  {
+    "id": "nation-state-law-apartheid",
+    "title": "Does Israel’s Nation-State Law Enshrine Supremacy?",
+    "date": "2026-10-02",
+    "category": "Israel & Anti-Zionism",
+    "claim": "The 2018 Nation-State Law is merely a symbolic declaration of Israel's Jewish character and does not impact the rights of its non-Jewish citizens.",
+    "rating": "FALSE",
+    "ratingText": "Institutionalized Inequality",
+    "truth": "Legal analyses by Human Rights Watch and Adalah (The Legal Center for Arab Minority Rights in Israel) confirm that the 2018 Basic Law constitutionally institutionalizes discrimination. By explicitly reserving the right to national self-determination exclusively to the Jewish people and downgrading the status of the Arabic language, the law codifies unequal citizenship and provides a legal foundation for apartheid policies within Israel proper.",
+    "source": "Human Rights Watch, Adalah Legal Analysis [Archived: https://web.archive.org/web/20261002/adalah.org/nation-state-law]",
+    "faq": [
+      {
+        "q": "Does the Nation-State Law discriminate against non-Jewish citizens?",
+        "a": "Yes. Legal experts agree that the law elevates Jewish citizens to a superior constitutional status while legally downgrading the rights and language of the 20% Arab Palestinian minority."
+      }
+    ]
+  },
+  {
+    "id": "water-electricity-occupation",
+    "title": "How Does the Occupation Control Palestinian Utilities?",
+    "date": "2026-10-02",
+    "category": "Incidents & Trends",
+    "claim": "Palestinian shortages of water and electricity are due to poor internal management, not Israeli occupation policies.",
+    "rating": "FALSE",
+    "ratingText": "Engineered Deprivation",
+    "truth": "Reports by Amnesty International and the World Bank detail that Israel maintains absolute control over all water resources and electricity grids in the Occupied Territories. Military orders strictly prohibit Palestinians from digging new wells or updating infrastructure without near-impossible-to-get permits. This engineered deprivation forces Palestinians to buy water from the Israeli state utility at inflated prices while nearby settlements enjoy unlimited access.",
+    "source": "Amnesty International, World Bank Reports [Archived: https://web.archive.org/web/20261002/amnesty.org/water-crisis]",
+    "faq": [
+      {
+        "q": "Can Palestinians independently manage their water supply?",
+        "a": "No. Under military occupation, Israel controls the aquifers and routinely destroys Palestinian rain-gathering cisterns and solar panels, enforcing artificial scarcity."
+      }
+    ]
   }
 ]
