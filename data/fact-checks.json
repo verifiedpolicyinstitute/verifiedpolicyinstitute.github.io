@@ -678,5 +678,90 @@
         "a": "No. Under military occupation, Israel controls the aquifers and routinely destroys Palestinian rain-gathering cisterns and solar panels, enforcing artificial scarcity."
       }
     ]
+  },
+  {
+    "id": "trope-civilian-infrastructure-command",
+    "title": "Trope: Civilian Infrastructure as Military Command Centers",
+    "date": "2026-10-03",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The systematic destruction of hospitals, schools, and civilian infrastructure is justified because they are secretly utilized as central military command centers.",
+    "rating": "FALSE / RECURRING DISINFORMATION",
+    "ratingText": "Pre-bunked Disinformation Trope",
+    "truth": "Independent investigations by Amnesty International, Human Rights Watch, and UN commissions have repeatedly found no evidence to support sweeping claims that destroyed hospitals and schools functioned as military command nodes. International humanitarian law strictly prohibits the disproportionate destruction of civilian infrastructure based on unverified, broad suspicion. This claim is a well-documented playbook trope used to retroactively justify war crimes.",
+    "source": "Amnesty International, WHO Field Reports [Archived: https://web.archive.org/web/20261003/amnesty.org/civilian-infrastructure-report]",
+    "faq": [
+      {
+        "q": "Does international law allow bombing hospitals based on suspicion?",
+        "a": "No. Hospitals retain special protection under the Geneva Conventions. Broad, unverified claims of them being 'command centers' do not legally justify their systemic destruction."
+      }
+    ]
+  },
+  {
+    "id": "trope-casualty-denial-pallywood",
+    "title": "Trope: Casualty Denial and the 'Pallywood' Smear",
+    "date": "2026-10-03",
+    "category": "Method & Statistics",
+    "claim": "Casualty figures reported by local health ministries are fabricated, and victims seen in media are often actors staging injuries.",
+    "rating": "FALSE / DEHUMANIZATION TACTIC",
+    "ratingText": "Pre-bunked Disinformation Trope",
+    "truth": "The UN, WHO, and surprisingly, Israeli intelligence agencies themselves, have historically relied upon and internally validated the casualty figures provided by local health ministries due to their high historical accuracy. Claims of mass fabrication (often dubbed 'Pallywood') are a well-documented psychological operation designed to dehumanize victims, induce apathy in international audiences, and deflect accountability for mass casualties.",
+    "source": "UN OCHA, Independent Demographic Analyses [Archived: https://web.archive.org/web/20261003/unocha.org/casualty-verification]",
+    "faq": [
+      {
+        "q": "Are official casualty statistics reliable?",
+        "a": "Yes. Independent demographic audits and historical comparisons by the UN and WHO consistently confirm the accuracy of reported casualty demographics in these conflict zones."
+      }
+    ]
+  },
+  {
+    "id": "trope-smearing-humanitarian-ngos",
+    "title": "Trope: Delegitimizing Humanitarian Organizations (e.g., UNRWA)",
+    "date": "2026-10-03",
+    "category": "Disinformation & State PR",
+    "claim": "International humanitarian organizations and UN agencies are deeply infiltrated by and inherently complicit with terrorist groups.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Pre-bunked Disinformation Trope",
+    "truth": "Independent international audits, such as the widely recognized Colonna Report, demonstrate that agencies like UNRWA possess robust neutrality and vetting mechanisms. Defunding campaigns based on unproven, broad allegations of institutional complicity are frequently used as a strategic tactic to engineer artificial starvation, block life-saving aid, and dismantle refugee rights.",
+    "source": "The Colonna Independent Review Group Report [Archived: https://web.archive.org/web/20261003/un.org/independent-review-group]",
+    "faq": [
+      {
+        "q": "Have UN humanitarian agencies been proven to be terrorist fronts?",
+        "a": "No. Extensive independent reviews have debunked systemic infiltration claims, revealing them to be politically motivated campaigns to cut off humanitarian aid."
+      }
+    ]
+  },
+  {
+    "id": "trope-delegitimizing-international-law",
+    "title": "Trope: Delegitimizing International Courts (ICJ/ICC)",
+    "date": "2026-10-03",
+    "category": "Discourse & Tropes",
+    "claim": "Rulings and arrest warrants by the ICJ and ICC are purely political, biased, antisemitic, and hold no legal validity.",
+    "rating": "FALSE / DEFLECTION",
+    "ratingText": "Pre-bunked Disinformation Trope",
+    "truth": "The International Court of Justice (ICJ) and the International Criminal Court (ICC) operate strictly under globally ratified treaties (e.g., the Rome Statute). Accusations of institutional bias or 'antisemitism' are standard deflection strategies used globally by state actors and their PR proxies to evade accountability for documented war crimes, plausible genocide, and illegal occupation.",
+    "source": "International Commission of Jurists, Rome Statute [Archived: https://web.archive.org/web/20261003/icj-cij.org/mandate]",
+    "faq": [
+      {
+        "q": "Are ICJ rulings legally binding?",
+        "a": "Yes. Rulings by the ICJ are legally binding upon member states, and attempts to dismiss them as 'political bias' carry no legal weight in international law."
+      }
+    ]
+  },
+  {
+    "id": "trope-weaponizing-antisemitism",
+    "title": "Trope: Weaponizing Antisemitism to Shield State Policy",
+    "date": "2026-10-03",
+    "category": "Lobbying & Influence",
+    "claim": "Any severe legal, political, or human rights critique of Israeli state policies, military actions, or the ideology of Zionism is inherently antisemitic.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Pre-bunked Disinformation Trope",
+    "truth": "Leading international human rights experts, legal scholars, and prominent historians of Jewish history explicitly distinguish between antisemitism (bigotry against Jewish people) and the legitimate critique of a nation-state's policies, military conduct, or nationalist ideologies (Zionism). Weaponizing the grave reality of antisemitism to shield a state from accountability actually undermines the global fight against genuine anti-Jewish bigotry.",
+    "source": "Jerusalem Declaration on Antisemitism, B'Tselem [Archived: https://web.archive.org/web/20261003/jerusalemdeclaration.org/principles]",
+    "faq": [
+      {
+        "q": "Is criticizing state policies considered antisemitism?",
+        "a": "No. Under established scholarly frameworks like the Jerusalem Declaration, evidence-based criticism of state policies or military actions is fully protected speech and distinct from bigotry."
+      }
+    ]
   }
 ]
