@@ -8,6 +8,14 @@
   <language>en-us</language>
 
   <item>
+    <title>Dataset Update: Pre-Bunking Doctrine Deployed (45 Fact-Checks)</title>
+    <link>https://verifiedpolicyinstitute.org/data/fact-checks.json</link>
+    <description>The Verified Policy Institute has expanded its database to 45 items by initiating a "Pre-bunking" strategy. This update exposes and preemptively debunks 5 major state-sponsored disinformation tropes: the false 'command center' justification for destroying civilian infrastructure, casualty denial (the 'Pallywood' smear), delegitimization of humanitarian NGOs, attacks on international courts (ICJ/ICC), and the weaponization of antisemitism to shield state policies. All entries are backed by independent international law and human rights archives.</description>
+    <pubDate>Sat, 03 Oct 2026 22:00:00 GMT</pubDate>
+    <guid>https://verifiedpolicyinstitute.org/#update-2026-10-03-prebunking</guid>
+  </item> 
+  
+  <item>
     <title>Dataset Update: 5 New Verifications Reaching 40 Fact-Checks</title>
     <link>https://verifiedpolicyinstitute.org/data/fact-checks.json</link>
     <description>The Verified Policy Institute has expanded its database to 40 verified claims. The latest additions counter state-sponsored narratives regarding the 2024 Knesset rejection of a Palestinian state, the IDF's documented use of human shields, the discriminatory 2018 Nation-State Law, engineered water deprivation, and the distortion of indigenous rights under international law. All sources are permanently archived.</description>
