@@ -763,5 +763,56 @@
         "a": "No. Under established scholarly frameworks like the Jerusalem Declaration, evidence-based criticism of state policies or military actions is fully protected speech and distinct from bigotry."
       }
     ]
+  },
+  {
+    "id": "fc-safe-zones-bombardment",
+    "title": "False Designation of 'Safe Zones'",
+    "date": "2026-10-04",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Areas designated by the military as 'safe zones' or 'humanitarian corridors' are not targeted, and civilian casualties there are strictly the result of crossfire or enemy misfires.",
+    "rating": "FALSE",
+    "ratingText": "Verified Disinformation",
+    "truth": "Satellite imagery analysis, UN field reports, and investigations by Amnesty International have documented repeated, systematic airstrikes on unilaterally designated 'safe zones' and evacuation routes shortly after civilians were ordered to relocate there. The claim that these areas are exempt from bombardment is demonstrably false.",
+    "source": "Amnesty International, UN OCHA Satellite Analysis [Archived: https://web.archive.org/web/20261004/unocha.org/safe-zone-strikes]",
+    "faq": [
+      {
+        "q": "Are designated humanitarian zones legally protected?",
+        "a": "Yes, but declaring an area a 'safe zone' does not absolve a military from the laws of war if they subsequently bomb that exact area."
+      }
+    ]
+  },
+  {
+    "id": "fc-starvation-aid-blockade",
+    "title": "Denial of Aid Blockade and Engineered Starvation",
+    "date": "2026-10-04",
+    "category": "Incidents & Trends",
+    "claim": "No restrictions are placed on humanitarian aid entering the conflict zone; any starvation is solely due to local militant groups hoarding or stealing supplies.",
+    "rating": "FALSE / DEFLECTION",
+    "ratingText": "Verified Disinformation",
+    "truth": "Human Rights Watch and the World Food Programme (WFP) have extensively documented deliberate bureaucratic obstacles, arbitrary rejections of dual-use items (like water filters and medical kits), and military blockades at border crossings. While local distribution challenges exist, the primary driver of catastrophic hunger is the state-enforced blockade and the use of starvation as a method of warfare.",
+    "source": "Human Rights Watch, World Food Programme [Archived: https://web.archive.org/web/20261004/hrw.org/starvation-as-weapon]",
+    "faq": [
+      {
+        "q": "Is starvation a recognized method of warfare?",
+        "a": "Yes, and the intentional use of starvation of civilians as a method of warfare by depriving them of objects indispensable to their survival is a war crime under the Rome Statute."
+      }
+    ]
+  },
+  {
+    "id": "fc-journalist-targeting-denial",
+    "title": "Systematic Denial of Targeted Journalist Killings",
+    "date": "2026-10-04",
+    "category": "Media & Representation",
+    "claim": "Journalists killed in the conflict zone are either collateral damage in combat or active members of terrorist organizations.",
+    "rating": "FALSE",
+    "ratingText": "Verified Disinformation",
+    "truth": "The Committee to Protect Journalists (CPJ) and independent forensic investigations have verified multiple instances where clearly marked journalists, standing in areas with no active combat, were directly targeted by precision strikes (e.g., tank fire or drones). Unsubstantiated claims linking them to militant groups are routinely issued post-mortem without evidence to justify the lethal strikes.",
+    "source": "Committee to Protect Journalists (CPJ), Reuters Independent Investigation [Archived: https://web.archive.org/web/20261004/cpj.org/targeted-strikes]",
+    "faq": [
+      {
+        "q": "Do journalists have special protection in conflict?",
+        "a": "Yes, under international humanitarian law, journalists engaged in dangerous professional missions in areas of armed conflict are considered civilians and must be protected as such."
+      }
+    ]
   }
 ]
