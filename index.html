@@ -101,6 +101,9 @@
             return response.json();
         })
         .then(data => {
+            // YENİ EKLENEN SATIR: Verileri tarihe göre yeniden eskiye doğru sıralar (en yeni en üstte)
+            data.sort((a, b) => new Date(b.date) - new Date(a.date));
+
             allData = data;
             createFilterButtons(data);
             renderFactChecks(data);
