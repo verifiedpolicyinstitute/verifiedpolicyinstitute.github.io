@@ -865,5 +865,56 @@
         "a": "No. The arbitrary withholding of clearance revenues violates bilateral agreements and is classified by the UN as collective punishment."
       }
     ]
+  },
+  {
+    "id": "fc-gaza-occupation-status",
+    "title": "Denial of Gaza's Occupied Status Post-2005",
+    "date": "2026-10-06",
+    "category": "Geopolitics & International Law",
+    "claim": "Israel is not an occupying power in Gaza because it withdrew its troops and settlers in 2005, meaning it does not bear the legal duties of an occupier.",
+    "rating": "FALSE",
+    "ratingText": "Verified Disinformation",
+    "truth": "International law relies on the concept of 'effective control'. The UN Security Council, the International Court of Justice (ICJ), and the ICRC have consistently ruled that Gaza remained under Israeli military occupation post-2005 because Israel maintained absolute control over Gaza's airspace, territorial waters, population registry, telecommunications, and land borders. Withdrawing ground troops does not end an occupation if effective control is retained.",
+    "source": "International Committee of the Red Cross (ICRC), United Nations Security Council, ICJ Advisory Opinions",
+    "faq": [
+      {
+        "q": "Did the 2005 disengagement end the occupation of Gaza?",
+        "a": "No. Under international law, retaining effective control over borders, airspace, and maritime access means the legal obligations of an occupying power remain fully intact."
+      }
+    ]
+  },
+  {
+    "id": "fc-collective-punishment-deflection",
+    "title": "Minimizing the Crime of Collective Punishment",
+    "date": "2026-10-06",
+    "category": "Incidents & Trends",
+    "claim": "Restrictions on humanitarian aid and utilities do not legally constitute 'collective punishment' because no specific international tribunal has finalized such a ruling.",
+    "rating": "FALSE / DEFLECTION",
+    "ratingText": "Verified Disinformation",
+    "truth": "The International Committee of the Red Cross (ICRC), UN human rights experts, and independent NGOs have definitively and repeatedly classified the blockade of Gaza as collective punishment. Article 33 of the Fourth Geneva Convention explicitly prohibits collective penalties. Demanding a completed, finalized tribunal verdict to acknowledge an ongoing, well-documented war crime is a standard PR deflection tactic used to shield state actors from immediate accountability.",
+    "source": "Fourth Geneva Convention (Article 33), Amnesty International, UN Human Rights Council",
+    "faq": [
+      {
+        "q": "Is a blockade considered collective punishment?",
+        "a": "Yes. When a blockade deliberately deprives an entire civilian population of basic necessities for the actions of a few, it constitutes collective punishment, which is a war crime."
+      }
+    ]
+  },
+  {
+    "id": "fc-forced-expulsion-residence",
+    "title": "Legalizing Forced Expulsion via 'Length of Residence'",
+    "date": "2026-10-06",
+    "category": "Narratives & Tropes",
+    "claim": "Forced displacement is justifiable or legally ambiguous if the expelled civilian population cannot prove a specific, documented 'length of residence' or property title.",
+    "rating": "FALSE / LEGAL MANIPULATION",
+    "ratingText": "Verified Disinformation",
+    "truth": "Under international humanitarian law, including the Rome Statute and the Fourth Geneva Convention, the deportation or forcible transfer of a civilian population by an occupying power is fundamentally a war crime and a crime against humanity. The protection against forced expulsion is absolute and does not depend on arbitrary 'length of residence' criteria or bureaucratic loopholes invented by state PR bodies.",
+    "source": "Rome Statute of the International Criminal Court, Fourth Geneva Convention",
+    "faq": [
+      {
+        "q": "Can lack of property deeds justify forced displacement in an occupied territory?",
+        "a": "No. International law protects civilian populations from forced transfer regardless of local bureaucratic land titling disputes engineered by the occupying power."
+      }
+    ]
   }
 ]
