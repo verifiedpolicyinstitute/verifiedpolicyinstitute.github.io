@@ -814,5 +814,56 @@
         "a": "Yes, under international humanitarian law, journalists engaged in dangerous professional missions in areas of armed conflict are considered civilians and must be protected as such."
       }
     ]
+  },
+  {
+    "id": "fc-medical-evacuation-denial",
+    "title": "Systematic Denial of Medical Evacuations",
+    "date": "2026-10-06",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Israel approves 98% of medical evacuation requests from Gaza, facilitating rather than blocking medical treatment.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Verified Disinformation",
+    "truth": "The WHO and independent medical NGOs like Doctors Without Borders (MSF) report that thousands of critically injured and chronically ill patients are systematically denied or fatally delayed exit permits by Israeli authorities. Hanover's '98%' claim relies on a highly restricted, pre-filtered subset of applications, deliberately ignoring the blanket closures of crossings (like Rafah) and the systemic collapse of the internal healthcare system caused by military action.",
+    "source": "World Health Organization (WHO), Doctors Without Borders (MSF) [Archived: https://web.archive.org/web/20261006/who.int/medical-evacuations]",
+    "faq": [
+      {
+        "q": "Are Palestinians freely allowed to leave for medical treatment?",
+        "a": "No. The WHO documents massive backlogs and systemic denials of exit permits, resulting in preventable deaths of patients awaiting critical care."
+      }
+    ]
+  },
+  {
+    "id": "fc-demographic-casualty-minimization",
+    "title": "Minimizing the Ratio of Women and Children Casualties",
+    "date": "2026-10-06",
+    "category": "Method & Statistics",
+    "claim": "Claims that over 70% of casualties in Gaza are women and children are based on manipulated base populations and statistical flaws.",
+    "rating": "FALSE / DISTORTION",
+    "ratingText": "Verified Disinformation",
+    "truth": "Independent demographic analyses by the UN Human Rights Office and the WHO repeatedly validate that women and children make up the vast majority of casualties. Hanover's attempts to parse or manipulate 'base populations' are a recognized academic deflection strategy designed to obscure the reality of indiscriminate bombing in densely populated civilian areas.",
+    "source": "UN Human Rights Office (OHCHR), WHO Demographic Reports [Archived: https://web.archive.org/web/20261006/ohchr.org/casualty-demographics]",
+    "faq": [
+      {
+        "q": "Is the high percentage of women and children killed accurate?",
+        "a": "Yes. International monitoring bodies consistently confirm these demographics, directly reflecting the impact of explosive weapons in civilian areas."
+      }
+    ]
+  },
+  {
+    "id": "fc-economic-weaponization-taxes",
+    "title": "Weaponization of Palestinian Tax Revenues",
+    "date": "2026-10-06",
+    "category": "Incidents & Trends",
+    "claim": "Israel’s collection and withholding of Palestinian customs and VAT is a standard legal procedure governed by signed protocols, not economic warfare.",
+    "rating": "FALSE",
+    "ratingText": "Verified Disinformation",
+    "truth": "The World Bank and UN human rights experts condemn Israel's practice of arbitrarily withholding hundreds of millions of dollars in Palestinian clearance revenues. Far from standard procedure, this is widely recognized under international law as a form of collective punishment and economic warfare engineered to force fiscal collapse in the Occupied Territories, violating the Paris Protocol.",
+    "source": "World Bank Economic Updates, UN OHCHR [Archived: https://web.archive.org/web/20261006/worldbank.org/palestinian-revenues]",
+    "faq": [
+      {
+        "q": "Does Israel have the legal right to withhold Palestinian tax money?",
+        "a": "No. The arbitrary withholding of clearance revenues violates bilateral agreements and is classified by the UN as collective punishment."
+      }
+    ]
   }
 ]
