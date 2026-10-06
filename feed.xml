@@ -8,6 +8,14 @@
   <language>en-us</language>
 
   <item>
+    <title>Dataset Update: Countering Pseudo-Academic Disinformation (51 Fact-Checks)</title>
+    <link>https://verifiedpolicyinstitute.org/data/fact-checks.json</link>
+    <description>The Verified Policy Institute has expanded its database to 51 items. Today's update directly neutralizes three pseudo-academic disinformation tropes recently deployed by state-sponsored PR networks (e.g., the Hanover Institute). The new entries debunk manipulated claims regarding the systematic denial of medical evacuations, the statistical distortion of women and children casualty ratios, and the illegal weaponization of Palestinian tax revenues. All truths are firmly corroborated by the WHO, UN OHCHR, and the World Bank.</description>
+    <pubDate>Tue, 06 Oct 2026 18:15:00 GMT</pubDate>
+    <guid>https://verifiedpolicyinstitute.org/#update-2026-10-06-academic</guid>
+  </item>
+
+  <item>
     <title>Daily Dataset Update: 3 New Verified Fact-Checks Added</title>
     <link>https://verifiedpolicyinstitute.org/data/fact-checks.json</link>
     <description>The Verified Policy Institute has added 3 new entries to its database, bringing the total to 48 items. Today's update addresses critical disinformation regarding the false designation of 'safe zones', the denial of state-enforced aid blockades (engineered starvation), and the systematic denial of targeted journalist killings. All truths are corroborated by Amnesty International, HRW, CPJ, and UN reports.</description>
