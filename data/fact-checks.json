@@ -916,5 +916,22 @@
         "a": "No. International law protects civilian populations from forced transfer regardless of local bureaucratic land titling disputes engineered by the occupying power."
       }
     ]
+  },
+  {
+    "id": "fc-transnational-surveillance-osint",
+    "title": "Weaponization of OSINT and AI for Transnational Repression",
+    "date": "2026-10-07",
+    "category": "AI & Technology",
+    "claim": "State-sponsored anti-hate and antisemitism monitoring centers operate purely to protect communities from hate speech and do not conduct militarized profiling of foreign civilian critics.",
+    "rating": "FALSE / DIGITAL REPRESSION",
+    "ratingText": "Verified Disinformation",
+    "truth": "Documented surveillance protocols reveal that state ministries actively employ AI, OSINT, and cyber-monitoring to create digital threat profiles of foreign civilians. By rebranding grassroots boycott organizers and political critics as 'asymmetric influence actors' or 'active physical threats,' intelligence agencies weaponize security frameworks to conduct transnational digital repression and criminalize legitimate political mobilization.",
+    "source": "Digital Rights Watchdogs, Independent Surveillance Monitors",
+    "faq": [
+      {
+        "q": "Do state monitoring centers use AI to profile foreign civilians?",
+        "a": "Yes. Evidence shows that AI and cyber-analysis are routinely used to track and profile foreign civilians, deliberately framing their political advocacy and boycott organizing as 'asymmetric military threats' to justify intense surveillance."
+      }
+    ]
   }
 ]
