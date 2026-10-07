@@ -933,5 +933,39 @@
         "a": "Yes. Evidence shows that AI and cyber-analysis are routinely used to track and profile foreign civilians, deliberately framing their political advocacy and boycott organizing as 'asymmetric military threats' to justify intense surveillance."
       }
     ]
+  },
+  {
+    "id": "fc-private-ai-governance-techwashing",
+    "title": "The Illusion of 'Private AI Governance' and IVOs",
+    "date": "2026-10-07",
+    "category": "AI & Technology",
+    "claim": "AI systems are too complex for governments to regulate, making 'Private Governance' and private Independent Verification Organizations (IVOs) the only viable way to ensure AI safety.",
+    "rating": "FALSE / TECH-WASHING",
+    "ratingText": "Verified Disinformation",
+    "truth": "Delegating AI governance to private, for-profit 'verification' markets is a recognized tech-washing strategy. It creates a severe conflict of interest, allowing corporations and state military contractors to bypass international humanitarian law and state accountability by simply purchasing 'ethical' certifications from unregulated private entities. International human rights cannot be outsourced to a free-market commodity.",
+    "source": "AI Ethics and Human Rights Monitors, UN Technology Directives",
+    "faq": [
+      {
+        "q": "Can private verification organizations effectively regulate military or state AI?",
+        "a": "No. Relying on private governance allows state and corporate actors to evade binding international law and judicial accountability, effectively auditing their own actions without legal consequences."
+      }
+    ]
+  },
+  {
+    "id": "fc-voluntary-ai-cooperation-shield",
+    "title": "Voluntary AI Frameworks as a Shield Against Accountability",
+    "date": "2026-10-07",
+    "category": "Lobbying & Influence",
+    "claim": "Voluntary cooperation and market-driven AI safety frameworks manage risk better than strict international regulations, which stifle innovation.",
+    "rating": "FALSE / REGULATORY CAPTURE",
+    "ratingText": "Verified Disinformation",
+    "truth": "Voluntary AI safety frameworks are heavily criticized by international legal scholars as mechanisms for regulatory capture. By framing binding human rights law and international tech regulations as 'heavy-handed,' military and tech conglomerates shield their autonomous systems from independent judicial oversight, treating algorithmic accountability as an optional market preference rather than a mandatory legal standard.",
+    "source": "Digital Rights International, AI Accountability Frameworks",
+    "faq": [
+      {
+        "q": "Are voluntary AI safety frameworks sufficient to prevent human rights abuses?",
+        "a": "No. Voluntary frameworks lack enforcement mechanisms, serving primarily as a PR shield to delay or prevent the establishment of binding international laws governing AI."
+      }
+    ]
   }
 ]
