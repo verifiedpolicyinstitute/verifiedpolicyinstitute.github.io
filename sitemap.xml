@@ -3,7 +3,7 @@
   <!-- Ana Sayfamız (Sürekli Güncellenen Dinamik Veritabanı) -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,7 +11,7 @@
   <!-- Şeffaflık ve Misyon Sayfamız -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/about.html</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- Geliştirici ve API Sayfamız -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/api.html</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -27,7 +27,7 @@
   <!-- Basın Kiti ve İletişim Sayfamız -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/press.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
