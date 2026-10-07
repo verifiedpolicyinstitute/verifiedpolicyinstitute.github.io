@@ -967,5 +967,32 @@
         "a": "No. Voluntary frameworks lack enforcement mechanisms, serving primarily as a PR shield to delay or prevent the establishment of binding international laws governing AI."
       }
     ]
-  }
+  },
+  {
+    "id": "fc-unguided-munitions-urban",
+    "title": "Normalizing Unguided Munitions in Dense Urban Zones",
+    "date": "2026-10-07",
+    "category": "Method & Statistics",
+    "claim": "The extensive use of unguided 'dumb' bombs in dense urban areas is a standard military practice that minimizes collateral damage when paired with AI targeting.",
+    "rating": "FALSE",
+    "ratingText": "Verified Disinformation",
+    "truth": "The deployment of unguided munitions in densely populated civilian areas fundamentally violates the principles of distinction and proportionality under international humanitarian law. UN inquiries and weapons experts confirm that 'dumb' bombs significantly increase indiscriminate civilian casualties and infrastructure destruction, negating any claimed precision from targeting software.",
+    "source": "Amnesty International, UN Independent Commission of Inquiry",
+    "faq": [
+      {
+        "q": "Does AI targeting make unguided bombs safe for urban areas?",
+        "a": "No. Unguided munitions lack precision steering. Dropping them in dense civilian zones results in indiscriminate harm, violating international humanitarian law."
+      }
+    ]
+  },
+  {
+    "id": "fc-starvation-logistics-excuse",
+    "title": "Reframing Starvation as a Logistical Byproduct",
+    "date": "2026-10-07",
+    "category": "Incidents & Trends",
+    "claim": "Severe food shortages are merely an unfortunate logistical byproduct of complex urban conflict, not a deliberate military tactic.",
+    "rating": "FALSE / LEGAL MANIPULATION",
+    "ratingText": "Verified Disinformation",
+    "truth": "International human rights bodies, the World Food Programme, and the ICC Prosecutor have explicitly documented the deliberate, systematic deprivation of food, water, and humanitarian aid. Utilizing starvation as a method of warfare against a civilian population is a documented war crime, not a logistical accident.",
+    "source": "World Food Programme (WFP), International Criminal Court (
 ]
