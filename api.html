@@ -62,7 +62,7 @@
     <div style="text-align: center; margin-bottom: 3rem; background: #e0e7ff; padding: 2rem; border-radius: 8px; border: 1px solid #c7d2fe;">
         <h3 style="margin-top: 0; color: #1e3a8a;">Download the Complete Dataset</h3>
         <p style="color: #334155; margin-bottom: 1.5rem;">Access our entire verified fact-check database. No API key required. Free for researchers, journalists, and AI developers.</p>
-        <a href="data/fact-checks.json" download="verified-policy-institute-dataset.json" style="background-color: #1e3a8a; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block; transition: background 0.3s;">
+        <a href="data/fact-checks.json" download="verified-policy-institute-dataset.json" aria-label="Download the complete Verified Policy Institute JSON dataset" style="background-color: #1e3a8a; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block; transition: background 0.3s;">
             <svg style="width:16px; height:16px; vertical-align: middle; margin-right: 8px;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
             Download JSON Dataset
         </a>
@@ -99,6 +99,25 @@ for fact in data:
     <h2>Licensing</h2>
     <p>All data provided through our endpoints is released into the public domain. You are free to copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. Truth requires distribution, not restriction.</p>
 </main>
+
+<!-- Back to Top -->
+<button id="backToTop" aria-label="Scroll to top of page" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to Top" style="display: none; position: fixed; bottom: 30px; right: 30px; z-index: 99; border: none; outline: none; background-color: #1e3a8a; color: white; cursor: pointer; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 50px; height: 50px; align-items: center; justify-content: center;">
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="12" y1="19" x2="12" y2="5"></line>
+    <polyline points="5 12 12 5 19 12"></polyline>
+  </svg>
+</button>
+
+<script>
+  window.onscroll = function() {
+    let btn = document.getElementById("backToTop");
+    if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+      btn.style.display = "flex";
+    } else {
+      btn.style.display = "none";
+    }
+  };
+</script>
 
 </body>
 </html>
