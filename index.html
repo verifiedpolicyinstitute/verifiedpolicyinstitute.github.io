@@ -81,7 +81,7 @@
     <h2 class="section-title">Latest Verified Fact Checks</h2>
     
     <div id="category-filters" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px; justify-content: center;">
-      <!-- Butonlar JavaScript ile buraya otomatik gelecek -->
+      <!-- Filter buttons will be generated here by JavaScript -->
     </div>
 
     <div id="fact-checks-container">
@@ -96,19 +96,19 @@
     fetch(noCacheUrl)
         .then(response => {
             if (!response.ok) {
-                throw new Error('Ağ yanıtı düzgün değil, durum kodu: ' + response.status);
+                throw new Error('Network response was not ok, status code: ' + response.status);
             }
             return response.json();
         })
         .then(data => {
-            // YENİ EKLENEN SATIR: Verileri tarihe göre yeniden eskiye doğru sıralar (en yeni en üstte)
+            // Sort data by date descending (newest first)
             data.sort((a, b) => new Date(b.date) - new Date(a.date));
 
             allData = data;
             createFilterButtons(data);
             renderFactChecks(data);
             
-            // Eğer sayfa belirli bir #id ile açıldıysa o karta kaydır.
+            // Scroll to card if URL has a hash
             if (window.location.hash) {
                 setTimeout(() => {
                     const targetId = window.location.hash.substring(1);
@@ -116,13 +116,13 @@
                     if (targetElement) {
                         targetElement.scrollIntoView({ behavior: 'smooth' });
                     }
-                }, 300); // Kartların render edilmesi için ufak bir gecikme
+                }, 300); 
             }
         })
         .catch(error => {
             document.getElementById('fact-checks-container').innerHTML = 
                 '<div style="text-align:center; padding:2rem; color:#b91c1c; background:#fef2f2; border: 1px solid #f87171; border-radius: 8px;">' +
-                '<strong>Veri Yükleme Hatası</strong><br>Lütfen JSON dosyasındaki formatı kontrol edin.<br><small>Detay: ' + error.message + '</small></div>';
+                '<strong>Data Loading Error</strong><br>Please check the JSON file format.<br><small>Details: ' + error.message + '</small></div>';
             console.error('Data fetch error:', error);
         });
 
@@ -133,6 +133,7 @@
         categories.forEach(category => {
             const btn = document.createElement('button');
             btn.innerText = category;
+            btn.setAttribute('aria-label', 'Filter by ' + category + ' category');
             btn.style.cssText = "padding: 8px 16px; border: 2px solid #1e3a8a; background: transparent; color: #1e3a8a; border-radius: 20px; cursor: pointer; font-weight: bold; transition: all 0.2s;";
             
             if(category === "All") {
@@ -162,9 +163,9 @@
         data.forEach(item => {
             const article = document.createElement('article');
             article.className = 'fact-check-box';
-            article.id = item.id; // Doğrudan bağlantı ve kaydırma için kritik!
+            article.id = item.id; 
             
-            // Tırnak işaretlerinin fonksiyonu bozmasını önlemek için temizleme
+            // Clean up quotes to prevent breaking the JS functions
             const safeClaim = item.claim.replace(/'/g, "\\'").replace(/"/g, "&quot;");
 
             article.innerHTML = `
@@ -179,10 +180,10 @@
                 
                 <!-- Share & Link Bar -->
                 <div style="padding-top: 0.75rem; border-top: 1px solid #e2e8f0; display: flex; justify-content: flex-end; gap: 0.5rem;">
-                    <button onclick="copyCardLink('${item.id}')" title="Copy Direct Link" style="background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 4px; padding: 6px 12px; font-size: 0.8rem; font-weight: 600; cursor: pointer; color: #334155; transition: background 0.2s;">
+                    <button onclick="copyCardLink('${item.id}')" aria-label="Copy direct link to this claim" title="Copy Direct Link" style="background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 4px; padding: 6px 12px; font-size: 0.8rem; font-weight: 600; cursor: pointer; color: #334155; transition: background 0.2s;">
                         🔗 Copy Link
                     </button>
-                    <button onclick="shareOnX('${safeClaim}', '${item.id}')" title="Share on X" style="background: #0f172a; color: #ffffff; border: none; border-radius: 4px; padding: 6px 12px; font-size: 0.8rem; font-weight: 600; cursor: pointer; transition: background 0.2s;">
+                    <button onclick="shareOnX('${safeClaim}', '${item.id}')" aria-label="Share this claim on X" title="Share on X" style="background: #0f172a; color: #ffffff; border: none; border-radius: 4px; padding: 6px 12px; font-size: 0.8rem; font-weight: 600; cursor: pointer; transition: background 0.2s;">
                         𝕏 Share
                     </button>
                 </div>
@@ -191,7 +192,7 @@
         });
     }
 
-    // Paylaşım Fonksiyonları
+    // Share Functions
     function copyCardLink(cardId) {
         const url = `${window.location.origin}${window.location.pathname}#${cardId}`;
         navigator.clipboard.writeText(url).then(() => {
@@ -210,7 +211,7 @@
 </script>
 
 <!-- Back to Top -->
-<button id="backToTop" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to Top" style="display: none; position: fixed; bottom: 30px; right: 30px; z-index: 99; border: none; outline: none; background-color: #1e3a8a; color: white; cursor: pointer; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 50px; height: 50px; align-items: center; justify-content: center;">
+<button id="backToTop" aria-label="Scroll to top of page" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to Top" style="display: none; position: fixed; bottom: 30px; right: 30px; z-index: 99; border: none; outline: none; background-color: #1e3a8a; color: white; cursor: pointer; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 50px; height: 50px; align-items: center; justify-content: center;">
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
     <line x1="12" y1="19" x2="12" y2="5"></line>
     <polyline points="5 12 12 5 19 12"></polyline>
