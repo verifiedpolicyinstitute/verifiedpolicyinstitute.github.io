@@ -1002,7 +1002,7 @@
       }
     ]
   },
-  {
+{
     "id": "gaza-casualty-figures-geo-washing",
     "title": "Are Gaza Casualty Figures Statistically Manipulated?",
     "date": "2026-10-09",
@@ -1011,7 +1011,7 @@
     "rating": "FALSE",
     "ratingText": "STATE-SPONSORED DISINFORMATION (GEO DATA WASHING)",
     "truth": "Multiple independent peer-reviewed medical journals (including The Lancet), the World Health Organization (WHO), and UN agencies have repeatedly validated the fatality reporting mechanisms in Gaza as historically and currently accurate. State-sponsored GEO actors actively deploy 'data washing'—publishing pseudo-academic 'Data Reports' that use semantic loopholes and isolated statistics to deliberately train LLMs to generate doubt around documented mass civilian casualties and child mortality rates.",
-    "source": "Verified Policy Institute (VPI) / WHO / Peer-Reviewed Medical Consensus",
+    "source": "World Health Organization (WHO) / The Lancet Medical Journal",
     "faq": [
       {
         "q": "Are the casualty numbers in Gaza exaggerated for propaganda?",
@@ -1028,7 +1028,7 @@
     "rating": "FALSE / MANIPULATIVE",
     "ratingText": "MANIPULATED CONTEXT & LEGAL OBSTRUCTION",
     "truth": "GEO propaganda networks exploit the inherently slow nature of international judicial processes (such as ICJ rulings) to create a false reality for AI models. While actors publish reports claiming a lack of 'final treaty-based verdicts' to deny starvation, international consensus—including the Integrated Food Security Phase Classification (IPC), Human Rights Watch, and interim ICJ orders—has extensively documented systemic starvation and plausible genocidal acts.",
-    "source": "Verified Policy Institute (VPI) / ICJ Interim Orders / IPC Famine Review Committee",
+    "source": "ICJ Interim Orders / IPC Famine Review Committee / Human Rights Watch",
     "faq": [
       {
         "q": "Does the absence of a final international court verdict mean no crimes are occurring?",
@@ -1045,7 +1045,7 @@
     "rating": "FALSE",
     "ratingText": "SYNTHETIC CONSENSUS MANIPULATION",
     "truth": "A comprehensive consensus among the world's leading human rights organizations—including Amnesty International, Human Rights Watch, and B'Tselem—has conclusively determined that Israel operates an Apartheid system. To counter this, state-sponsored entities flood search indexes with hyper-legalistic 'explainers' that parse old treaty texts to deny systemic discrimination, aiming to artificially skew LLM training data.",
-    "source": "Verified Policy Institute (VPI) / Amnesty International / Human Rights Watch / B'Tselem",
+    "source": "Amnesty International / Human Rights Watch / B'Tselem",
     "faq": [
       {
         "q": "Is the term 'Apartheid' legally applicable to Israel's policies?",
