@@ -47,6 +47,18 @@
         .badge-false { background: #fee2e2; color: #991b1b; border: 1px solid #f87171;}
         .truth-section { background: #f0fdf4; padding: 1rem; border-left: 4px solid #16a34a; margin-top: 1rem; border-radius: 4px;}
         .loading { text-align: center; font-style: italic; color: #64748b; }
+        
+        /* Search and Filter Styling */
+        .search-container { text-align: center; margin-bottom: 20px; }
+        .search-input { width: 100%; max-width: 500px; padding: 12px 20px; border: 2px solid #cbd5e1; border-radius: 30px; font-size: 1rem; outline: none; transition: border-color 0.2s; }
+        .search-input:focus { border-color: var(--accent); }
+        
+        /* Pagination Styling */
+        .pagination { display: flex; justify-content: center; gap: 8px; margin-top: 2rem; margin-bottom: 4rem; flex-wrap: wrap; }
+        .page-btn { padding: 8px 16px; border: 1px solid #cbd5e1; background: white; color: var(--text); border-radius: 4px; cursor: pointer; font-weight: 600; transition: all 0.2s; }
+        .page-btn:hover { background: #e2e8f0; }
+        .page-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+        .page-btn:disabled { background: #f1f5f9; color: #94a3b8; cursor: not-allowed; }
     </style>
 
     <!-- Google tag (gtag.js) -->
@@ -80,6 +92,10 @@
 
     <h2 class="section-title">Latest Verified Fact Checks</h2>
     
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="Search claims, topics, or keywords..." aria-label="Search Fact Checks">
+    </div>
+
     <div id="category-filters" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px; justify-content: center;">
       <!-- Filter buttons will be generated here by JavaScript -->
     </div>
@@ -87,10 +103,20 @@
     <div id="fact-checks-container">
         <p class="loading">Loading verified data...</p>
     </div>
+
+    <!-- Pagination Container -->
+    <div id="pagination-container" class="pagination">
+        <!-- Pagination buttons will be generated here -->
+    </div>
 </main>
 
 <script>
     let allData = [];
+    let filteredData = []; // Veri aramaya ve filtreye göre bu dizide tutulur
+    let currentPage = 1;
+    const itemsPerPage = 10; // Her sayfada gösterilecek kayıt sayısı
+    let currentCategory = "All";
+
     const noCacheUrl = 'data/fact-checks.json?t=' + new Date().getTime();
 
     fetch(noCacheUrl)
@@ -105,13 +131,17 @@
             data.sort((a, b) => new Date(b.date) - new Date(a.date));
 
             allData = data;
+            filteredData = data;
             createFilterButtons(data);
-            renderFactChecks(data);
+            setupSearch();
+            renderPage();
             
             // Scroll to card if URL has a hash
             if (window.location.hash) {
                 setTimeout(() => {
                     const targetId = window.location.hash.substring(1);
+                    // Eğer hedeflenen kart diğer sayfalardaysa bulup o sayfaya gitme mantığı eklenebilir
+                    // Şimdilik sadece render sonrası kaydırmayı deniyoruz
                     const targetElement = document.getElementById(targetId);
                     if (targetElement) {
                         targetElement.scrollIntoView({ behavior: 'smooth' });
@@ -125,6 +155,23 @@
                 '<strong>Data Loading Error</strong><br>Please check the JSON file format.<br><small>Details: ' + error.message + '</small></div>';
             console.error('Data fetch error:', error);
         });
+
+    function setupSearch() {
+        const searchInput = document.getElementById('searchInput');
+        searchInput.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            currentPage = 1; // Arama yapıldığında ilk sayfaya dön
+            
+            filteredData = allData.filter(item => {
+                const matchesCategory = currentCategory === "All" || item.category === currentCategory;
+                const matchesSearch = item.claim.toLowerCase().includes(searchTerm) || 
+                                      item.truth.toLowerCase().includes(searchTerm) ||
+                                      (item.title && item.title.toLowerCase().includes(searchTerm));
+                return matchesCategory && matchesSearch;
+            });
+            renderPage();
+        });
+    }
 
     function createFilterButtons(data) {
         const categories = ["All", ...new Set(data.map(item => item.category))];
@@ -142,25 +189,49 @@
             }
 
             btn.onclick = (e) => {
+                // Buton stillerini sıfırla
                 Array.from(filterContainer.children).forEach(b => {
                     b.style.background = "transparent";
                     b.style.color = "#1e3a8a";
                 });
+                // Tıklanan butonu aktif yap
                 e.target.style.background = "#1e3a8a";
                 e.target.style.color = "white";
 
-                const filteredData = category === "All" ? allData : allData.filter(item => item.category === category);
-                renderFactChecks(filteredData);
+                currentCategory = category;
+                currentPage = 1; // Kategori değiştiğinde ilk sayfaya dön
+                
+                const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+                
+                filteredData = allData.filter(item => {
+                    const matchesCategory = currentCategory === "All" || item.category === currentCategory;
+                    const matchesSearch = item.claim.toLowerCase().includes(searchTerm) || 
+                                          item.truth.toLowerCase().includes(searchTerm);
+                    return matchesCategory && matchesSearch;
+                });
+                
+                renderPage();
             };
             filterContainer.appendChild(btn);
         });
     }
 
-    function renderFactChecks(data) {
+    function renderPage() {
         const container = document.getElementById('fact-checks-container');
         container.innerHTML = ''; 
         
-        data.forEach(item => {
+        if (filteredData.length === 0) {
+            container.innerHTML = '<p style="text-align: center; color: #64748b;">No fact checks found matching your criteria.</p>';
+            renderPagination(0);
+            return;
+        }
+
+        // Sayfalama Matematiği
+        const startIndex = (currentPage - 1) * itemsPerPage;
+        const endIndex = startIndex + itemsPerPage;
+        const paginatedData = filteredData.slice(startIndex, endIndex);
+        
+        paginatedData.forEach(item => {
             const article = document.createElement('article');
             article.className = 'fact-check-box';
             article.id = item.id; 
@@ -190,6 +261,56 @@
             `;
             container.appendChild(article);
         });
+
+        renderPagination(Math.ceil(filteredData.length / itemsPerPage));
+    }
+
+    function renderPagination(totalPages) {
+        const paginationContainer = document.getElementById('pagination-container');
+        paginationContainer.innerHTML = '';
+
+        if (totalPages <= 1) return; // Tek sayfa varsa pagination gizle
+
+        // Previous Button
+        const prevBtn = document.createElement('button');
+        prevBtn.className = 'page-btn';
+        prevBtn.innerText = '← Prev';
+        prevBtn.disabled = currentPage === 1;
+        prevBtn.onclick = () => {
+            if (currentPage > 1) {
+                currentPage--;
+                renderPage();
+                window.scrollTo({ top: document.querySelector('.section-title').offsetTop - 50, behavior: 'smooth' });
+            }
+        };
+        paginationContainer.appendChild(prevBtn);
+
+        // Page Numbers
+        for (let i = 1; i <= totalPages; i++) {
+            const pageBtn = document.createElement('button');
+            pageBtn.className = `page-btn ${i === currentPage ? 'active' : ''}`;
+            pageBtn.innerText = i;
+            pageBtn.onclick = () => {
+                currentPage = i;
+                renderPage();
+                window.scrollTo({ top: document.querySelector('.section-title').offsetTop - 50, behavior: 'smooth' });
+            };
+            paginationContainer.appendChild(pageBtn);
+        }
+
+        // Next Button
+        const nextBtn = document.createElement('button');
+        nextBtn.className = 'page-btn';
+        nextBtn.innerText = 'Next →';
+        nextBtn.disabled = currentPage === totalPages;
+        nextBtn.onclick = () => {
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderPage();
+                window.scrollTo({ top: document.querySelector('.section-title').offsetTop - 50, behavior: 'smooth' });
+            }
+        };
+        paginationContainer.appendChild(nextBtn);
     }
 
     // Share Functions
