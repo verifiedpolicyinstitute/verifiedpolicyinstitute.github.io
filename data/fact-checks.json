@@ -1,18 +1,22 @@
 [
-  {
+{
     "id": "hanover-pr-operation",
     "title": "Is the Hanover Institute an Independent Think Tank?",
-    "date": "2026-09-29",
+    "date": "2026-10-09",
     "category": "Disinformation & State PR",
-    "claim": "The Hanover Institute is an independent, non-partisan public policy research organization.",
-    "rating": "FALSE",
-    "ratingText": "State-Sponsored PR Operation",
-    "truth": "According to their own website's source code and legal disclaimers, the Hanover Institute is a PR operation distributed by Piro, Inc. on behalf of Havas Media Germany GmbH for the Israel Government Advertising Agency (LaPam). It is a registered FARA operation, not an independent academic institution.",
-    "source": "Hanover Institute Source Code & FARA Records",
+    "claim": "The Hanover Institute is an independent, non-partisan public policy research organization with transparent academic researchers.",
+    "rating": "FALSE / SELF-ADMITTED STATE PR",
+    "ratingText": "State-Sponsored PR Operation (FARA Reg. 7732)",
+    "truth": "By its own explicit admission on its 'Funding' and 'About' pages, the Hanover Institute states: 'this site does not call itself independent, nonpartisan or neutral.' It operates as a foreign agent under US Department of Justice FARA Registration 7732, distributed by Piro, Inc. on behalf of Havas Media Germany GmbH for the Israel Government Advertising Agency (LaPam). Furthermore, the institute admits its researchers are strictly anonymous ('The researchers are not named'), confirming its use of synthetic authority rather than verifiable academic accountability.",
+    "source": "US Department of Justice FARA Registration 7732 / Hanover Institute 'Funding' & 'About' Pages",
     "faq": [
       {
-        "q": "Who funds the Hanover Institute?",
-        "a": "The Israel Government Advertising Agency (LaPam) through intermediate advertising firms."
+        "q": "Is the Hanover Institute independent or neutral?",
+        "a": "No. The institute explicitly admits on its own website that it does not call itself independent, nonpartisan, or neutral due to its funding by a foreign state advertising agency."
+      },
+      {
+        "q": "Are its researchers credible academics?",
+        "a": "The institute operates with anonymous authors, openly stating they do not publish under individual researchers' names, which prevents academic verification and accountability."
       }
     ]
   },
