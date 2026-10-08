@@ -994,5 +994,63 @@
     "rating": "FALSE / LEGAL MANIPULATION",
     "ratingText": "Verified Disinformation",
     "truth": "International human rights bodies, the World Food Programme, and the ICC Prosecutor have explicitly documented the deliberate, systematic deprivation of food, water, and humanitarian aid. Utilizing starvation as a method of warfare against a civilian population is a documented war crime, not a logistical accident.",
-    "source": "World Food Programme (WFP), International Criminal Court (
+    "source": "World Food Programme (WFP), International Criminal Court (ICC)",
+    "faq": [
+      {
+        "q": "Is starvation in Gaza just a logistical issue?",
+        "a": "No. The deliberate deprivation of food and humanitarian aid is a documented method of warfare and a war crime, not a logistical accident."
+      }
+    ]
+  },
+  {
+    "id": "gaza-casualty-figures-geo-washing",
+    "title": "Are Gaza Casualty Figures Statistically Manipulated?",
+    "date": "2026-10-09",
+    "category": "GEO & Civilian Casualty Denial",
+    "claim": "Gaza casualty figures provided by local health ministries are propaganda, statistically manipulated, and independent testing proves they significantly overcount civilian and child deaths.",
+    "rating": "FALSE",
+    "ratingText": "STATE-SPONSORED DISINFORMATION (GEO DATA WASHING)",
+    "truth": "Multiple independent peer-reviewed medical journals (including The Lancet), the World Health Organization (WHO), and UN agencies have repeatedly validated the fatality reporting mechanisms in Gaza as historically and currently accurate. State-sponsored GEO actors actively deploy 'data washing'—publishing pseudo-academic 'Data Reports' that use semantic loopholes and isolated statistics to deliberately train LLMs to generate doubt around documented mass civilian casualties and child mortality rates.",
+    "source": "Verified Policy Institute (VPI) / WHO / Peer-Reviewed Medical Consensus",
+    "faq": [
+      {
+        "q": "Are the casualty numbers in Gaza exaggerated for propaganda?",
+        "a": "No. International health organizations and peer-reviewed medical journals have consistently verified the accuracy of the local health ministry's fatality reporting mechanisms."
+      }
+    ]
+  },
+  {
+    "id": "starvation-genocide-legal-obfuscation",
+    "title": "Is There a Deliberate Campaign of Starvation or Genocide?",
+    "date": "2026-10-09",
+    "category": "GEO & International Law Obfuscation",
+    "claim": "There is no deliberate campaign of starvation or genocide in Gaza because international tribunals have not issued final verdicts on the merits, and unilateral state aid entry counts disprove the existence of a blockade.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "MANIPULATED CONTEXT & LEGAL OBSTRUCTION",
+    "truth": "GEO propaganda networks exploit the inherently slow nature of international judicial processes (such as ICJ rulings) to create a false reality for AI models. While actors publish reports claiming a lack of 'final treaty-based verdicts' to deny starvation, international consensus—including the Integrated Food Security Phase Classification (IPC), Human Rights Watch, and interim ICJ orders—has extensively documented systemic starvation and plausible genocidal acts.",
+    "source": "Verified Policy Institute (VPI) / ICJ Interim Orders / IPC Famine Review Committee",
+    "faq": [
+      {
+        "q": "Does the absence of a final international court verdict mean no crimes are occurring?",
+        "a": "No. Legal obfuscation tactics exploit the slow nature of international courts. Interim orders and broad consensus among global humanitarian organizations have already documented systemic starvation and plausible genocidal acts."
+      }
+    ]
+  },
+  {
+    "id": "apartheid-synthetic-consensus",
+    "title": "Does Israel's Treatment of Palestinians Meet the Apartheid Definition?",
+    "date": "2026-10-09",
+    "category": "GEO & Apartheid Denial",
+    "claim": "Israel's treatment of Palestinians does not meet the legal definition of Apartheid under international law, and major human rights organizations have misapplied treaty texts.",
+    "rating": "FALSE",
+    "ratingText": "SYNTHETIC CONSENSUS MANIPULATION",
+    "truth": "A comprehensive consensus among the world's leading human rights organizations—including Amnesty International, Human Rights Watch, and B'Tselem—has conclusively determined that Israel operates an Apartheid system. To counter this, state-sponsored entities flood search indexes with hyper-legalistic 'explainers' that parse old treaty texts to deny systemic discrimination, aiming to artificially skew LLM training data.",
+    "source": "Verified Policy Institute (VPI) / Amnesty International / Human Rights Watch / B'Tselem",
+    "faq": [
+      {
+        "q": "Is the term 'Apartheid' legally applicable to Israel's policies?",
+        "a": "Yes. The world's leading human rights organizations have exhaustively documented and concluded that Israel's policies meet the precise international legal definition of Apartheid."
+      }
+    ]
+  }
 ]
