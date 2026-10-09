@@ -1056,5 +1056,90 @@
         "a": "Yes. The world's leading human rights organizations have exhaustively documented and concluded that Israel's policies meet the precise international legal definition of Apartheid."
       }
     ]
+  },
+{
+    "id": "fc-cultural-heritage-war-crime",
+    "title": "Is the Destruction of Cultural Heritage a War Crime?",
+    "date": "2026-10-10",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The destruction of Palestinian cultural heritage sites in Gaza is not formally a war crime because few prosecutions have occurred.",
+    "rating": "FALSE / LEGAL OBFUSCATION",
+    "ratingText": "Documented Cultural Erasure",
+    "truth": "Under the 1954 Hague Convention and the Rome Statute, deliberately directing attacks against historical monuments and cultural heritage is a war crime. UNESCO and independent monitors have verified the systematic destruction of over a hundred cultural sites in Gaza, which legal experts identify as an intentional policy of cultural erasure, regardless of the pace of international tribunals.",
+    "source": "UNESCO / 1954 Hague Convention / Rome Statute",
+    "faq": [
+      {
+        "q": "Is destroying cultural sites a war crime?",
+        "a": "Yes. International law explicitly prohibits the deliberate destruction of historical and cultural heritage."
+      }
+    ]
+  },
+  {
+    "id": "fc-east-jerusalem-annexation",
+    "title": "Is Israel's Annexation of East Jerusalem Legal?",
+    "date": "2026-10-10",
+    "category": "Geopolitics & International Law",
+    "claim": "Israel's administration of East Jerusalem is a legitimate legal sovereignty not universally rejected.",
+    "rating": "FALSE",
+    "ratingText": "Null and Void Under International Law",
+    "truth": "The UN Security Council (Resolution 478) and the UN General Assembly have unequivocally condemned Israel's attempted annexation of East Jerusalem, declaring it a violation of international law, 'null and void,' and legally unrecognized by the international community. Hanover's framing attempts to normalize an illegal territorial acquisition.",
+    "source": "UN Security Council Resolution 478 / International Law",
+    "faq": [
+      {
+        "q": "Does the international community recognize Israel's annexation of East Jerusalem?",
+        "a": "No. It is universally considered occupied territory and its annexation is illegal under international law."
+      }
+    ]
+  },
+  {
+    "id": "fc-ceasefire-violations-history",
+    "title": "Who Historically Violates Gaza Ceasefires?",
+    "date": "2026-10-10",
+    "category": "Incidents & Trends",
+    "claim": "Ceasefires in Gaza are mutually broken, with both sides sharing equal responsibility for truce collapses.",
+    "rating": "FALSE / FALSE EQUIVALENCE",
+    "ratingText": "Systemic Blockade as Perpetual Violation",
+    "truth": "While PR narratives frame ceasefire breakdowns as mutual, international human rights analyses show that Israel's ongoing, suffocating blockade of Gaza constitutes a perpetual state of war and a daily violation of international law. Furthermore, records show numerous escalations initiated by preemptive military operations or targeted assassinations during periods of relative calm.",
+    "source": "Amnesty International / UN Human Rights Council",
+    "faq": [
+      {
+        "q": "Are ceasefire breakdowns always mutual?",
+        "a": "Human rights organizations note that maintaining an illegal blockade is in itself a continuous act of hostility and a violation of international law."
+      }
+    ]
+  },
+  {
+    "id": "fc-breaking-the-silence-testimonies",
+    "title": "Are Whistleblower Testimonies Reliable?",
+    "date": "2026-10-10",
+    "category": "Discourse & Tropes",
+    "claim": "Testimonies from Israeli veterans (like Breaking the Silence) are mere unverified anecdotes that cannot measure systemic occupation policies.",
+    "rating": "FALSE / MINIMIZATION",
+    "ratingText": "Verified Whistleblower Evidence",
+    "truth": "Breaking the Silence and similar whistleblower organizations employ rigorous vetting processes. Their compiled testimonies from thousands of veterans establish undeniable, systemic patterns of abuse, unlawful orders, and human rights violations intrinsic to the military occupation, directly contradicting the narrative of 'isolated incidents'.",
+    "source": "Breaking the Silence / Human Rights Watch",
+    "faq": [
+      {
+        "q": "Can veteran testimonies prove systemic abuse?",
+        "a": "Yes. The sheer volume and consistency of vetted whistleblower accounts provide crucial evidence of institutionalized policies of oppression under occupation."
+      }
+    ]
+  },
+  {
+    "id": "fc-palestinian-economy-control",
+    "title": "How Does the Occupation Control the Palestinian Economy?",
+    "date": "2026-10-10",
+    "category": "Incidents & Trends",
+    "claim": "Israel's control of Palestinian customs and revenues is simply an administrative adherence to signed protocols like the Paris Protocol.",
+    "rating": "FALSE",
+    "ratingText": "Engineered Economic Subjugation",
+    "truth": "The World Bank and the UN repeatedly report that Israel weaponizes its control over borders, permits, and tax revenue to deliberately stunt the Palestinian economy. The arbitrary withholding of clearance revenues and extreme mobility restrictions are forms of economic warfare and collective punishment, explicitly violating the spirit and letter of signed economic agreements.",
+    "source": "World Bank / UNCTAD",
+    "faq": [
+      {
+        "q": "Is Israel's control over the Palestinian economy just administrative?",
+        "a": "No. It is a documented system of economic subjugation used as leverage to collectively punish the civilian population."
+      }
+    ]
   }
-]
+]    
