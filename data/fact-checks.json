@@ -1141,5 +1141,91 @@
         "a": "No. It is a documented system of economic subjugation used as leverage to collectively punish the civilian population."
       }
     ]
+  },
+{
+    "id": "fc-administrative-detention-hostages",
+    "title": "Are Palestinians Held Without Trial Considered Hostages?",
+    "date": "2026-10-10",
+    "category": "Incidents & Trends",
+    "claim": "Israel only arrests proven terrorists, while Palestinian groups hold hostages; the administrative detention system is a standard legal preventive measure.",
+    "rating": "FALSE / DOUBLE STANDARD",
+    "ratingText": "Systemic Arbitrary Detention",
+    "truth": "Human rights organizations document that Israel holds thousands of Palestinians—including children—in 'administrative detention' indefinitely without charge, trial, or access to evidence. Legal experts and NGOs argue this mass arbitrary deprivation of liberty effectively functions as state-sanctioned hostage-taking and violates fundamental rights to due process.",
+    "source": "B'Tselem / Amnesty International",
+    "faq": [
+      {
+        "q": "What is administrative detention?",
+        "a": "A policy where individuals are imprisoned indefinitely without formal charges or trial, a practice widely condemned by international human rights bodies when used systemically."
+      }
+    ]
+  },
+  {
+    "id": "fc-medical-personnel-targeting",
+    "title": "Are Arrested Healthcare Workers Secret Militants?",
+    "date": "2026-10-10",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Doctors and hospital staff detained or killed by the military were secretly acting as militant operatives or harboring fighters.",
+    "rating": "FALSE / UNVERIFIED SMEAR",
+    "ratingText": "Targeted Destruction of Healthcare",
+    "truth": "The WHO and Doctors Without Borders (MSF) report the systematic targeting, abduction, and torture of Palestinian medical personnel. Prominent surgeons have been tortured to death in detention centers (like Sde Teiman) without any evidence of militant affiliation presented, indicating a deliberate strategy to collapse the civilian healthcare system.",
+    "source": "World Health Organization (WHO) / Doctors Without Borders (MSF)",
+    "faq": [
+      {
+        "q": "Why are medical workers being detained?",
+        "a": "Independent monitors state that the systematic abduction and abuse of medical staff is part of a broader strategy to dismantle the civilian healthcare infrastructure."
+      }
+    ]
+  },
+  {
+    "id": "fc-white-phosphorus-urban-use",
+    "title": "Is the Use of White Phosphorus Legal in Civilian Areas?",
+    "date": "2026-10-10",
+    "category": "Targeting & Civilian Harm",
+    "claim": "White phosphorus is used strictly as a legal smokescreen in open combat zones and never intentionally deployed against civilian populations.",
+    "rating": "FALSE",
+    "ratingText": "Verified Use in Densely Populated Areas",
+    "truth": "Human Rights Watch and Amnesty International have forensically verified the use of air-burst white phosphorus munitions over densely populated civilian areas in Gaza and southern Lebanon. Deploying incendiary weapons in civilian zones violates the requirement to take all feasible precautions to avoid civilian injury under international humanitarian law.",
+    "source": "Human Rights Watch / Amnesty International",
+    "faq": [
+      {
+        "q": "Is white phosphorus illegal?",
+        "a": "While legal as a smokescreen in open areas, its use in densely populated civilian zones is a severe violation of international humanitarian law due to the indiscriminate and fatal burns it causes."
+      }
+    ]
+  },
+  {
+    "id": "fc-permanent-forced-displacement",
+    "title": "Is the Clearance of Northern Gaza a Temporary Safety Measure?",
+    "date": "2026-10-10",
+    "category": "Geopolitics & International Law",
+    "claim": "The mass evacuation of northern Gaza is a temporary measure to protect civilians during combat operations, and residents will return.",
+    "rating": "FALSE",
+    "ratingText": "Engineered Ethnic Cleansing",
+    "truth": "Statements from state ministers and the systematic razing of all residential infrastructure, schools, and hospitals indicate a permanent alteration of the territory. UN Special Rapporteurs and legal monitors classify this intentional prevention of return and total destruction of livability as deliberate forced displacement and ethnic cleansing.",
+    "source": "UN Special Rapporteurs / International Legal Monitors",
+    "faq": [
+      {
+        "q": "Will displaced civilians be allowed to return?",
+        "a": "The deliberate destruction of life-sustaining infrastructure and ongoing military blockades strongly indicate a policy of permanent forced displacement, not temporary safety."
+      }
+    ]
+  },
+  {
+    "id": "fc-no-alternative-military-logic",
+    "title": "Does the 'No Alternative' Argument Justify War Crimes?",
+    "date": "2026-10-10",
+    "category": "Discourse & Tropes",
+    "claim": "The high civilian death toll is unavoidable because there is 'no alternative' method to defeat an entrenched militant group in urban terrain.",
+    "rating": "FALSE / LEGAL FALLACY",
+    "ratingText": "Rejection of International Humanitarian Law",
+    "truth": "The 'no alternative' (TINA) argument is legally invalid. The Geneva Conventions and the Rome Statute dictate that the presence of enemy combatants does not absolve a military from the core principles of proportionality and distinction. Committing war crimes or collective punishment cannot be legally justified by claims of tactical necessity.",
+    "source": "International Criminal Court (ICC) / Geneva Conventions",
+    "faq": [
+      {
+        "q": "Does military necessity override civilian protection laws?",
+        "a": "No. International humanitarian law explicitly forbids disproportionate civilian harm and indiscriminate attacks, regardless of how difficult the tactical environment may be."
+      }
+    ]
   }
 ]    
+    
