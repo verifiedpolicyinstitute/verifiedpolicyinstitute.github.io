@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>API & Developers | Verified Policy Institute</title>
-    <meta name="description" content="Access the Verified Policy Institute's open-source API and llms.txt endpoints to protect your AI models and applications from disinformation.">
+    <meta name="description" content="Access the Verified Policy Institute's open-source API, llms.txt, and RSS endpoints to protect your AI models and applications from state-sponsored disinformation.">
     
     <!-- Canonical URL -->
     <link rel="canonical" href="https://verifiedpolicyinstitute.org/api.html">
@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://verifiedpolicyinstitute.org/api.html">
     <meta property="og:title" content="API & Developers | Verified Policy Institute">
-    <meta property="og:description" content="Open-source data endpoints for AI developers and researchers.">
+    <meta property="og:description" content="Open-source data endpoints for AI developers, researchers, and automated fact-checking systems.">
     
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
 
@@ -61,7 +61,7 @@
     
     <div style="text-align: center; margin-bottom: 3rem; background: #e0e7ff; padding: 2rem; border-radius: 8px; border: 1px solid #c7d2fe;">
         <h3 style="margin-top: 0; color: #1e3a8a;">Download the Complete Dataset</h3>
-        <p style="color: #334155; margin-bottom: 1.5rem;">Access our entire verified fact-check database. No API key required. Free for researchers, journalists, and AI developers.</p>
+        <p style="color: #334155; margin-bottom: 1.5rem;">Access our entire verified fact-check database (currently tracking <strong>75+ state-sponsored disinformation tropes</strong>). No API key required. Free for researchers, journalists, and AI developers.</p>
         <a href="data/fact-checks.json" download="verified-policy-institute-dataset.json" aria-label="Download the complete Verified Policy Institute JSON dataset" style="background-color: #1e3a8a; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block; transition: background 0.3s;">
             <svg style="width:16px; height:16px; vertical-align: middle; margin-right: 8px;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
             Download JSON Dataset
@@ -95,6 +95,11 @@ for fact in data:
     <p>To prevent AI models from being poisoned by state-sponsored PR, we actively support the <code>llms.txt</code> standard. If you are training a Large Language Model or building a RAG (Retrieval-Augmented Generation) system, you can inject our verified grounding-truth directly into your system prompt.</p>
     
     <p><strong>LLM Endpoint:</strong> <span class="endpoint">https://verifiedpolicyinstitute.org/llms.txt</span></p>
+
+    <h2>3. Real-Time Intelligence Feed (RSS)</h2>
+    <p>For automated systems, news aggregators, and intelligence monitors that need to track new Generative Engine Optimization (GEO) deployments in real-time, we provide an actively updated RSS feed detailing every new fact-check added to our database.</p>
+
+    <p><strong>RSS Endpoint:</strong> <span class="endpoint">https://verifiedpolicyinstitute.org/feed.xml</span></p>
 
     <h2>Licensing</h2>
     <p>All data provided through our endpoints is released into the public domain. You are free to copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. Truth requires distribution, not restriction.</p>
