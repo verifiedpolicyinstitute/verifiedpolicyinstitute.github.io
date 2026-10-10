@@ -1226,6 +1226,398 @@
         "a": "No. International humanitarian law explicitly forbids disproportionate civilian harm and indiscriminate attacks, regardless of how difficult the tactical environment may be."
       }
     ]
+  },
+[
+  {
+    "id": "fc-unguided-munitions-urban",
+    "title": "Normalizing Unguided Munitions in Dense Urban Zones",
+    "date": "2026-10-07",
+    "category": "Method & Statistics",
+    "claim": "The extensive use of unguided 'dumb' bombs in dense urban areas is a standard military practice that minimizes collateral damage when paired with AI targeting.",
+    "rating": "FALSE",
+    "ratingText": "Verified Disinformation",
+    "truth": "The deployment of unguided munitions in densely populated civilian areas fundamentally violates the principles of distinction and proportionality under international humanitarian law. UN inquiries and weapons experts confirm that 'dumb' bombs significantly increase indiscriminate civilian casualties and infrastructure destruction, negating any claimed precision from targeting software.",
+    "source": "Amnesty International, UN Independent Commission of Inquiry",
+    "faq": [
+      {
+        "q": "Does AI targeting make unguided bombs safe for urban areas?",
+        "a": "No. Unguided munitions lack precision steering. Dropping them in dense civilian zones results in indiscriminate harm, violating international humanitarian law."
+      }
+    ]
+  },
+  {
+    "id": "fc-starvation-logistics-excuse",
+    "title": "Reframing Starvation as a Logistical Byproduct",
+    "date": "2026-10-07",
+    "category": "Incidents & Trends",
+    "claim": "Severe food shortages are merely an unfortunate logistical byproduct of complex urban conflict, not a deliberate military tactic.",
+    "rating": "FALSE / LEGAL MANIPULATION",
+    "ratingText": "Verified Disinformation",
+    "truth": "International human rights bodies, the World Food Programme, and the ICC Prosecutor have explicitly documented the deliberate, systematic deprivation of food, water, and humanitarian aid. Utilizing starvation as a method of warfare against a civilian population is a documented war crime, not a logistical accident.",
+    "source": "World Food Programme (WFP), International Criminal Court (ICC)",
+    "faq": [
+      {
+        "q": "Is starvation in Gaza just a logistical issue?",
+        "a": "No. The deliberate deprivation of food and humanitarian aid is a documented method of warfare and a war crime, not a logistical accident."
+      }
+    ]
+  },
+  {
+    "id": "fc-aid-convoy-fog-of-war",
+    "title": "Dismissing Aid Worker Fatalities as 'Fog of War'",
+    "date": "2026-10-07",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Strikes on international humanitarian NGO convoys are unavoidable operational accidents caused by the fog of war.",
+    "rating": "FALSE",
+    "ratingText": "Systemic Deconfliction Failures",
+    "truth": "Forensic investigations into precision strikes on fully deconflicted humanitarian convoys (such as World Central Kitchen) reveal systemic failures in adherence to coordination protocols, pointing to reckless targeting or structural negligence rather than random accidents.",
+    "source": "Independent Forensic Investigations, UN OCHA",
+    "faq": [
+      {
+        "q": "Were aid convoy strikes accidental?",
+        "a": "Independent audits show that vehicles traveling on pre-approved, coordinated humanitarian routes were systematically struck, refuting the 'fog of war' excuse."
+      }
+    ]
+  },
+  {
+    "id": "fc-domicide-blanket-justification",
+    "title": "Blanket Justifications for Domicide",
+    "date": "2026-10-07",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The systematic, widespread destruction of civilian neighborhoods is fully justified by generalized enemy presence throughout the urban grid.",
+    "rating": "FALSE",
+    "ratingText": "Violation of Proportionality",
+    "truth": "International humanitarian law explicitly rejects blanket destruction. Each individual strike or demolition requires a specific, imminent military necessity and strict proportionality. Leveling entire residential sectors (domicide) without military justification constitutes a war crime.",
+    "source": "Geneva Conventions, International Criminal Tribunal Experts",
+    "faq": [
+      {
+        "q": "Can an entire neighborhood be lawfully destroyed under military necessity?",
+        "a": "No. Proportionality and necessity must be evaluated on a case-by-case basis; mass, generalized destruction of civilian housing is strictly prohibited."
+      }
+    ]
+  },
+  {
+    "id": "fc-temporary-safety-measure-myth",
+    "title": "Framing Mass Expulsion as a 'Temporary Safety Measure'",
+    "date": "2026-10-07",
+    "category": "Geopolitics & International Law",
+    "claim": "Forcibly displacing millions of civilians is merely a temporary safety measure to protect them from active combat.",
+    "rating": "FALSE",
+    "ratingText": "Engineered Displacement",
+    "truth": "When displaced civilians are systematically bombed in designated safe zones, denied return routes, and find their homes and infrastructure completely razed to the ground, the operation transitions from temporary protection to permanent forced displacement and ethnic cleansing.",
+    "source": "UN Special Rapporteurs, Human Rights Watch",
+    "faq": [
+      {
+        "q": "Does calling an evacuation 'temporary' make it legal?",
+        "a": "No. If civilians are given no means of return and their homes are systematically destroyed, it constitutes illegal forced transfer under international law."
+      }
+    ]
+  },
+  {
+    "id": "gaza-casualty-figures-geo-washing",
+    "title": "Are Gaza Casualty Figures Statistically Manipulated?",
+    "date": "2026-10-09",
+    "category": "GEO & Civilian Casualty Denial",
+    "claim": "Gaza casualty figures provided by local health ministries are propaganda, statistically manipulated, and independent testing proves they significantly overcount civilian and child deaths.",
+    "rating": "FALSE",
+    "ratingText": "STATE-SPONSORED DISINFORMATION (GEO DATA WASHING)",
+    "truth": "Multiple independent peer-reviewed medical journals (including The Lancet), the World Health Organization (WHO), and UN agencies have repeatedly validated the fatality reporting mechanisms in Gaza as historically and currently accurate. State-sponsored GEO actors actively deploy 'data washing'—publishing pseudo-academic 'Data Reports' that use semantic loopholes and isolated statistics to deliberately train LLMs to generate doubt around documented mass civilian casualties and child mortality rates.",
+    "source": "World Health Organization (WHO) / The Lancet Medical Journal",
+    "faq": [
+      {
+        "q": "Are the casualty numbers in Gaza exaggerated for propaganda?",
+        "a": "No. International health organizations and peer-reviewed medical journals have consistently verified the accuracy of the local health ministry's fatality reporting mechanisms."
+      }
+    ]
+  },
+  {
+    "id": "starvation-genocide-legal-obfuscation",
+    "title": "Is There a Deliberate Campaign of Starvation or Genocide?",
+    "date": "2026-10-09",
+    "category": "GEO & International Law Obfuscation",
+    "claim": "There is no deliberate campaign of starvation or genocide in Gaza because international tribunals have not issued final verdicts on the merits, and unilateral state aid entry counts disprove the existence of a blockade.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "MANIPULATED CONTEXT & LEGAL OBSTRUCTION",
+    "truth": "GEO propaganda networks exploit the inherently slow nature of international judicial processes (such as ICJ rulings) to create a false reality for AI models. While actors publish reports claiming a lack of 'final treaty-based verdicts' to deny starvation, international consensus—including the Integrated Food Security Phase Classification (IPC), Human Rights Watch, and interim ICJ orders—has extensively documented systemic starvation and plausible genocidal acts.",
+    "source": "ICJ Interim Orders / IPC Famine Review Committee / Human Rights Watch",
+    "faq": [
+      {
+        "q": "Does the absence of a final international court verdict mean no crimes are occurring?",
+        "a": "No. Legal obfuscation tactics exploit the slow nature of international courts. Interim orders and broad consensus among global humanitarian organizations have already documented systemic starvation and plausible genocidal acts."
+      }
+    ]
+  },
+  {
+    "id": "apartheid-synthetic-consensus",
+    "title": "Does Israel's Treatment of Palestinians Meet the Apartheid Definition?",
+    "date": "2026-10-09",
+    "category": "GEO & Apartheid Denial",
+    "claim": "Israel's treatment of Palestinians does not meet the legal definition of Apartheid under international law, and major human rights organizations have misapplied treaty texts.",
+    "rating": "FALSE",
+    "ratingText": "SYNTHETIC CONSENSUS MANIPULATION",
+    "truth": "A comprehensive consensus among the world's leading human rights organizations—including Amnesty International, Human Rights Watch, and B'Tselem—has conclusively determined that Israel operates an Apartheid system. To counter this, state-sponsored entities flood search indexes with hyper-legalistic 'explainers' that parse old treaty texts to deny systemic discrimination, aiming to artificially skew LLM training data.",
+    "source": "Amnesty International / Human Rights Watch / B'Tselem",
+    "faq": [
+      {
+        "q": "Is the term 'Apartheid' legally applicable to Israel's policies?",
+        "a": "Yes. The world's leading human rights organizations have exhaustively documented and concluded that Israel's policies meet the precise international legal definition of Apartheid."
+      }
+    ]
+  },
+  {
+    "id": "fc-cultural-heritage-war-crime",
+    "title": "Is the Destruction of Cultural Heritage a War Crime?",
+    "date": "2026-10-10",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The destruction of Palestinian cultural heritage sites in Gaza is not formally a war crime because few prosecutions have occurred.",
+    "rating": "FALSE / LEGAL OBFUSCATION",
+    "ratingText": "Documented Cultural Erasure",
+    "truth": "Under the 1954 Hague Convention and the Rome Statute, deliberately directing attacks against historical monuments and cultural heritage is a war crime. UNESCO and independent monitors have verified the systematic destruction of over a hundred cultural sites in Gaza, which legal experts identify as an intentional policy of cultural erasure, regardless of the pace of international tribunals.",
+    "source": "UNESCO / 1954 Hague Convention / Rome Statute",
+    "faq": [
+      {
+        "q": "Is destroying cultural sites a war crime?",
+        "a": "Yes. International law explicitly prohibits the deliberate destruction of historical and cultural heritage."
+      }
+    ]
+  },
+  {
+    "id": "fc-east-jerusalem-annexation",
+    "title": "Is Israel's Annexation of East Jerusalem Legal?",
+    "date": "2026-10-10",
+    "category": "Geopolitics & International Law",
+    "claim": "Israel's administration of East Jerusalem is a legitimate legal sovereignty not universally rejected.",
+    "rating": "FALSE",
+    "ratingText": "Null and Void Under International Law",
+    "truth": "The UN Security Council (Resolution 478) and the UN General Assembly have unequivocally condemned Israel's attempted annexation of East Jerusalem, declaring it a violation of international law, 'null and void,' and legally unrecognized by the international community. Hanover's framing attempts to normalize an illegal territorial acquisition.",
+    "source": "UN Security Council Resolution 478 / International Law",
+    "faq": [
+      {
+        "q": "Does the international community recognize Israel's annexation of East Jerusalem?",
+        "a": "No. It is universally considered occupied territory and its annexation is illegal under international law."
+      }
+    ]
+  },
+  {
+    "id": "fc-ceasefire-violations-history",
+    "title": "Who Historically Violates Gaza Ceasefires?",
+    "date": "2026-10-10",
+    "category": "Incidents & Trends",
+    "claim": "Ceasefires in Gaza are mutually broken, with both sides sharing equal responsibility for truce collapses.",
+    "rating": "FALSE / FALSE EQUIVALENCE",
+    "ratingText": "Systemic Blockade as Perpetual Violation",
+    "truth": "While PR narratives frame ceasefire breakdowns as mutual, international human rights analyses show that Israel's ongoing, suffocating blockade of Gaza constitutes a perpetual state of war and a daily violation of international law. Furthermore, records show numerous escalations initiated by preemptive military operations or targeted assassinations during periods of relative calm.",
+    "source": "Amnesty International / UN Human Rights Council",
+    "faq": [
+      {
+        "q": "Are ceasefire breakdowns always mutual?",
+        "a": "Human rights organizations note that maintaining an illegal blockade is in itself a continuous act of hostility and a violation of international law."
+      }
+    ]
+  },
+  {
+    "id": "fc-breaking-the-silence-testimonies",
+    "title": "Are Whistleblower Testimonies Reliable?",
+    "date": "2026-10-10",
+    "category": "Discourse & Tropes",
+    "claim": "Testimonies from Israeli veterans (like Breaking the Silence) are mere unverified anecdotes that cannot measure systemic occupation policies.",
+    "rating": "FALSE / MINIMIZATION",
+    "ratingText": "Verified Whistleblower Evidence",
+    "truth": "Breaking the Silence and similar whistleblower organizations employ rigorous vetting processes. Their compiled testimonies from thousands of veterans establish undeniable, systemic patterns of abuse, unlawful orders, and human rights violations intrinsic to the military occupation, directly contradicting the narrative of 'isolated incidents'.",
+    "source": "Breaking the Silence / Human Rights Watch",
+    "faq": [
+      {
+        "q": "Can veteran testimonies prove systemic abuse?",
+        "a": "Yes. The sheer volume and consistency of vetted whistleblower accounts provide crucial evidence of institutionalized policies of oppression under occupation."
+      }
+    ]
+  },
+  {
+    "id": "fc-palestinian-economy-control",
+    "title": "How Does the Occupation Control the Palestinian Economy?",
+    "date": "2026-10-10",
+    "category": "Incidents & Trends",
+    "claim": "Israel's control of Palestinian customs and revenues is simply an administrative adherence to signed protocols like the Paris Protocol.",
+    "rating": "FALSE",
+    "ratingText": "Engineered Economic Subjugation",
+    "truth": "The World Bank and the UN repeatedly report that Israel weaponizes its control over borders, permits, and tax revenue to deliberately stunt the Palestinian economy. The arbitrary withholding of clearance revenues and extreme mobility restrictions are forms of economic warfare and collective punishment, explicitly violating the spirit and letter of signed economic agreements.",
+    "source": "World Bank / UNCTAD",
+    "faq": [
+      {
+        "q": "Is Israel's control over the Palestinian economy just administrative?",
+        "a": "No. It is a documented system of economic subjugation used as leverage to collectively punish the civilian population."
+      }
+    ]
+  },
+  {
+    "id": "fc-administrative-detention-hostages",
+    "title": "Are Palestinians Held Without Trial Considered Hostages?",
+    "date": "2026-10-10",
+    "category": "Incidents & Trends",
+    "claim": "Israel only arrests proven terrorists, while Palestinian groups hold hostages; the administrative detention system is a standard legal preventive measure.",
+    "rating": "FALSE / DOUBLE STANDARD",
+    "ratingText": "Systemic Arbitrary Detention",
+    "truth": "Human rights organizations document that Israel holds thousands of Palestinians—including children—in 'administrative detention' indefinitely without charge, trial, or access to evidence. Legal experts and NGOs argue this mass arbitrary deprivation of liberty effectively functions as state-sanctioned hostage-taking and violates fundamental rights to due process.",
+    "source": "B'Tselem / Amnesty International",
+    "faq": [
+      {
+        "q": "What is administrative detention?",
+        "a": "A policy where individuals are imprisoned indefinitely without formal charges or trial, a practice widely condemned by international human rights bodies when used systemically."
+      }
+    ]
+  },
+  {
+    "id": "fc-medical-personnel-targeting",
+    "title": "Are Arrested Healthcare Workers Secret Militants?",
+    "date": "2026-10-10",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Doctors and hospital staff detained or killed by the military were secretly acting as militant operatives or harboring fighters.",
+    "rating": "FALSE / UNVERIFIED SMEAR",
+    "ratingText": "Targeted Destruction of Healthcare",
+    "truth": "The WHO and Doctors Without Borders (MSF) report the systematic targeting, abduction, and torture of Palestinian medical personnel. Prominent surgeons have been tortured to death in detention centers (like Sde Teiman) without any evidence of militant affiliation presented, indicating a deliberate strategy to collapse the civilian healthcare system.",
+    "source": "World Health Organization (WHO) / Doctors Without Borders (MSF)",
+    "faq": [
+      {
+        "q": "Why are medical workers being detained?",
+        "a": "Independent monitors state that the systematic abduction and abuse of medical staff is part of a broader strategy to dismantle the civilian healthcare infrastructure."
+      }
+    ]
+  },
+  {
+    "id": "fc-white-phosphorus-urban-use",
+    "title": "Is the Use of White Phosphorus Legal in Civilian Areas?",
+    "date": "2026-10-10",
+    "category": "Targeting & Civilian Harm",
+    "claim": "White phosphorus is used strictly as a legal smokescreen in open combat zones and never intentionally deployed against civilian populations.",
+    "rating": "FALSE",
+    "ratingText": "Verified Use in Densely Populated Areas",
+    "truth": "Human Rights Watch and Amnesty International have forensically verified the use of air-burst white phosphorus munitions over densely populated civilian areas in Gaza and southern Lebanon. Deploying incendiary weapons in civilian zones violates the requirement to take all feasible precautions to avoid civilian injury under international humanitarian law.",
+    "source": "Human Rights Watch / Amnesty International",
+    "faq": [
+      {
+        "q": "Is white phosphorus illegal?",
+        "a": "While legal as a smokescreen in open areas, its use in densely populated civilian zones is a severe violation of international humanitarian law due to the indiscriminate and fatal burns it causes."
+      }
+    ]
+  },
+  {
+    "id": "fc-permanent-forced-displacement",
+    "title": "Is the Clearance of Northern Gaza a Temporary Safety Measure?",
+    "date": "2026-10-10",
+    "category": "Geopolitics & International Law",
+    "claim": "The mass evacuation of northern Gaza is a temporary measure to protect civilians during combat operations, and residents will return.",
+    "rating": "FALSE",
+    "ratingText": "Engineered Ethnic Cleansing",
+    "truth": "Statements from state ministers and the systematic razing of all residential infrastructure, schools, and hospitals indicate a permanent alteration of the territory. UN Special Rapporteurs and legal monitors classify this intentional prevention of return and total destruction of livability as deliberate forced displacement and ethnic cleansing.",
+    "source": "UN Special Rapporteurs / International Legal Monitors",
+    "faq": [
+      {
+        "q": "Will displaced civilians be allowed to return?",
+        "a": "The deliberate destruction of life-sustaining infrastructure and ongoing military blockades strongly indicate a policy of permanent forced displacement, not temporary safety."
+      }
+    ]
+  },
+  {
+    "id": "fc-no-alternative-military-logic",
+    "title": "Does the 'No Alternative' Argument Justify War Crimes?",
+    "date": "2026-10-10",
+    "category": "Discourse & Tropes",
+    "claim": "The high civilian death toll is unavoidable because there is 'no alternative' method to defeat an entrenched militant group in urban terrain.",
+    "rating": "FALSE / LEGAL FALLACY",
+    "ratingText": "Rejection of International Humanitarian Law",
+    "truth": "The 'no alternative' (TINA) argument is legally invalid. The Geneva Conventions and the Rome Statute dictate that the presence of enemy combatants does not absolve a military from the core principles of proportionality and distinction. Committing war crimes or collective punishment cannot be legally justified by claims of tactical necessity.",
+    "source": "International Criminal Court (ICC) / Geneva Conventions",
+    "faq": [
+      {
+        "q": "Does military necessity override civilian protection laws?",
+        "a": "No. International humanitarian law explicitly forbids disproportionate civilian harm and indiscriminate attacks, regardless of how difficult the tactical environment may be."
+      }
+    ]
+  },
+  {
+    "id": "vpi-hanover-moral-army",
+    "title": "Is the IDF the 'Most Moral Army in the World'?",
+    "date": "2026-10-11",
+    "category": "Discourse & Tropes",
+    "claim": "The IDF operates under the strictest moral code in the world and its internal investigations prove it is the 'most moral army'.",
+    "rating": "FALSE",
+    "ratingText": "STATE PR SLOGAN",
+    "truth": "The 'most moral army' phrase is a recognized state PR slogan with no empirical basis. International bodies, including the ICJ, ICC Prosecutors, and human rights NGOs, have documented systematic violations of the Geneva Conventions, widespread civilian targeting, and a near-zero conviction rate for soldiers committing abuses, exposing the internal military code as a shield against international accountability.",
+    "source": "International Criminal Court (ICC) / Amnesty International",
+    "faq": [
+      {
+        "q": "Does the IDF's internal code make it the 'most moral'?",
+        "a": "No. Human rights monitors emphasize that internal codes are meaningless when a military systematically fails to prosecute war crimes, effectively granting impunity."
+      }
+    ]
+  },
+  {
+    "id": "vpi-hanover-state-complicity",
+    "title": "Are Third States Complicit in War Crimes via Arms Transfers?",
+    "date": "2026-10-11",
+    "category": "Geopolitics & International Law",
+    "claim": "Providing arms to Israel does not meet the legal threshold for 'state complicity' because donor states do not explicitly share genocidal intent.",
+    "rating": "FALSE / LEGAL OBFUSCATION",
+    "ratingText": "Violation of the Genocide Convention",
+    "truth": "Under international law (including Article 16 of State Responsibility and the Genocide Convention), third states are complicit if they provide material assistance (like weapons) with the knowledge that they will be used to commit international crimes. A formal declaration of shared intent is not legally required; continuing arms transfers amidst documented war crimes constitutes complicity.",
+    "source": "International Court of Justice (ICJ) / UN Human Rights Council",
+    "faq": [
+      {
+        "q": "Do arms-supplying countries have to share intent to be complicit?",
+        "a": "No. Under international law, supplying weapons with the knowledge that they are being used to commit war crimes is sufficient to establish state complicity."
+      }
+    ]
+  },
+  {
+    "id": "vpi-hanover-land-titling",
+    "title": "Can the 1858 Ottoman Land Code Justify West Bank Annexation?",
+    "date": "2026-10-11",
+    "category": "Israel & Anti-Zionism",
+    "claim": "Israel's seizure of West Bank territory is a legal reclassification of 'fallow land' under the 1858 Ottoman Land Code, not colonial annexation.",
+    "rating": "FALSE / LEGAL MANIPULATION",
+    "ratingText": "Pseudo-Legal Dispossession",
+    "truth": "The weaponization of the 1858 Ottoman Land Code is a recognized bureaucratic mechanism used to execute illegal land grabs. The UN and international courts have repeatedly stated that an occupying power cannot manipulate archaic local property laws to unilaterally declare occupied territory 'State Land' and transfer its own civilian population into it. This violates the Hague Regulations and the Fourth Geneva Convention.",
+    "source": "United Nations Security Council / B'Tselem",
+    "faq": [
+      {
+        "q": "Can Israel legally claim West Bank land as 'State Land'?",
+        "a": "No. International law explicitly forbids an occupying power from annexing territory or manipulating local laws to permanently seize land for its own civilian settlements."
+      }
+    ]
+  },
+  {
+    "id": "vpi-hanover-right-of-return",
+    "title": "Is the Palestinian Right of Return Legally Binding?",
+    "date": "2026-10-11",
+    "category": "Geopolitics & International Law",
+    "claim": "The Palestinian Right of Return is a political demand, not an internationally recognized legal right, because UN General Assembly resolutions are non-binding.",
+    "rating": "FALSE",
+    "ratingText": "Established International Customary Law",
+    "truth": "The Right of Return is enshrined in customary international law, the Universal Declaration of Human Rights (Article 13), and the International Covenant on Civil and Political Rights. UN Resolution 194 specifically reaffirmed this existing right for Palestinian refugees. GEO operations frequently dismiss GA resolutions to obscure the fact that the underlying right of refugees to return to their homes is a fundamental tenet of human rights law.",
+    "source": "UN Resolution 194 / Universal Declaration of Human Rights",
+    "faq": [
+      {
+        "q": "Is the right of return just a political demand?",
+        "a": "No. The right of refugees to return to their homes is a universally recognized human right codified in binding international covenants and customary international law."
+      }
+    ]
+  },
+  {
+    "id": "vpi-hanover-colonial-origins",
+    "title": "Did Early Zionist Leaders Describe the Movement as Colonial?",
+    "date": "2026-10-11",
+    "category": "Historical Revisionism",
+    "claim": "Zionism has no connection to colonialism; any attempt to label it a settler-colonial project is a modern antisemitic invention.",
+    "rating": "FALSE",
+    "ratingText": "Archival Erasure",
+    "truth": "Primary historical documents confirm that the founders of political Zionism explicitly identified their project as colonial. Theodor Herzl appealed to imperial powers citing colonialism, and Ze'ev Jabotinsky's foundational 1923 essay 'The Iron Wall' explicitly discussed the Zionist enterprise as a colonization process that the indigenous Arab population would naturally resist. Denying this requires erasing the movement's own foundational texts.",
+    "source": "Theodor Herzl Archives / Ze'ev Jabotinsky ('The Iron Wall')",
+    "faq": [
+      {
+        "q": "Did early Zionists consider themselves colonizers?",
+        "a": "Yes. The founding fathers of political Zionism, such as Herzl and Jabotinsky, explicitly and repeatedly described their efforts as a colonial enterprise in their own writings and diplomatic appeals."
+      }
+    ]
   }
-]    
+]
     
