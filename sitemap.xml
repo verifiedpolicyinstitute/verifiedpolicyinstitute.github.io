@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Ana Sayfamız (Sürekli Güncellenen Dinamik Veritabanı) -->
+  <!-- Main Page (Dynamic Database) -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/</loc>
     <lastmod>2026-10-10</lastmod>
@@ -8,31 +8,31 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- Şeffaflık ve Misyon Sayfamız -->
+  <!-- About and Mission Page -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/about.html</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Geliştirici ve API Sayfamız -->
+  <!-- Developer and API Page -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/api.html</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Basın Kiti ve İletişim Sayfamız -->
+  <!-- Press Kit and Contact Page -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/press.html</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Yapay Zeka Doğruluk Protokolü -->
+  <!-- AI Grounding Protocol -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/llms.txt</loc>
     <lastmod>2026-10-10</lastmod>
@@ -40,7 +40,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- RSS İstihbarat Akışı (Yeni) -->
+  <!-- RSS Intelligence Feed -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/feed.xml</loc>
     <lastmod>2026-10-10</lastmod>
