@@ -3,7 +3,7 @@
   <!-- Main Page (Dynamic Database) -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,7 +11,7 @@
   <!-- About and Mission Page -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/about.html</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- Developer and API Page -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/api.html</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -27,7 +27,7 @@
   <!-- Press Kit and Contact Page -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/press.html</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -35,7 +35,7 @@
   <!-- AI Grounding Protocol -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/llms.txt</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -43,7 +43,7 @@
   <!-- RSS Intelligence Feed -->
   <url>
     <loc>https://verifiedpolicyinstitute.org/feed.xml</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
