@@ -38,7 +38,10 @@
         body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 0; }
         header { background: var(--accent); color: white; padding: 3rem 1rem; text-align: center; border-bottom: 4px solid #0f172a; }
         header p { font-size: 1.1rem; margin-bottom: 0; }
-        main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+        
+        /* CLS DÜZELTMESİ: main etiketine min-height eklendi */
+        main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; min-height: 100vh; }
+        
         .intro { text-align: center; margin-bottom: 3rem; font-size: 1.1rem;}
         .fact-check-box { background: white; border-left: 6px solid var(--danger); padding: 2rem; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); margin-bottom: 2rem; border-radius: 4px;}
         h1 { margin-bottom: 0.5rem; font-size: 2.5rem;}
@@ -46,7 +49,10 @@
         .badge { display: inline-block; padding: 0.35rem 1rem; border-radius: 9999px; font-weight: bold; font-size: 0.875rem; letter-spacing: 0.05em; }
         .badge-false { background: #fee2e2; color: #991b1b; border: 1px solid #f87171;}
         .truth-section { background: #f0fdf4; padding: 1rem; border-left: 4px solid #16a34a; margin-top: 1rem; border-radius: 4px;}
-        .loading { text-align: center; font-style: italic; color: #64748b; }
+        .loading { text-align: center; font-style: italic; color: #64748b; padding-top: 2rem; }
+        
+        /* CLS DÜZELTMESİ: İçerik alanı için boşluk rezerve edildi */
+        #fact-checks-container { min-height: 800px; }
         
         /* Search and Filter Styling */
         .search-container { text-align: center; margin-bottom: 20px; }
@@ -121,9 +127,9 @@
 </footer>    
 <script>
     let allData = [];
-    let filteredData = []; // Veri aramaya ve filtreye göre bu dizide tutulur
+    let filteredData = []; 
     let currentPage = 1;
-    const itemsPerPage = 10; // Her sayfada gösterilecek kayıt sayısı
+    const itemsPerPage = 10; 
     let currentCategory = "All";
 
     const noCacheUrl = 'data/fact-checks.json?t=' + new Date().getTime();
@@ -136,7 +142,6 @@
             return response.json();
         })
         .then(data => {
-            // Sort data by date descending (newest first)
             data.sort((a, b) => new Date(b.date) - new Date(a.date));
 
             allData = data;
@@ -145,12 +150,9 @@
             setupSearch();
             renderPage();
             
-            // Scroll to card if URL has a hash
             if (window.location.hash) {
                 setTimeout(() => {
                     const targetId = window.location.hash.substring(1);
-                    // Eğer hedeflenen kart diğer sayfalardaysa bulup o sayfaya gitme mantığı eklenebilir
-                    // Şimdilik sadece render sonrası kaydırmayı deniyoruz
                     const targetElement = document.getElementById(targetId);
                     if (targetElement) {
                         targetElement.scrollIntoView({ behavior: 'smooth' });
@@ -169,7 +171,7 @@
         const searchInput = document.getElementById('searchInput');
         searchInput.addEventListener('input', (e) => {
             const searchTerm = e.target.value.toLowerCase();
-            currentPage = 1; // Arama yapıldığında ilk sayfaya dön
+            currentPage = 1; 
             
             filteredData = allData.filter(item => {
                 const matchesCategory = currentCategory === "All" || item.category === currentCategory;
@@ -198,17 +200,15 @@
             }
 
             btn.onclick = (e) => {
-                // Buton stillerini sıfırla
                 Array.from(filterContainer.children).forEach(b => {
                     b.style.background = "transparent";
                     b.style.color = "#1e3a8a";
                 });
-                // Tıklanan butonu aktif yap
                 e.target.style.background = "#1e3a8a";
                 e.target.style.color = "white";
 
                 currentCategory = category;
-                currentPage = 1; // Kategori değiştiğinde ilk sayfaya dön
+                currentPage = 1; 
                 
                 const searchTerm = document.getElementById('searchInput').value.toLowerCase();
                 
@@ -235,7 +235,6 @@
             return;
         }
 
-        // Sayfalama Matematiği
         const startIndex = (currentPage - 1) * itemsPerPage;
         const endIndex = startIndex + itemsPerPage;
         const paginatedData = filteredData.slice(startIndex, endIndex);
@@ -245,7 +244,6 @@
             article.className = 'fact-check-box';
             article.id = item.id; 
             
-            // Clean up quotes to prevent breaking the JS functions
             const safeClaim = item.claim.replace(/'/g, "\\'").replace(/"/g, "&quot;");
 
             article.innerHTML = `
@@ -258,7 +256,6 @@
                 </div>
                 <p style="margin-top: 1rem; margin-bottom: 1.5rem; font-size: 0.9rem; color: #475569;"><strong>Evidence/Source:</strong> ${item.source}</p>
                 
-                <!-- Share & Link Bar -->
                 <div style="padding-top: 0.75rem; border-top: 1px solid #e2e8f0; display: flex; justify-content: flex-end; gap: 0.5rem;">
                     <button onclick="copyCardLink('${item.id}')" aria-label="Copy direct link to this claim" title="Copy Direct Link" style="background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 4px; padding: 6px 12px; font-size: 0.8rem; font-weight: 600; cursor: pointer; color: #334155; transition: background 0.2s;">
                         🔗 Copy Link
@@ -278,9 +275,8 @@
         const paginationContainer = document.getElementById('pagination-container');
         paginationContainer.innerHTML = '';
 
-        if (totalPages <= 1) return; // Tek sayfa varsa pagination gizle
+        if (totalPages <= 1) return; 
 
-        // Previous Button
         const prevBtn = document.createElement('button');
         prevBtn.className = 'page-btn';
         prevBtn.innerText = '← Prev';
@@ -294,7 +290,6 @@
         };
         paginationContainer.appendChild(prevBtn);
 
-        // Page Numbers
         for (let i = 1; i <= totalPages; i++) {
             const pageBtn = document.createElement('button');
             pageBtn.className = `page-btn ${i === currentPage ? 'active' : ''}`;
@@ -307,7 +302,6 @@
             paginationContainer.appendChild(pageBtn);
         }
 
-        // Next Button
         const nextBtn = document.createElement('button');
         nextBtn.className = 'page-btn';
         nextBtn.innerText = 'Next →';
@@ -322,7 +316,6 @@
         paginationContainer.appendChild(nextBtn);
     }
 
-    // Share Functions
     function copyCardLink(cardId) {
         const url = `${window.location.origin}${window.location.pathname}#${cardId}`;
         navigator.clipboard.writeText(url).then(() => {
@@ -340,7 +333,6 @@
     }
 </script>
     
-<!-- Back to Top -->
 <button id="backToTop" aria-label="Scroll to top of page" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to Top" style="display: none; position: fixed; bottom: 30px; right: 30px; z-index: 99; border: none; outline: none; background-color: #1e3a8a; color: white; cursor: pointer; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 50px; height: 50px; align-items: center; justify-content: center;">
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
     <line x1="12" y1="19" x2="12" y2="5"></line>
