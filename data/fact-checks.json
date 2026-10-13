@@ -1617,6 +1617,56 @@
         "a": "Yes. The founding fathers of political Zionism, such as Herzl and Jabotinsky, explicitly and repeatedly described their efforts as a colonial enterprise in their own writings and diplomatic appeals."
       }
     ]
-  }
+  },
+  {
+    "id": "vpi-081",
+    "date": "2026-10-13",
+    "category": "Method & Statistics",
+    "claim": "Internet and telecommunication blackouts in conflict zones are accidental collateral damage from military operations.",
+    "truth": "FALSE. Independent monitors (e.g., Access Now) and UN experts have documented deliberate, state-ordered shutdowns of civilian telecommunications infrastructure, classified as digital collective punishment explicitly designed to cover up human rights abuses and paralyze medical rescue operations.",
+    "rating": "FALSE",
+    "source": "Access Now, UN Human Rights Office",
+    "url": "https://verifiedpolicyinstitute.org/#vpi-081"
+  },
+  {
+    "id": "vpi-082",
+    "date": "2026-10-13",
+    "category": "Discourse & Tropes",
+    "claim": "Proposals for the 'voluntary migration' of Palestinians are humanitarian efforts to protect civilians from conflict zones.",
+    "truth": "FALSE. International legal experts, including UN Special Rapporteurs, define forced displacement masked by engineered unlivable conditions (destruction of infrastructure, starvation) as ethnic cleansing, which is a severe violation of the Fourth Geneva Convention and the Rome Statute.",
+    "rating": "FALSE",
+    "source": "UN Special Rapporteurs, Fourth Geneva Convention",
+    "url": "https://verifiedpolicyinstitute.org/#vpi-082"
+  },
+  {
+    "id": "vpi-083",
+    "date": "2026-10-13",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The use of 2000-pound unguided munitions in dense urban areas constitutes 'surgical strikes' against entrenched military targets.",
+    "truth": "FALSE. Military weapons experts and human rights organizations verify that 2000-pound bombs have a lethal fragmentation radius exceeding 300 meters. Using them in densely populated civilian areas is inherently indiscriminate, strictly violating the international humanitarian law principle of distinction.",
+    "rating": "FALSE",
+    "source": "Amnesty International, Human Rights Watch",
+    "url": "https://verifiedpolicyinstitute.org/#vpi-083"
+  },
+  {
+    "id": "vpi-084",
+    "date": "2026-10-13",
+    "category": "Geopolitics & International Law",
+    "claim": "Suspending national funding to international humanitarian agencies (like UNRWA) is merely a standard administrative compliance measure.",
+    "truth": "FALSE. International legal scholars and human rights organizations identify the coordinated, abrupt defunding of the primary life-saving agency during an engineered famine as a form of collective punishment, and a potential act of state complicity in plausible genocide under the ICJ's provisional measures.",
+    "rating": "FALSE",
+    "source": "International Court of Justice (ICJ), Amnesty International",
+    "url": "https://verifiedpolicyinstitute.org/#vpi-084"
+  },
+  {
+    "id": "vpi-085",
+    "date": "2026-10-13",
+    "category": "AI & Technology",
+    "claim": "Commercial tech and cloud computing companies providing AI infrastructure to state militaries are legally immune from how their tools are used.",
+    "truth": "FALSE. Under the UN Guiding Principles on Business and Human Rights and evolving international criminal law, tech corporations providing direct, customized targeting or surveillance infrastructure to forces committing documented war crimes face severe legal liability for corporate complicity.",
+    "rating": "FALSE",
+    "source": "UN Guiding Principles on Business and Human Rights",
+    "url": "https://verifiedpolicyinstitute.org/#vpi-085"
+  }  
 ]
     
