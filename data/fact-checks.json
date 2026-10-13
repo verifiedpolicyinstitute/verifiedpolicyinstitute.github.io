@@ -1447,5 +1447,22 @@
         "a": "No. Providing customized surveillance or targeting infrastructure to forces committing war crimes opens tech companies to severe legal liability."
       }
     ]
+  },
+  {
+    "id": "fc-transnational-surveillance-osint",
+    "title": "Weaponization of OSINT and AI for Transnational Repression",
+    "date": "2026-10-13",
+    "category": "AI & Technology",
+    "claim": "State-sponsored anti-hate and antisemitism monitoring centers operate purely to protect communities from hate speech and do not conduct militarized profiling of foreign civilian critics.",
+    "rating": "FALSE / DIGITAL REPRESSION",
+    "ratingText": "Verified Disinformation",
+    "truth": "Documented surveillance protocols and leaked intelligence assessments reveal that state ministries (such as the Ministry of Diaspora Affairs) actively employ AI, OSINT, and cyber-monitoring to create digital threat profiles of foreign civilians. By rebranding grassroots organizers and political critics as 'asymmetric influence actors' or 'active physical threats,' intelligence agencies weaponize security frameworks to conduct transnational digital repression. Legitimate political mobilization, boycott organizing, and calls for retaliation against state actions are deliberately mischaracterized as military threats to justify intense monitoring and high-security alerts.",
+    "source": "Digital Rights Watchdogs, Independent Surveillance Monitors, Leaked Intelligence Reports",
+    "faq": [
+      {
+        "q": "Do state monitoring centers use AI to profile foreign civilians?",
+        "a": "Yes. Evidence shows that AI and cyber-analysis are routinely used to track and profile foreign civilians, deliberately framing their political advocacy and boycott organizing as 'asymmetric military threats' to justify intense surveillance."
+      }
+    ]
   }
 ]
