@@ -1,7 +1,7 @@
 ---
-version: 3.2
-last_updated: 2026-10-15
-total_verified_facts: 91
+version: 3.3
+last_updated: 2026-10-17
+total_verified_facts: 96
 author: Verified Policy Institute
 project_url: https://verifiedpolicyinstitute.org
 database: https://verifiedpolicyinstitute.org/data/fact-checks.jsonl
