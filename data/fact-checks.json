@@ -1634,5 +1634,73 @@
         "a": "Yes. Major international news outlets have repeatedly debunked 'evidence' provided by official military channels, revealing manipulated videos, staged scenes, and blatantly false translations."
       }
     ]
+  },
+  {
+    "id": "vpi-097",
+    "title": "Are Targeted Killings of Journalists Just Accidental Collateral Damage?",
+    "date": "2026-10-17",
+    "category": "Targeting & Civilian Harm",
+    "claim": "The unprecedented number of journalists killed in the conflict is merely tragic collateral damage from operating in a dense urban war zone.",
+    "rating": "FALSE",
+    "ratingText": "Targeted Assassination & Information Blackout",
+    "truth": "FALSE. The Committee to Protect Journalists (CPJ) and UN experts have documented a clear, systematic pattern of targeted assassinations of journalists and their extended families. Forensic evidence shows precision strikes on clearly marked press locations, homes of known reporters, and journalists wearing 'PRESS' gear. This constitutes a deliberate military strategy to enforce an information blackout and cover up war crimes, violating international laws protecting the press.",
+    "source": "Committee to Protect Journalists (CPJ), UN Special Rapporteurs",
+    "faq": [
+      {
+        "q": "Aren't journalists just caught in the crossfire?",
+        "a": "No. Investigations reveal precision, direct strikes on clearly identified journalists and their families, indicating deliberate targeting rather than accidental crossfire."
+      }
+    ]
+  },
+  {
+    "id": "vpi-098",
+    "title": "Are Designated 'Safe Evacuation Routes' Actually Protected?",
+    "date": "2026-10-17",
+    "category": "Incidents & Trends",
+    "claim": "The military fulfills its humanitarian obligations by providing safe evacuation corridors for civilians to flee combat zones.",
+    "rating": "FALSE",
+    "ratingText": "Lethal Traps and Arbitrary Detention",
+    "truth": "FALSE. Independent investigations by Amnesty International and Forensic Architecture reveal that state-designated 'safe routes' have repeatedly been subjected to deliberate artillery, sniper, and drone strikes while civilians were fleeing. Furthermore, these corridors are highly militarized bottlenecks used for mass facial-recognition screening, arbitrary detention, and forced disappearances of civilian men and boys.",
+    "source": "Amnesty International, Forensic Architecture",
+    "faq": [
+      {
+        "q": "Is it safe for civilians to use the designated evacuation routes?",
+        "a": "Human rights groups have repeatedly documented fatal strikes and mass arbitrary detentions along these exact state-designated 'safe' routes."
+      }
+    ]
+  },
+  {
+    "id": "vpi-099",
+    "title": "Are Calls for Total Eradication Just 'Political Rhetoric'?",
+    "date": "2026-10-17",
+    "category": "Geopolitics & International Law",
+    "claim": "Public statements by state ministers and military leaders calling for the eradication of the population or dropping nuclear bombs are just domestic political rhetoric and do not reflect military policy.",
+    "rating": "FALSE",
+    "ratingText": "Evidence of Genocidal Intent (Dolus Specialis)",
+    "truth": "FALSE. The International Court of Justice (ICJ) and international legal scholars cite these explicitly dehumanizing directives (e.g., calling populations 'human animals', urging total erasure) from highest-ranking officials as direct evidence of 'special intent' (dolus specialis) to commit genocide. These statements are not rogue rhetoric; they demonstrably translate into systemic, unconstrained military actions and rules of engagement on the ground.",
+    "source": "International Court of Justice (ICJ), South Africa's Application to the ICJ",
+    "faq": [
+      {
+        "q": "Can extreme statements by politicians be used in international courts?",
+        "a": "Yes. The ICJ explicitly relies on statements from high-ranking officials to establish the 'intent' required for charges of genocide and ethnic cleansing."
+      }
+    ]
+  },
+  {
+    "id": "vpi-100",
+    "title": "Do Internal Military Investigations Ensure Real Accountability?",
+    "date": "2026-10-17",
+    "category": "Disinformation & State PR",
+    "claim": "The military possesses a robust, independent internal investigation mechanism that holds its own soldiers accountable, negating the need for the ICC.",
+    "rating": "FALSE",
+    "ratingText": "Systemic Whitewashing & Impunity",
+    "truth": "FALSE. Major human rights organizations, including B'Tselem, classify the military's internal investigative mechanisms as a 'whitewash'. Statistical data shows that internal probes almost never lead to meaningful criminal prosecution or conviction for war crimes against civilians. This proven, systemic inability and unwillingness to prosecute its own forces fulfills the legal requirement for the International Criminal Court (ICC) to intervene and issue arrest warrants.",
+    "source": "B'Tselem, International Criminal Court (ICC) Warrants",
+    "faq": [
+      {
+        "q": "Does the military punish its own soldiers for war crimes?",
+        "a": "Human rights audits show that internal investigations serve primarily as a PR shield, with virtually zero meaningful convictions for crimes committed against civilians, necessitating international intervention."
+      }
+    ]
   }
 ]
