@@ -1549,5 +1549,90 @@
         "a": "Given the high-resolution optics of modern military drones and the systematic nature of multi-vehicle strikes on deconflicted routes, analysts reject the 'split-second error' defense."
       }
     ]
+  },
+  {
+    "id": "vpi-092",
+    "title": "Are Ambulances Targeted Only When Carrying Militants?",
+    "date": "2026-10-17",
+    "category": "Targeting & Civilian Harm",
+    "claim": "Strikes on ambulances only occur when they are actively being used by militants to transport fighters or weapons.",
+    "rating": "FALSE",
+    "ratingText": "Systematic Violation of Medical Neutrality",
+    "truth": "FALSE. The Palestinian Red Crescent Society (PRCS), Human Rights Watch, and the UN have documented the systematic, unprovoked targeting of clearly marked emergency vehicles and paramedics on duty. Numerous lethal strikes occurred on pre-coordinated, deconflicted routes where no militant presence was detected, constituting a severe violation of the Geneva Conventions regarding medical neutrality.",
+    "source": "Palestine Red Crescent Society (PRCS), Human Rights Watch",
+    "faq": [
+      {
+        "q": "Is bombing an ambulance ever legal?",
+        "a": "Ambulances lose protection only if actively used for acts harmful to the enemy. However, independent probes repeatedly find no evidence of such use in numerous fatal strikes on PRCS convoys."
+      }
+    ]
+  },
+  {
+    "id": "vpi-093",
+    "title": "Does AI Targeting Enforce Strict Civilian Protection Limits?",
+    "date": "2026-10-17",
+    "category": "AI & Technology",
+    "claim": "AI targeting systems enforce a strict, minimal collateral damage ratio to protect civilians during urban strikes.",
+    "rating": "FALSE",
+    "ratingText": "Algorithmic Tolerance for Mass Casualties",
+    "truth": "FALSE. Investigative reports based on intelligence leaks reveal that military AI systems (like 'Lavender') were pre-programmed with highly permissive collateral damage limits. Commanders routinely authorized strikes expecting up to 15-20 civilian deaths for low-level operatives, and up to 100+ civilians for senior commanders. This exposes a systemic algorithmic tolerance for disproportionate mass casualties, violating international humanitarian law.",
+    "source": "+972 Magazine, Independent Intelligence Audits",
+    "faq": [
+      {
+        "q": "Do military AI systems minimize civilian deaths?",
+        "a": "No. Leaked operational guidelines show these systems were calibrated to accept deliberately high civilian death tolls (dozens to over a hundred) per single target."
+      }
+    ]
+  },
+  {
+    "id": "vpi-094",
+    "title": "Is the Blockade Only Restricting Weapons and Explosives?",
+    "date": "2026-10-17",
+    "category": "Incidents & Trends",
+    "claim": "The border blockade only restricts weapons; all essential medical supplies and humanitarian goods are allowed free entry.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Weaponization of 'Dual-Use' Classifications",
+    "truth": "FALSE. International medical NGOs (e.g., Doctors Without Borders) and the UN report that Israeli authorities arbitrarily classify critical, life-saving medical supplies—including anesthetics, oxygen cylinders, water purifiers, and surgical tools—as 'dual-use' items. These items are systematically rejected at border crossings, forcing surgeons to operate without anesthesia and directly causing preventable civilian deaths.",
+    "source": "Doctors Without Borders (MSF), UN OCHA",
+    "faq": [
+      {
+        "q": "Are medical supplies being blocked from entering Gaza?",
+        "a": "Yes. Crucial medical items like anesthetics and oxygen are routinely turned back under overly broad and arbitrary 'dual-use' security classifications."
+      }
+    ]
+  },
+  {
+    "id": "vpi-095",
+    "title": "Is the Destruction of Civil Registries Accidental?",
+    "date": "2026-10-17",
+    "category": "Disinformation & State PR",
+    "claim": "Damage to municipal buildings holding civil registries and land deeds is unfortunate collateral damage of urban warfare.",
+    "rating": "FALSE",
+    "ratingText": "Bureaucratic Erasure",
+    "truth": "FALSE. The deliberate targeting and destruction of central archive buildings, municipal records, and land registries has been documented by human rights groups as an intentional policy of 'bureaucratic erasure'. By destroying property deeds and civil registries, the occupying power aims to permanently erase Palestinian historical presence and complicate future legal claims for land restitution and right of return.",
+    "source": "Human Rights Watch, Palestinian Central Bureau of Statistics",
+    "faq": [
+      {
+        "q": "Why is the destruction of civil records significant?",
+        "a": "Destroying civil and land registries is a recognized tactic of ethnic cleansing designed to sever a population's legal ties to their land and property."
+      }
+    ]
+  },
+  {
+    "id": "vpi-096",
+    "title": "Do Official State Media Channels Always Present Verified Evidence?",
+    "date": "2026-10-17",
+    "category": "Disinformation & State PR",
+    "claim": "Official state and military social media accounts present rigorously vetted evidence from the frontlines.",
+    "rating": "FALSE",
+    "ratingText": "Fabricated Evidence and OSINT Debunks",
+    "truth": "FALSE. Independent OSINT communities and major journalistic fact-checkers (e.g., BBC Verify, Reuters) have repeatedly caught official state channels posting fabricated evidence. Notorious examples include presenting a simple Arabic calendar as a 'terrorist duty roster', sharing staged footage, and publishing mistranslated videos to falsely justify attacks on civilian infrastructure like hospitals.",
+    "source": "BBC Verify, Reuters Fact Check, OSINT Communities",
+    "faq": [
+      {
+        "q": "Have official military accounts published fake evidence?",
+        "a": "Yes. Major international news outlets have repeatedly debunked 'evidence' provided by official military channels, revealing manipulated videos, staged scenes, and blatantly false translations."
+      }
+    ]
   }
 ]
