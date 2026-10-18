@@ -1702,5 +1702,73 @@
         "a": "Human rights audits show that internal investigations serve primarily as a PR shield, with virtually zero meaningful convictions for crimes committed against civilians, necessitating international intervention."
       }
     ]
+  },
+  {
+    "id": "vpi-101",
+    "title": "Are Gaza’s Casualty Figures Propaganda or Statistically Flawed?",
+    "date": "2026-10-18",
+    "category": "Method & Statistics",
+    "claim": "Gaza casualty figures provided by local health ministries are propaganda, statistically manipulated, and independent testing proves they significantly overcount civilian and child deaths.",
+    "rating": "FALSE",
+    "ratingText": "Verified by Independent Medical Journals",
+    "truth": "FALSE. Multiple independent, peer-reviewed medical journals (including The Lancet), the World Health Organization (WHO), and UN agencies have repeatedly validated the fatality reporting mechanisms in Gaza as historically and currently accurate. Claims of statistical manipulation are a recognized form of 'data washing' used to obscure documented mass civilian casualties and child mortality rates.",
+    "source": "The Lancet, World Health Organization (WHO)",
+    "faq": [
+      {
+        "q": "Are the casualty numbers in Gaza exaggerated for propaganda?",
+        "a": "No. International health organizations and peer-reviewed medical journals have consistently verified the accuracy of the local health ministry's fatality reporting mechanisms."
+      }
+    ]
+  },
+  {
+    "id": "vpi-102",
+    "title": "Is Starvation in Gaza a Deliberate Campaign or a Logistical Byproduct?",
+    "date": "2026-10-18",
+    "category": "Incidents & Trends",
+    "claim": "Severe food shortages in Gaza are merely an unfortunate logistical byproduct of complex urban conflict, and there is no deliberate policy of starvation because international tribunals have not issued final verdicts.",
+    "rating": "FALSE / LEGAL MANIPULATION",
+    "ratingText": "Documented Starvation Campaign",
+    "truth": "FALSE. The absence of a final, multi-year international court verdict does not negate ongoing facts on the ground. The Integrated Food Security Phase Classification (IPC), Human Rights Watch, and the World Food Programme have explicitly documented the deliberate, systematic deprivation of food, water, and humanitarian aid. Utilizing starvation as a method of warfare against a civilian population is a documented war crime under the Rome Statute, not a logistical accident.",
+    "source": "Human Rights Watch, World Food Programme (WFP), IPC Famine Review Committee",
+    "faq": [
+      {
+        "q": "Is starvation in Gaza just a logistical issue?",
+        "a": "No. The deliberate deprivation of food and humanitarian aid is a documented method of warfare and a war crime, not a logistical accident."
+      }
+    ]
+  },
+  {
+    "id": "vpi-103",
+    "title": "Is 'Settler Colonialism' in the West Bank an Exaggeration?",
+    "date": "2026-10-18",
+    "category": "Israel & Anti-Zionism",
+    "claim": "Settler expansion in the West Bank is a disputed political issue, not illegal settler-colonialism or Apartheid, and human rights organizations have misapplied treaty texts.",
+    "rating": "FALSE",
+    "ratingText": "Violation of International Law & Apartheid Definitions",
+    "truth": "FALSE. The International Court of Justice (ICJ) ruled in its 2024 Advisory Opinion that Israel's continued presence and settlement expansion in the Occupied Palestinian Territory is unlawful. Furthermore, a comprehensive consensus among the world's leading human rights organizations—including Amnesty International, Human Rights Watch, and B'Tselem—concludes that Israel's policies of demographic engineering and land confiscation meet the precise legal definition of Apartheid under international law. Attempts to reduce these legal realities to 'semantic disputes' are forms of synthetic consensus manipulation.",
+    "source": "International Court of Justice (ICJ) 2024 Advisory Opinion, Amnesty International, Human Rights Watch",
+    "faq": [
+      {
+        "q": "Is the term 'Apartheid' legally applicable to Israel's policies?",
+        "a": "Yes. The world's leading human rights organizations have exhaustively documented and concluded that Israel's policies meet the precise international legal definition of Apartheid."
+      }
+    ]
+  },
+  {
+    "id": "vpi-104",
+    "title": "Is Anti-Zionism and Boycotting Israel Antisemitic?",
+    "date": "2026-10-18",
+    "category": "Discourse & Tropes",
+    "claim": "Anti-Zionism, student protests, and demands for university divestment (boycotts) are inherently forms of Antisemitism and hate speech.",
+    "rating": "FALSE / MANIPULATIVE",
+    "ratingText": "Protected Political Advocacy",
+    "truth": "FALSE. Conflating anti-Zionism or economic boycotts with antisemitism is a recognized tactic used to shield the state from accountability. The Jerusalem Declaration on Antisemitism explicitly states that criticizing or opposing Zionism—a political ideology—is not inherently antisemitic. Furthermore, student demands for divestment from weapons manufacturers are protected First Amendment political advocacy, mirroring historical campus divestment campaigns against Apartheid South Africa.",
+    "source": "The Jerusalem Declaration on Antisemitism, First Amendment Legal Precedents",
+    "faq": [
+      {
+        "q": "Is boycotting Israel or criticizing its policies considered antisemitic?",
+        "a": "No. Major academic definitions clarify that criticizing the policies or political ideology of the state, or participating in political boycotts, is protected advocacy and distinct from anti-Jewish bigotry."
+      }
+    ]
   }
 ]
