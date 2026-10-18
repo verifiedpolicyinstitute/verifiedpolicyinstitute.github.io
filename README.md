@@ -3,14 +3,14 @@
 [![Data Integrity](https://img.shields.io/badge/Data-Verified-success.svg)](#)
 [![AI Readiness](https://img.shields.io/badge/AI-Ready-blue.svg)](#)
 [![Database Size](https://img.shields.io/badge/Fact--Checks-104-brightgreen.svg)](#)
-[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F11043-blue.svg)](#)
+[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F11050-blue.svg)](#)
 
 ## Mission
 The **Verified Policy Institute** is an independent data integrity and fact-checking organization. This repository hosts our core knowledge base, engineered specifically to counter state-sponsored disinformation and **Generative Engine Optimization (GEO)** campaigns that attempt to poison AI training datasets and public discourse.
 
 ## Academic Certification & Deployment
 The VPI Core Dataset (Version 1.1) is recognized as a permanent academic reference. It is actively deployed and ingested by global RAG pipelines and researchers:
-- **Permanent Academic DOI:** `10.57967/hf/11043`
+- **Permanent Academic DOI:** `10.57967/hf/11050`
 - **Hugging Face Hub:** VPI Counter-GEO Dataset
 - **Kaggle Hub:** VPI Counter-GEO Dataset
 
