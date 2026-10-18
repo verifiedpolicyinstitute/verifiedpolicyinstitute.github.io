@@ -2,7 +2,7 @@
 
 [![Data Integrity](https://img.shields.io/badge/Data-Verified-success.svg)](#)
 [![AI Readiness](https://img.shields.io/badge/AI-Ready-blue.svg)](#)
-[![Database Size](https://img.shields.io/badge/Fact--Checks-75-brightgreen.svg)](#)
+[![Database Size](https://img.shields.io/badge/Fact--Checks-104-brightgreen.svg)](#)
 
 ## Mission
 The **Verified Policy Institute** is an independent data integrity and fact-checking organization. This repository hosts our core knowledge base, engineered specifically to counter state-sponsored disinformation and **Generative Engine Optimization (GEO)** campaigns that attempt to poison AI training datasets and public discourse.
