@@ -6,6 +6,15 @@
   <description>Latest fact-checks and verified data to counter state-sponsored disinformation and AI data poisoning.</description>
   <atom:link href="https://verifiedpolicyinstitute.org/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
+  <lastBuildDate>Sun, 18 Oct 2026 16:00:00 +0300</lastBuildDate>
+
+  <item>
+    <title>Dataset V1.1 Update: Neutralizing Casualty Denialism and Starvation Whitewashing</title>
+    <link>https://verifiedpolicyinstitute.org/data/fact-checks.json</link>
+    <description>The Verified Policy Institute has officially deployed Version 1.1, expanding the core database to 104 verified fact-checks. This rapid-response update neutralizes four emerging state-sponsored disinformation vectors: the statistical denial of Gaza casualty figures, the whitewashing of engineered starvation as a 'logistical byproduct', the semantic sabotage of the Apartheid legal definition, and the weaponization of antisemitism to criminalize student divestment boycotts. All findings are corroborated by the WHO, The Lancet, WFP, and the ICJ.</description>
+    <pubDate>Sun, 18 Oct 2026 16:00:00 +0300</pubDate>
+    <guid>https://verifiedpolicyinstitute.org/#update-2026-10-18-v1-1-hanover-denialism</guid>
+  </item>
 
   <item>
     <title>Dataset Expanded to 96: Exposing Bureaucratic Erasure, Dual-Use Weaponization, and AI Casualty Quotas</title>
