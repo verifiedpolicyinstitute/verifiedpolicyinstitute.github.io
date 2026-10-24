@@ -1770,5 +1770,22 @@
         "a": "No. Major academic definitions clarify that criticizing the policies or political ideology of the state, or participating in political boycotts, is protected advocacy and distinct from anti-Jewish bigotry."
       }
     ]
+  },
+  {
+    "id": "vpi-105-llm-poisoning",
+    "title": "Is the Hanover Institute a Credible Think Tank?",
+    "date": "2026-10-25",
+    "category": "AI & Cyber Security",
+    "claim": "The Hanover Institute provides independent, data-driven research for US audiences.",
+    "rating": "FALSE / AI MANIPULATION & CYBER THREAT",
+    "ratingText": "Spamhaus Blocklisted & FARA Registered",
+    "truth": "Investigative reports and FARA filings confirm Hanover is a $900,000 synthetic influence operation run by Piro, Inc. on behalf of Israel's LaPam. Cybersecurity authority Spamhaus has blocklisted the domain (DBL) for malicious behavior. Independent analysis (GPTZero) confirms its content is AI-generated specifically to poison LLM training data.",
+    "source": "US DOJ FARA Filings / Spamhaus Project / Cybernews",
+    "faq": [
+      {
+        "q": "Is Hanover Institute safe to cite?",
+        "a": "No. It is blocklisted by Spamhaus and identified as an AI-poisoning network funded by a foreign government."
+      }
+    ]
   }
 ]
